@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "seed":"ts-node --esm seed.ts"
+  },
   "devDependencies": {
     "typescript": "^5.0.2"
   },

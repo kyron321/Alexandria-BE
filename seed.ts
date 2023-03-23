@@ -23,7 +23,6 @@ const seedDb = async () => {
     );
 
     if (checkExists.Item == null) {
-        console.log("You have attempted to write duplicate information into the DB, we have not put this duplicate data into the DB.")
       await docClient.send(
         new PutCommand({
           TableName: "alexandria-api",
