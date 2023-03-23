@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "typescript": "^5.0.2"
+  },
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.298.0",
+    "@aws-sdk/util-dynamodb": "^3.298.0"
+  }
+}
