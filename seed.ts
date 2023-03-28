@@ -14,10 +14,10 @@ const seedDb = async () => {
     console.log(book)
     const checkExists = await docClient.send(
       new GetCommand({
-        TableName: "alexandria-api",
+        TableName: "alexandria-db",
         Key: {
-          title: book.title,
           category: book.category,
+          title: book.title,
         },
       })
     );
@@ -25,7 +25,7 @@ const seedDb = async () => {
     if (checkExists.Item == null) {
       await docClient.send(
         new PutCommand({
-          TableName: "alexandria-api",
+          TableName: "alexandria-db",
           Item: book,
         })
       );
