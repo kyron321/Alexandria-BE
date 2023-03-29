@@ -5,7 +5,7 @@ export default [
     author: "J.K. Rowling",
     pageCount: 223,
     price: 10,
-    publicationDate: "1997-06-26",
+    publicationDate: "01/09/2014",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4088/9781408855652.jpg",
     stock: 25,
@@ -16,7 +16,7 @@ export default [
     author: "J.K. Rowling",
     pageCount: 251,
     price: 12,
-    publicationDate: "1998-07-02",
+    publicationDate: "01/09/2014",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4088/9781408855669.jpg",
     stock: 20,
@@ -27,7 +27,7 @@ export default [
     author: "J.K. Rowling",
     pageCount: 317,
     price: 14,
-    publicationDate: "1999-07-08",
+    publicationDate: "01/09/2014",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4088/9781408855676.jpg",
     stock: 15,
@@ -38,7 +38,7 @@ export default [
     author: "J.K. Rowling",
     pageCount: 636,
     price: 18,
-    publicationDate: "2000-07-08",
+    publicationDate: "01/09/2014",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4088/9781408855683.jpg",
     stock: 10,
@@ -49,7 +49,7 @@ export default [
     author: "J.K. Rowling",
     pageCount: 766,
     price: 20,
-    publicationDate: "2003-06-21",
+    publicationDate: "01/09/2014",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4088/9781408855690.jpg",
     stock: 5,
@@ -60,7 +60,7 @@ export default [
     author: "J.K. Rowling",
     pageCount: 607,
     price: 22,
-    publicationDate: "2005-07-16",
+    publicationDate: "01/09/2014",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4088/9781408855706.jpg",
     stock: 3,
@@ -71,7 +71,7 @@ export default [
     author: "J.K. Rowling",
     pageCount: 607,
     price: 25,
-    publicationDate: "2007-07-21",
+    publicationDate: "01/09/2014",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4088/9781408855713.jpg",
     stock: 2,
@@ -82,7 +82,7 @@ export default [
     author: "J.K. Rowling",
     pageCount: 607,
     price: 25,
-    publicationDate: "2014-10-09",
+    publicationDate: "09/10/2014",
     thumbnail:
       "https://cdn.waterstones.com/override/v2/large/9781/4088/9781408856772.jpg",
     stock: 2,
@@ -93,7 +93,7 @@ export default [
     author: "George Orwell",
     pageCount: 328,
     price: 10,
-    publicationDate: "1949-06-08",
+    publicationDate: "10/05/2021",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/3288/9781328869333.jpg",
     stock: 100,
@@ -104,7 +104,7 @@ export default [
     author: "Harper Lee",
     pageCount: 336,
     price: 12,
-    publicationDate: "1960-07-11",
+    publicationDate: "05/10/1989",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9780/0994/9780099419785.jpg",
     stock: 75,
@@ -115,7 +115,7 @@ export default [
     author: "F. Scott Fitzgerald",
     pageCount: 180,
     price: 8,
-    publicationDate: "1925-04-10",
+    publicationDate: "10/04/2018",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4711/9781471173936.jpg",
     stock: 50,
@@ -137,9 +137,9 @@ export default [
     author: "George Orwell",
     pageCount: 112,
     price: 7,
-    publicationDate: "1945-08-17",
+    publicationDate: "07/01/2021",
     thumbnail:
-      "https://cdn.waterstones.com/bookjackets/large/9780/1411/9780141182704.jpg",
+      "https://cdn.waterstones.com/bookjackets/large/9780/2414/9780241453865.jpg",
     stock: 90,
   },
   {
@@ -148,7 +148,7 @@ export default [
     author: "J.R.R. Tolkien",
     pageCount: 1178,
     price: 50,
-    publicationDate: "1954-07-29",
+    publicationDate: "14/10/2021",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9780/0084/9780008471286.jpg",
     stock: 10,
@@ -159,7 +159,7 @@ export default [
     author: "J.D. Salinger",
     pageCount: 224,
     price: 9,
-    publicationDate: "1951-07-16",
+    publicationDate: "01/11/2018",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9780/2419/9780241984758.jpg",
     stock: 40,
@@ -170,7 +170,7 @@ export default [
     author: "J.R.R. Tolkien",
     pageCount: 310,
     price: 10,
-    publicationDate: "1937-09-21",
+    publicationDate: "27/10/2011",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9780/0074/9780007487301.jpg",
     stock: 80,
@@ -181,7 +181,7 @@ export default [
     author: "Paulo Coelho",
     pageCount: 208,
     price: 8,
-    publicationDate: "1988-01-01",
+    publicationDate: "13/11/1995",
     thumbnail:
       "https://cdn.waterstones.com/override/v1/large/9780/0081/9780008144227.jpg",
     stock: 120,
@@ -192,7 +192,7 @@ export default [
     author: "C.S. Lewis",
     pageCount: 746,
     price: 20,
-    publicationDate: "1950-10-16",
+    publicationDate: "01/10/2001",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9780/0071/9780007117307.jpg",
     stock: 55,
@@ -203,7 +203,7 @@ export default [
     author: "Dan Brown",
     pageCount: 489,
     price: 11,
-    publicationDate: "2003-03-18",
+    publicationDate: "28/08/2009",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9780/5521/9780552159715.jpg",
     stock: 65,
@@ -214,7 +214,7 @@ export default [
     author: "Suzanne Collins",
     pageCount: 374,
     price: 12,
-    publicationDate: "2008-09-14",
+    publicationDate: "01/12/2011",
     thumbnail:
       "https://cdn.waterstones.com/override/v1/large/9781/4071/9781407132082.jpg",
     stock: 20,
@@ -225,7 +225,7 @@ export default [
     author: "Suzanne Collins",
     pageCount: 391,
     price: 14,
-    publicationDate: "2009-09-01",
+    publicationDate: "01/12/2011",
     thumbnail:
       "https://cdn.waterstones.com/override/v1/large/9781/4071/9781407132099.jpg",
     stock: 15,
@@ -236,7 +236,7 @@ export default [
     author: "Suzanne Collins",
     pageCount: 390,
     price: 16,
-    publicationDate: "2010-08-24",
+    publicationDate: "01/12/2011",
     thumbnail:
       "https://cdn.waterstones.com/override/v1/large/9781/4071/9781407132105.jpg",
     stock: 10,
@@ -1612,7 +1612,7 @@ export default [
     author: "Sui Ishida",
     pageCount: 224,
     price: 9,
-    publicationDate: "2014-06-17",
+    publicationDate: "18/06/2015",
     thumbnail:
       "https://cdn.waterstones.com/override/v1/large/9781/4215/9781421580364.jpg",
     stock: 30,
@@ -1623,7 +1623,7 @@ export default [
     author: "Sui Ishida",
     pageCount: 208,
     price: 9,
-    publicationDate: "2014-09-16",
+    publicationDate: "27/08/2015",
     thumbnail:
       "https://cdn.waterstones.com/override/v1/large/9781/4215/9781421580371.jpg",
     stock: 25,
@@ -1634,7 +1634,7 @@ export default [
     author: "Sui Ishida",
     pageCount: 200,
     price: 9,
-    publicationDate: "2014-12-16",
+    publicationDate: "22/10/2015",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421580388.jpg",
     stock: 20,
@@ -1645,7 +1645,7 @@ export default [
     author: "Sui Ishida",
     pageCount: 200,
     price: 9,
-    publicationDate: "2015-03-17",
+    publicationDate: "17/12/2015",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421580395.jpg",
     stock: 18,
@@ -1656,7 +1656,7 @@ export default [
     author: "Sui Ishida",
     pageCount: 200,
     price: 9,
-    publicationDate: "2015-06-16",
+    publicationDate: "25/02/2016",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421580401.jpg",
     stock: 15,
@@ -1667,7 +1667,7 @@ export default [
     author: "Sui Ishida",
     pageCount: 200,
     price: 9,
-    publicationDate: "2015-09-15",
+    publicationDate: "21/04/2016",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421580418.jpg",
     stock: 12,
@@ -1678,7 +1678,7 @@ export default [
     author: "Sui Ishida",
     pageCount: 200,
     price: 9,
-    publicationDate: "2016-01-19",
+    publicationDate: "16/06/2016",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421580425.jpg",
     stock: 10,
@@ -1689,7 +1689,7 @@ export default [
     author: "Sui Ishida",
     pageCount: 200,
     price: 9,
-    publicationDate: "2016-05-17",
+    publicationDate: "25/08/2016",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421580432.jpg",
     stock: 8,
@@ -1700,7 +1700,7 @@ export default [
     author: "Sui Ishida",
     pageCount: 200,
     price: 9,
-    publicationDate: "2016-09-20",
+    publicationDate: "20/10/2016",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421580449.jpg",
     stock: 10,
@@ -1711,9 +1711,9 @@ export default [
     author: "Sui Ishida",
     pageCount: 200,
     price: 9,
-    publicationDate: "2017-01-17",
+    publicationDate: "15/12/2016",
     thumbnail:
-      "https://kbimages1-a.akamaihd.net/14f4ea5f-059a-475b-9a96-4dc36983b32d/353/569/90/False/tokyo-ghoul-vol-10.jpg",
+      "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421580456.jpg",
     stock: 6,
   },
   {
@@ -1722,7 +1722,7 @@ export default [
     author: "Sui Ishida",
     pageCount: 200,
     price: 9,
-    publicationDate: "2017-05-16",
+    publicationDate: "09/03/2017",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421580463.jpg",
     stock: 5,
@@ -1733,7 +1733,7 @@ export default [
     author: "Sui Ishida",
     pageCount: 200,
     price: 9,
-    publicationDate: "2017-09-19",
+    publicationDate: "20/04/2017",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421580470.jpg",
     stock: 4,
@@ -1744,7 +1744,7 @@ export default [
     author: "Sui Ishida",
     pageCount: 200,
     price: 9,
-    publicationDate: "2018-01-16",
+    publicationDate: "15/06/2017",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421590424.jpg",
     stock: 3,
@@ -1755,8 +1755,8 @@ export default [
     author: "Sui Ishida",
     pageCount: 200,
     price: 9,
-    publicationDate: "2018-05-15",
-    thumbnail: "https://blackwells.co.uk/jacket/l/9781421590431.jpg",
+    publicationDate: "24/08/2017",
+    thumbnail: "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421590431.jpg",
     stock: 2,
   },
   {
@@ -1776,9 +1776,9 @@ export default [
     author: "Sui Ishida",
     pageCount: 224,
     price: 9,
-    publicationDate: "2017-10-17",
+    publicationDate: "19/10/2017",
     thumbnail:
-      "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/51RYNvJAzZL.jpg",
+      "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421594965.jpg",
     stock: 10,
   },
   {
@@ -1787,7 +1787,7 @@ export default [
     author: "Sui Ishida",
     pageCount: 224,
     price: 9,
-    publicationDate: "2018-01-16",
+    publicationDate: "14/12/2017",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421594972.jpg",
     stock: 9,
@@ -1798,7 +1798,7 @@ export default [
     author: "Sui Ishida",
     pageCount: 224,
     price: 9,
-    publicationDate: "2018-05-15",
+    publicationDate: "22/03/2018",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421594989.jpg",
     stock: 8,
@@ -1809,7 +1809,7 @@ export default [
     author: "Sui Ishida",
     pageCount: 224,
     price: 9,
-    publicationDate: "2018-09-18",
+    publicationDate: "19/04/2018",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421594996.jpg",
     stock: 7,
@@ -1820,7 +1820,7 @@ export default [
     author: "Sui Ishida",
     pageCount: 224,
     price: 9,
-    publicationDate: "2019-01-15",
+    publicationDate: "28/06/2018",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421595009.jpg",
     stock: 6,
@@ -1831,7 +1831,7 @@ export default [
     author: "Sui Ishida",
     pageCount: 224,
     price: 9,
-    publicationDate: "2019-05-21",
+    publicationDate: "23/08/2018",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421595016.jpg",
     stock: 5,
@@ -1842,7 +1842,7 @@ export default [
     author: "Sui Ishida",
     pageCount: 224,
     price: 9,
-    publicationDate: "2019-09-17",
+    publicationDate: "18/10/2018",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421595023.jpg",
     stock: 4,
@@ -1853,7 +1853,7 @@ export default [
     author: "Sui Ishida",
     pageCount: 224,
     price: 9,
-    publicationDate: "2020-01-21",
+    publicationDate: "27/12/2018",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421595030.jpg",
     stock: 3,
@@ -1864,7 +1864,7 @@ export default [
     author: "Sui Ishida",
     pageCount: 224,
     price: 9,
-    publicationDate: "2020-05-19",
+    publicationDate: "21/02/2019",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421598246.jpg",
     stock: 2,
@@ -1875,7 +1875,7 @@ export default [
     author: "Sui Ishida",
     pageCount: 224,
     price: 9,
-    publicationDate: "2020-09-15",
+    publicationDate: "16/05/2019",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421598253.jpg",
     stock: 1,
@@ -1886,7 +1886,7 @@ export default [
     author: "Sui Ishida",
     pageCount: 224,
     price: 9,
-    publicationDate: "2021-01-19",
+    publicationDate: "27/06/2019",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/9747/9781974700387.jpg",
     stock: 0,
@@ -1897,7 +1897,7 @@ export default [
     author: "Sui Ishida",
     pageCount: 224,
     price: 9,
-    publicationDate: "2021-05-18",
+    publicationDate: "05/09/2019",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/9747/9781974700370.jpg",
     stock: 5,
@@ -1908,7 +1908,7 @@ export default [
     author: "Sui Ishida",
     pageCount: 224,
     price: 9,
-    publicationDate: "2021-09-21",
+    publicationDate: "17/10/2019",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/9747/9781974701537.jpg",
     stock: 7,
@@ -1919,7 +1919,7 @@ export default [
     author: "Sui Ishida",
     pageCount: 224,
     price: 9,
-    publicationDate: "2022-01-18",
+    publicationDate: "09/01/2020",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/9747/9781974704453.jpg",
     stock: 8,
@@ -1930,7 +1930,7 @@ export default [
     author: "Sui Ishida",
     pageCount: 224,
     price: 9,
-    publicationDate: "2022-05-17",
+    publicationDate: "19/03/2020",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/9747/9781974704569.jpg",
     stock: 6,
@@ -1941,7 +1941,7 @@ export default [
     author: "Sui Ishida",
     pageCount: 224,
     price: 9,
-    publicationDate: "2022-09-15",
+    publicationDate: "14/05/2020",
     thumbnail:
       "https://cdn.waterstones.com/override/v1/large/9781/9747/9781974707423.jpg",
     stock: 10,
@@ -1952,7 +1952,7 @@ export default [
     author: "Sui Ishida",
     pageCount: 3776,
     price: 9,
-    publicationDate: "2022-12-11",
+    publicationDate: "24/12/2020",
     thumbnail:
       "https://cdn.waterstones.com/override/v1/large/9781/9747/9781974707423.jpg",
     stock: 10,
@@ -1963,7 +1963,7 @@ export default [
     author: "Naoki Urasawa",
     pageCount: 416,
     price: 22,
-    publicationDate: "2018-07-17",
+    publicationDate: "01/11/2018",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421599618.jpg",
     stock: 5,
@@ -1974,7 +1974,7 @@ export default [
     author: "Naoki Urasawa",
     pageCount: 416,
     price: 22,
-    publicationDate: "2018-09-18",
+    publicationDate: "10/01/2019",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421599625.jpg",
     stock: 3,
@@ -1985,7 +1985,7 @@ export default [
     author: "Naoki Urasawa",
     pageCount: 416,
     price: 22,
-    publicationDate: "2018-11-20",
+    publicationDate: "04/04/2019",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421599632.jpg",
     stock: 1,
@@ -1996,7 +1996,7 @@ export default [
     author: "Naoki Urasawa",
     pageCount: 416,
     price: 22,
-    publicationDate: "2019-01-15",
+    publicationDate: "11/07/2019",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421599649.jpg",
     stock: 0,
@@ -2007,7 +2007,7 @@ export default [
     author: "Naoki Urasawa",
     pageCount: 416,
     price: 22,
-    publicationDate: "2019-03-19",
+    publicationDate: "03/10/2019",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421599656.jpg",
     stock: 7,
@@ -2018,7 +2018,7 @@ export default [
     author: "Naoki Urasawa",
     pageCount: 416,
     price: 22,
-    publicationDate: "2019-05-21",
+    publicationDate: "06/02/2020",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421599663.jpg",
     stock: 6,
@@ -2029,7 +2029,7 @@ export default [
     author: "Naoki Urasawa",
     pageCount: 416,
     price: 22,
-    publicationDate: "2019-07-16",
+    publicationDate: "16/04/2020",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421599670.jpg",
     stock: 2,
@@ -2040,7 +2040,7 @@ export default [
     author: "Naoki Urasawa",
     pageCount: 416,
     price: 22,
-    publicationDate: "2019-09-17",
+    publicationDate: "23/07/2020",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421599687.jpg",
     stock: 4,
@@ -2051,7 +2051,7 @@ export default [
     author: "Naoki Urasawa",
     pageCount: 424,
     price: 22,
-    publicationDate: "2020-01-21",
+    publicationDate: "15/10/2020",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421599694.jpg",
     stock: 5,
@@ -2062,7 +2062,7 @@ export default [
     author: "Naoki Urasawa",
     pageCount: 424,
     price: 22,
-    publicationDate: "2020-03-17",
+    publicationDate: "24/12/2020",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421599700.jpg",
     stock: 3,
@@ -2073,7 +2073,7 @@ export default [
     author: "Naoki Urasawa",
     pageCount: 424,
     price: 22,
-    publicationDate: "2020-05-19",
+    publicationDate: "13/05/2021",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421599717.jpg",
     stock: 1,
@@ -2084,7 +2084,7 @@ export default [
     author: "Naoki Urasawa",
     pageCount: 424,
     price: 22,
-    publicationDate: "2020-05-19",
+    publicationDate: "22/07/2021",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421599724.jpg",
     stock: 1,
@@ -2095,7 +2095,7 @@ export default [
     author: "Takehiko Inoue",
     pageCount: 600,
     price: 19.99,
-    publicationDate: "2008-09-16",
+    publicationDate: "03/07/2014",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421520544.jpg",
     stock: 10,
@@ -2106,7 +2106,7 @@ export default [
     author: "Takehiko Inoue",
     pageCount: 640,
     price: 19.99,
-    publicationDate: "2009-02-17",
+    publicationDate: "14/08/2014",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421522449.jpg",
     stock: 7,
@@ -2117,7 +2117,7 @@ export default [
     author: "Takehiko Inoue",
     pageCount: 624,
     price: 19.99,
-    publicationDate: "2009-07-21",
+    publicationDate: "11/09/2014",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421522456.jpg",
     stock: 4,
@@ -2128,7 +2128,7 @@ export default [
     author: "Takehiko Inoue",
     pageCount: 608,
     price: 19.99,
-    publicationDate: "2009-12-15",
+    publicationDate: "09/10/2014",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421522463.jpg",
     stock: 2,
@@ -2139,7 +2139,7 @@ export default [
     author: "Takehiko Inoue",
     pageCount: 608,
     price: 19.99,
-    publicationDate: "2010-06-15",
+    publicationDate: "06/11/2014",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421522470.jpg",
     stock: 6,
@@ -2150,7 +2150,7 @@ export default [
     author: "Takehiko Inoue",
     pageCount: 624,
     price: 19.99,
-    publicationDate: "2010-10-19",
+    publicationDate: "04/12/2014",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421522807.jpg",
     stock: 1,
@@ -2161,7 +2161,7 @@ export default [
     author: "Takehiko Inoue",
     pageCount: 600,
     price: 19.99,
-    publicationDate: "2011-02-15",
+    publicationDate: "01/01/2015",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421522814.jpg",
     stock: 0,
@@ -2183,7 +2183,7 @@ export default [
     author: "Takehiko Inoue",
     pageCount: 640,
     price: 19.99,
-    publicationDate: "2013-01-15",
+    publicationDate: "12/03/2015",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421523132.jpg",
     stock: 3,
@@ -2194,7 +2194,7 @@ export default [
     author: "Takehiko Inoue",
     pageCount: 624,
     price: 19.99,
-    publicationDate: "2013-06-18",
+    publicationDate: "09/04/2015",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421529158.jpg",
     stock: 5,
@@ -2205,7 +2205,7 @@ export default [
     author: "Takehiko Inoue",
     pageCount: 656,
     price: 19.99,
-    publicationDate: "2013-12-17",
+    publicationDate: "07/05/2015",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421549293.jpg",
     stock: 2,
@@ -2216,7 +2216,7 @@ export default [
     author: "Takehiko Inoue",
     pageCount: 640,
     price: 19.99,
-    publicationDate: "2014-06-17",
+    publicationDate: "04/06/2015",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421573342.jpg",
     stock: 1,
@@ -2227,7 +2227,7 @@ export default [
     author: "Junji Ito",
     pageCount: 648,
     price: 19.99,
-    publicationDate: "2013-10-15",
+    publicationDate: "21/11/2013",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421561325.jpg",
     stock: 4,
@@ -2238,7 +2238,7 @@ export default [
     author: "Junji Ito",
     pageCount: 752,
     price: 34.99,
-    publicationDate: "2016-12-20",
+    publicationDate: "15/12/2016",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421590561.jpg",
     stock: 2,
@@ -2249,7 +2249,7 @@ export default [
     author: "Junji Ito",
     pageCount: 432,
     price: 14.99,
-    publicationDate: "2003-12-16",
+    publicationDate: "07/05/2015",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421579153.jpg",
     stock: 6,
@@ -2260,7 +2260,7 @@ export default [
     author: "Junji Ito",
     pageCount: 416,
     price: 22.99,
-    publicationDate: "2019-04-16",
+    publicationDate: "16/05/2019",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421598468.jpg",
     stock: 3,
@@ -2271,7 +2271,7 @@ export default [
     author: "Junji Ito",
     pageCount: 224,
     price: 17.99,
-    publicationDate: "2015-06-16",
+    publicationDate: "08/10/2015",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421580791.jpg",
     stock: 5,
@@ -2282,7 +2282,7 @@ export default [
     author: "Junji Ito",
     pageCount: 408,
     price: 22.99,
-    publicationDate: "2017-12-19",
+    publicationDate: "14/12/2017",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421596938.jpg",
     stock: 2,
@@ -2293,7 +2293,7 @@ export default [
     author: "Junji Ito",
     pageCount: 616,
     price: 34.99,
-    publicationDate: "2019-06-18",
+    publicationDate: "09/01/2020",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/9747/9781974707096.jpg",
     stock: 1,
@@ -2304,7 +2304,7 @@ export default [
     author: "Junji Ito",
     pageCount: 408,
     price: 22.99,
-    publicationDate: "2020-10-20",
+    publicationDate: "01/11/2018",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/9747/9781974703760.jpg",
     stock: 4,
@@ -2315,7 +2315,7 @@ export default [
     author: "Inio Asano",
     pageCount: 448,
     price: 24.99,
-    publicationDate: "2016-03-15",
+    publicationDate: "07/04/2016",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421586205.jpg",
     stock: 3,
@@ -2326,7 +2326,7 @@ export default [
     author: "Inio Asano",
     pageCount: 448,
     price: 24.99,
-    publicationDate: "2016-05-17",
+    publicationDate: "14/07/2016",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421586212.jpg",
     stock: 1,
@@ -2337,7 +2337,7 @@ export default [
     author: "Inio Asano",
     pageCount: 448,
     price: 24.99,
-    publicationDate: "2016-07-19",
+    publicationDate: "06/10/2016",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421586229.jpg",
     stock: 5,
@@ -2348,7 +2348,7 @@ export default [
     author: "Inio Asano",
     pageCount: 448,
     price: 24.99,
-    publicationDate: "2016-09-20",
+    publicationDate: "26/01/2017",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421586236.jpg",
     stock: 0,
@@ -2359,7 +2359,7 @@ export default [
     author: "Inio Asano",
     pageCount: 448,
     price: 24.99,
-    publicationDate: "2016-11-15",
+    publicationDate: "06/04/2017",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421586243.jpg",
     stock: 2,
@@ -2370,7 +2370,7 @@ export default [
     author: "Inio Asano",
     pageCount: 448,
     price: 24.99,
-    publicationDate: "2017-01-17",
+    publicationDate: "13/07/2017",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421586250.jpg",
     stock: 2,
@@ -2381,7 +2381,7 @@ export default [
     author: "Inio Asano",
     pageCount: 448,
     price: 24.99,
-    publicationDate: "2017-03-21",
+    publicationDate: "05/10/2017",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421586267.jpg",
     stock: 0,
@@ -2392,7 +2392,7 @@ export default [
     author: "Eiichiro Oda",
     pageCount: 208,
     price: 9.99,
-    publicationDate: "2003-09-02",
+    publicationDate: "06/10/2008",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5693/9781569319017.jpg",
     stock: 10,
@@ -2403,7 +2403,7 @@ export default [
     author: "Eiichiro Oda",
     pageCount: 208,
     price: 9.99,
-    publicationDate: "2003-11-04",
+    publicationDate: "06/10/2008",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591160571.jpg",
     stock: 7,
@@ -2414,7 +2414,7 @@ export default [
     author: "Eiichiro Oda",
     pageCount: 208,
     price: 9.99,
-    publicationDate: "2004-01-06",
+    publicationDate: "06/10/2008",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591161844.jpg",
     stock: 3,
@@ -2425,7 +2425,7 @@ export default [
     author: "Eiichiro Oda",
     pageCount: 200,
     price: 9.99,
-    publicationDate: "2004-03-02",
+    publicationDate: "06/10/2008",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591163374.jpg",
     stock: 5,
@@ -2436,7 +2436,7 @@ export default [
     author: "Eiichiro Oda",
     pageCount: 208,
     price: 9.99,
-    publicationDate: "2004-05-04",
+    publicationDate: "06/10/2008",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591166153.jpg",
     stock: 9,
@@ -2447,7 +2447,7 @@ export default [
     author: "Eiichiro Oda",
     pageCount: 208,
     price: 9.99,
-    publicationDate: "2004-07-06",
+    publicationDate: "06/10/2008",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591167235.jpg",
     stock: 2,
@@ -2458,7 +2458,7 @@ export default [
     author: "Eiichiro Oda",
     pageCount: 208,
     price: 9.99,
-    publicationDate: "2004-09-07",
+    publicationDate: "06/10/2008",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591168522.jpg",
     stock: 4,
@@ -2469,7 +2469,7 @@ export default [
     author: "Eiichiro Oda",
     pageCount: 208,
     price: 9.99,
-    publicationDate: "2004-11-02",
+    publicationDate: "06/10/2008",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421500751.jpg",
     stock: 0,
@@ -2524,7 +2524,7 @@ export default [
     author: "Tite Kubo",
     pageCount: 192,
     price: 9.99,
-    publicationDate: "July 5, 2005",
+    publicationDate: "03/09/2007",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591164418.jpg",
     stock: 10,
@@ -2535,7 +2535,7 @@ export default [
     author: "Tite Kubo",
     pageCount: 208,
     price: 9.99,
-    publicationDate: "September 6, 2005",
+    publicationDate: "03/09/2007",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591164425.jpg",
     stock: 12,
@@ -2546,7 +2546,7 @@ export default [
     author: "Tite Kubo",
     pageCount: 192,
     price: 9.99,
-    publicationDate: "November 1, 2005",
+    publicationDate: "03/09/2007",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591164432.jpg",
     stock: 8,
@@ -2557,7 +2557,7 @@ export default [
     author: "Tite Kubo",
     pageCount: 192,
     price: 9.99,
-    publicationDate: "January 3, 2006",
+    publicationDate: "05/11/2007",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591164449.jpg",
     stock: 11,
@@ -2568,7 +2568,7 @@ export default [
     author: "Tite Kubo",
     pageCount: 192,
     price: 9.99,
-    publicationDate: "March 7, 2006",
+    publicationDate: "05/11/2007",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591164456.jpg",
     stock: 9,
@@ -2579,7 +2579,7 @@ export default [
     author: "Tite Kubo",
     pageCount: 192,
     price: 9.99,
-    publicationDate: "May 2, 2006",
+    publicationDate: "05/11/2007",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591167280.jpg",
     stock: 13,
@@ -2590,7 +2590,7 @@ export default [
     author: "Tite Kubo",
     pageCount: 192,
     price: 9.99,
-    publicationDate: "July 5, 2006",
+    publicationDate: "07/01/2008",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591168072.jpg",
     stock: 0,
@@ -2634,7 +2634,7 @@ export default [
     author: "Masashi Kishimoto",
     pageCount: 208,
     price: 9,
-    publicationDate: "March 3, 2003",
+    publicationDate: " 03/09/2007",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5693/9781569319000.jpg",
     stock: 20,
@@ -2645,7 +2645,7 @@ export default [
     author: "Masashi Kishimoto",
     pageCount: 192,
     price: 9,
-    publicationDate: "May 5, 2003",
+    publicationDate: "03/09/2007",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591161783.jpg",
     stock: 15,
@@ -2656,7 +2656,7 @@ export default [
     author: "Masashi Kishimoto",
     pageCount: 192,
     price: 9,
-    publicationDate: "July 7, 2003",
+    publicationDate: "03/09/2007",
     thumbnail:
       "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71A6EovDCRL.jpg",
     stock: 25,
@@ -2667,7 +2667,7 @@ export default [
     author: "Masashi Kishimoto",
     pageCount: 5216,
     price: 170,
-    publicationDate: "July 7, 2004",
+    publicationDate: "26/02/2015",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421525822.jpg",
     stock: 50,
@@ -2678,18 +2678,18 @@ export default [
     author: "Masashi Kishimoto",
     pageCount: 4168,
     price: 130,
-    publicationDate: "July 28, 2007",
+    publicationDate: "16/07/2015",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421580807.jpg",
     stock: 25,
   },
   {
-    title: "Naruto: Box Set 2, Vols. 28-48",
+    title: "Naruto: Box Set 3, Vols. 49-72",
     category: "Manga",
     author: "Masashi Kishimoto",
     pageCount: 6688,
     price: 150,
-    publicationDate: "January 9, 2010",
+    publicationDate: "28/01/2016",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421583341.jpg",
     stock: 5,
@@ -2700,7 +2700,7 @@ export default [
     author: "Makoto Yukimura",
     pageCount: 448,
     price: 25,
-    publicationDate: "October 8, 2019",
+    publicationDate: "10/10/2013",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/6126/9781612624204.jpg",
     stock: 10,
@@ -2711,7 +2711,7 @@ export default [
     author: "Makoto Yukimura",
     pageCount: 432,
     price: 25,
-    publicationDate: "December 3, 2019",
+    publicationDate: "23/01/2014",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/6126/9781612624211.jpg",
     stock: 8,
@@ -2722,7 +2722,7 @@ export default [
     author: "Makoto Yukimura",
     pageCount: 432,
     price: 25,
-    publicationDate: "February 4, 2020",
+    publicationDate: "29/04/2014",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/6126/9781612624228.jpg",
     stock: 12,
@@ -2733,7 +2733,7 @@ export default [
     author: "Hajime Isayama",
     pageCount: 960,
     price: 60,
-    publicationDate: "May 27, 2014",
+    publicationDate: "29/05/2014",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/6126/9781612629711.jpg",
     stock: 5,
@@ -2744,7 +2744,7 @@ export default [
     author: "Hajime Isayama",
     pageCount: 960,
     price: 60,
-    publicationDate: "September 16, 2014",
+    publicationDate: "15/10/2015",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/6323/9781632361813.jpg",
     stock: 7,
@@ -2755,7 +2755,7 @@ export default [
     author: "Hajime Isayama",
     pageCount: 960,
     price: 60,
-    publicationDate: "February 17, 2015",
+    publicationDate: "15/09/2016",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/6323/9781632362957.jpg",
     stock: 3,
@@ -2766,7 +2766,7 @@ export default [
     author: "Hajime Isayama",
     pageCount: 960,
     price: 60,
-    publicationDate: "July 7, 2015",
+    publicationDate: "23/08/2018",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/6323/9781632364647.jpg",
     stock: 10,
@@ -2777,7 +2777,7 @@ export default [
     author: "Hajime Isayama",
     pageCount: 960,
     price: 60,
-    publicationDate: "November 3, 2015",
+    publicationDate: "15/10/2020",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/6323/9781632366566.jpg",
     stock: 2,
@@ -2788,7 +2788,7 @@ export default [
     author: "Hajime Isayama",
     pageCount: 960,
     price: 60,
-    publicationDate: "April 26, 2016",
+    publicationDate: "23/11/2021",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/6465/9781646512782.jpg",
     stock: 8,
@@ -2799,7 +2799,7 @@ export default [
     author: "Hajime Isayama",
     pageCount: 960,
     price: 60,
-    publicationDate: "April 26, 2016",
+    publicationDate: "29/11/2022",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/6465/9781646515653.jpg",
     stock: 12,
