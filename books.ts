@@ -4,7 +4,7 @@ export default [
     category: "Fiction",
     author: "J.K. Rowling",
     pageCount: 223,
-    price: 10,
+    price: 7.99,
     publicationDate: "01/09/2014",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4088/9781408855652.jpg",
@@ -15,7 +15,7 @@ export default [
     category: "Fiction",
     author: "J.K. Rowling",
     pageCount: 251,
-    price: 12,
+    price: 7.99,
     publicationDate: "01/09/2014",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4088/9781408855669.jpg",
@@ -26,7 +26,7 @@ export default [
     category: "Fiction",
     author: "J.K. Rowling",
     pageCount: 317,
-    price: 14,
+    price: 7.99,
     publicationDate: "01/09/2014",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4088/9781408855676.jpg",
@@ -37,7 +37,7 @@ export default [
     category: "Fiction",
     author: "J.K. Rowling",
     pageCount: 636,
-    price: 18,
+    price: 8.99,
     publicationDate: "01/09/2014",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4088/9781408855683.jpg",
@@ -48,7 +48,7 @@ export default [
     category: "Fiction",
     author: "J.K. Rowling",
     pageCount: 766,
-    price: 20,
+    price: 8.99,
     publicationDate: "01/09/2014",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4088/9781408855690.jpg",
@@ -59,7 +59,7 @@ export default [
     category: "Fiction",
     author: "J.K. Rowling",
     pageCount: 607,
-    price: 22,
+    price: 8.99,
     publicationDate: "01/09/2014",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4088/9781408855706.jpg",
@@ -70,7 +70,7 @@ export default [
     category: "Fiction",
     author: "J.K. Rowling",
     pageCount: 607,
-    price: 25,
+    price: 8.99,
     publicationDate: "01/09/2014",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4088/9781408855713.jpg",
@@ -80,8 +80,8 @@ export default [
     title: "Harry Potter Box Set",
     category: "Fiction",
     author: "J.K. Rowling",
-    pageCount: 607,
-    price: 25,
+    pageCount: 3872,
+    price: 62.99,
     publicationDate: "09/10/2014",
     thumbnail:
       "https://cdn.waterstones.com/override/v2/large/9781/4088/9781408856772.jpg",
@@ -92,7 +92,7 @@ export default [
     category: "Fiction",
     author: "George Orwell",
     pageCount: 328,
-    price: 10,
+    price: 17.99,
     publicationDate: "10/05/2021",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/3288/9781328869333.jpg",
@@ -103,7 +103,7 @@ export default [
     category: "Fiction",
     author: "Harper Lee",
     pageCount: 336,
-    price: 12,
+    price: 11.99,
     publicationDate: "05/10/1989",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9780/0994/9780099419785.jpg",
@@ -114,7 +114,7 @@ export default [
     category: "Fiction",
     author: "F. Scott Fitzgerald",
     pageCount: 180,
-    price: 8,
+    price: 8.99,
     publicationDate: "10/04/2018",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4711/9781471173936.jpg",
@@ -136,7 +136,7 @@ export default [
     category: "Fiction",
     author: "George Orwell",
     pageCount: 112,
-    price: 7,
+    price: 8.99,
     publicationDate: "07/01/2021",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9780/2414/9780241453865.jpg",
@@ -147,7 +147,7 @@ export default [
     category: "Fiction",
     author: "J.R.R. Tolkien",
     pageCount: 1178,
-    price: 50,
+    price: 49.99,
     publicationDate: "14/10/2021",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9780/0084/9780008471286.jpg",
@@ -158,7 +158,7 @@ export default [
     category: "Fiction",
     author: "J.D. Salinger",
     pageCount: 224,
-    price: 9,
+    price: 9.99,
     publicationDate: "01/11/2018",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9780/2419/9780241984758.jpg",
@@ -169,7 +169,7 @@ export default [
     category: "Fiction",
     author: "J.R.R. Tolkien",
     pageCount: 310,
-    price: 10,
+    price: 12.99,
     publicationDate: "27/10/2011",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9780/0074/9780007487301.jpg",
@@ -180,7 +180,7 @@ export default [
     category: "Fiction",
     author: "Paulo Coelho",
     pageCount: 208,
-    price: 8,
+    price: 9.99,
     publicationDate: "13/11/1995",
     thumbnail:
       "https://cdn.waterstones.com/override/v1/large/9780/0081/9780008144227.jpg",
@@ -191,7 +191,7 @@ export default [
     category: "Fiction",
     author: "C.S. Lewis",
     pageCount: 746,
-    price: 20,
+    price: 20.99,
     publicationDate: "01/10/2001",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9780/0071/9780007117307.jpg",
@@ -202,7 +202,7 @@ export default [
     category: "Mystery",
     author: "Dan Brown",
     pageCount: 489,
-    price: 11,
+    price: 11.99,
     publicationDate: "28/08/2009",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9780/5521/9780552159715.jpg",
@@ -213,7 +213,7 @@ export default [
     category: "Fiction",
     author: "Suzanne Collins",
     pageCount: 374,
-    price: 12,
+    price: 12.99,
     publicationDate: "01/12/2011",
     thumbnail:
       "https://cdn.waterstones.com/override/v1/large/9781/4071/9781407132082.jpg",
@@ -224,7 +224,7 @@ export default [
     category: "Fiction",
     author: "Suzanne Collins",
     pageCount: 391,
-    price: 14,
+    price: 14.99,
     publicationDate: "01/12/2011",
     thumbnail:
       "https://cdn.waterstones.com/override/v1/large/9781/4071/9781407132099.jpg",
@@ -235,7 +235,7 @@ export default [
     category: "Fiction",
     author: "Suzanne Collins",
     pageCount: 390,
-    price: 16,
+    price: 16.99,
     publicationDate: "01/12/2011",
     thumbnail:
       "https://cdn.waterstones.com/override/v1/large/9781/4071/9781407132105.jpg",
@@ -1468,7 +1468,7 @@ export default [
     category: "Biography",
     author: "Guenther Steiner",
     pageCount: 304,
-    price: 20.0,
+    price: 19.99,
     publicationDate: "20/04/2023",
     thumbnail:
       "https://cdn.waterstones.com/override/v1/large/2928/3771/2928377174095.jpg",
@@ -1479,7 +1479,7 @@ export default [
     category: "Biography",
     author: "Sebastian Payne",
     pageCount: 288,
-    price: 22.0,
+    price: 21.99,
     publicationDate: "24/11/2022",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/0350/9781035016556.jpg",
@@ -1567,7 +1567,7 @@ export default [
     category: "Biography",
     author: "Jordan Henderson",
     pageCount: 336,
-    price: 25.0,
+    price: 24.99,
     publicationDate: "27/10/2022",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9780/2416/9780241623848.jpg",
@@ -1611,7 +1611,7 @@ export default [
     category: "Manga",
     author: "Sui Ishida",
     pageCount: 224,
-    price: 9,
+    price: 9.99,
     publicationDate: "18/06/2015",
     thumbnail:
       "https://cdn.waterstones.com/override/v1/large/9781/4215/9781421580364.jpg",
@@ -1622,7 +1622,7 @@ export default [
     category: "Manga",
     author: "Sui Ishida",
     pageCount: 208,
-    price: 9,
+    price: 9.99,
     publicationDate: "27/08/2015",
     thumbnail:
       "https://cdn.waterstones.com/override/v1/large/9781/4215/9781421580371.jpg",
@@ -1633,7 +1633,7 @@ export default [
     category: "Manga",
     author: "Sui Ishida",
     pageCount: 200,
-    price: 9,
+    price: 9.99,
     publicationDate: "22/10/2015",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421580388.jpg",
@@ -1644,7 +1644,7 @@ export default [
     category: "Manga",
     author: "Sui Ishida",
     pageCount: 200,
-    price: 9,
+    price: 9.99,
     publicationDate: "17/12/2015",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421580395.jpg",
@@ -1655,7 +1655,7 @@ export default [
     category: "Manga",
     author: "Sui Ishida",
     pageCount: 200,
-    price: 9,
+    price: 9.99,
     publicationDate: "25/02/2016",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421580401.jpg",
@@ -1666,7 +1666,7 @@ export default [
     category: "Manga",
     author: "Sui Ishida",
     pageCount: 200,
-    price: 9,
+    price: 9.99,
     publicationDate: "21/04/2016",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421580418.jpg",
@@ -1677,7 +1677,7 @@ export default [
     category: "Manga",
     author: "Sui Ishida",
     pageCount: 200,
-    price: 9,
+    price: 9.99,
     publicationDate: "16/06/2016",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421580425.jpg",
@@ -1688,7 +1688,7 @@ export default [
     category: "Manga",
     author: "Sui Ishida",
     pageCount: 200,
-    price: 9,
+    price: 9.99,
     publicationDate: "25/08/2016",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421580432.jpg",
@@ -1699,7 +1699,7 @@ export default [
     category: "Manga",
     author: "Sui Ishida",
     pageCount: 200,
-    price: 9,
+    price: 9.99,
     publicationDate: "20/10/2016",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421580449.jpg",
@@ -1710,7 +1710,7 @@ export default [
     category: "Manga",
     author: "Sui Ishida",
     pageCount: 200,
-    price: 9,
+    price: 9.99,
     publicationDate: "15/12/2016",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421580456.jpg",
@@ -1721,7 +1721,7 @@ export default [
     category: "Manga",
     author: "Sui Ishida",
     pageCount: 200,
-    price: 9,
+    price: 9.99,
     publicationDate: "09/03/2017",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421580463.jpg",
@@ -1732,7 +1732,7 @@ export default [
     category: "Manga",
     author: "Sui Ishida",
     pageCount: 200,
-    price: 9,
+    price: 9.99,
     publicationDate: "20/04/2017",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421580470.jpg",
@@ -1743,7 +1743,7 @@ export default [
     category: "Manga",
     author: "Sui Ishida",
     pageCount: 200,
-    price: 9,
+    price: 9.99,
     publicationDate: "15/06/2017",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421590424.jpg",
@@ -1754,7 +1754,7 @@ export default [
     category: "Manga",
     author: "Sui Ishida",
     pageCount: 200,
-    price: 9,
+    price: 9.99,
     publicationDate: "24/08/2017",
     thumbnail: "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421590431.jpg",
     stock: 2,
@@ -1764,7 +1764,7 @@ export default [
     category: "Manga",
     author: "Sui Ishida",
     pageCount: 2904,
-    price: 9,
+    price: 104.99,
     publicationDate: "2018-07-12",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/9747/9781974703180.jpg",
@@ -1775,7 +1775,7 @@ export default [
     category: "Manga",
     author: "Sui Ishida",
     pageCount: 224,
-    price: 9,
+    price: 9.99,
     publicationDate: "19/10/2017",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421594965.jpg",
@@ -1786,7 +1786,7 @@ export default [
     category: "Manga",
     author: "Sui Ishida",
     pageCount: 224,
-    price: 9,
+    price: 9.99,
     publicationDate: "14/12/2017",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421594972.jpg",
@@ -1797,7 +1797,7 @@ export default [
     category: "Manga",
     author: "Sui Ishida",
     pageCount: 224,
-    price: 9,
+    price: 9.99,
     publicationDate: "22/03/2018",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421594989.jpg",
@@ -1808,7 +1808,7 @@ export default [
     category: "Manga",
     author: "Sui Ishida",
     pageCount: 224,
-    price: 9,
+    price: 9.99,
     publicationDate: "19/04/2018",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421594996.jpg",
@@ -1819,7 +1819,7 @@ export default [
     category: "Manga",
     author: "Sui Ishida",
     pageCount: 224,
-    price: 9,
+    price: 9.99,
     publicationDate: "28/06/2018",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421595009.jpg",
@@ -1830,7 +1830,7 @@ export default [
     category: "Manga",
     author: "Sui Ishida",
     pageCount: 224,
-    price: 9,
+    price: 9.99,
     publicationDate: "23/08/2018",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421595016.jpg",
@@ -1841,7 +1841,7 @@ export default [
     category: "Manga",
     author: "Sui Ishida",
     pageCount: 224,
-    price: 9,
+    price: 9.99,
     publicationDate: "18/10/2018",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421595023.jpg",
@@ -1852,7 +1852,7 @@ export default [
     category: "Manga",
     author: "Sui Ishida",
     pageCount: 224,
-    price: 9,
+    price: 9.99,
     publicationDate: "27/12/2018",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421595030.jpg",
@@ -1863,7 +1863,7 @@ export default [
     category: "Manga",
     author: "Sui Ishida",
     pageCount: 224,
-    price: 9,
+    price: 9.99,
     publicationDate: "21/02/2019",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421598246.jpg",
@@ -1874,7 +1874,7 @@ export default [
     category: "Manga",
     author: "Sui Ishida",
     pageCount: 224,
-    price: 9,
+    price: 9.99,
     publicationDate: "16/05/2019",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421598253.jpg",
@@ -1885,7 +1885,7 @@ export default [
     category: "Manga",
     author: "Sui Ishida",
     pageCount: 224,
-    price: 9,
+    price: 9.99,
     publicationDate: "27/06/2019",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/9747/9781974700387.jpg",
@@ -1896,7 +1896,7 @@ export default [
     category: "Manga",
     author: "Sui Ishida",
     pageCount: 224,
-    price: 9,
+    price: 9.99,
     publicationDate: "05/09/2019",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/9747/9781974700370.jpg",
@@ -1907,7 +1907,7 @@ export default [
     category: "Manga",
     author: "Sui Ishida",
     pageCount: 224,
-    price: 9,
+    price: 9.99,
     publicationDate: "17/10/2019",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/9747/9781974701537.jpg",
@@ -1918,7 +1918,7 @@ export default [
     category: "Manga",
     author: "Sui Ishida",
     pageCount: 224,
-    price: 9,
+    price: 9.99,
     publicationDate: "09/01/2020",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/9747/9781974704453.jpg",
@@ -1929,7 +1929,7 @@ export default [
     category: "Manga",
     author: "Sui Ishida",
     pageCount: 224,
-    price: 9,
+    price: 9.99,
     publicationDate: "19/03/2020",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/9747/9781974704569.jpg",
@@ -1940,7 +1940,7 @@ export default [
     category: "Manga",
     author: "Sui Ishida",
     pageCount: 224,
-    price: 9,
+    price: 9.99,
     publicationDate: "14/05/2020",
     thumbnail:
       "https://cdn.waterstones.com/override/v1/large/9781/9747/9781974707423.jpg",
@@ -1951,7 +1951,7 @@ export default [
     category: "Manga",
     author: "Sui Ishida",
     pageCount: 3776,
-    price: 9,
+    price: 134.99,
     publicationDate: "24/12/2020",
     thumbnail:
       "https://cdn.waterstones.com/override/v1/large/9781/9747/9781974707423.jpg",
@@ -1962,7 +1962,7 @@ export default [
     category: "Manga",
     author: "Naoki Urasawa",
     pageCount: 416,
-    price: 22,
+    price: 14.99,
     publicationDate: "01/11/2018",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421599618.jpg",
@@ -1973,7 +1973,7 @@ export default [
     category: "Manga",
     author: "Naoki Urasawa",
     pageCount: 416,
-    price: 22,
+    price: 15.99,
     publicationDate: "10/01/2019",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421599625.jpg",
@@ -1984,7 +1984,7 @@ export default [
     category: "Manga",
     author: "Naoki Urasawa",
     pageCount: 416,
-    price: 22,
+    price: 15.99,
     publicationDate: "04/04/2019",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421599632.jpg",
@@ -1995,7 +1995,7 @@ export default [
     category: "Manga",
     author: "Naoki Urasawa",
     pageCount: 416,
-    price: 22,
+    price: 15.99,
     publicationDate: "11/07/2019",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421599649.jpg",
@@ -2006,7 +2006,7 @@ export default [
     category: "Manga",
     author: "Naoki Urasawa",
     pageCount: 416,
-    price: 22,
+    price: 15.99,
     publicationDate: "03/10/2019",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421599656.jpg",
@@ -2017,7 +2017,7 @@ export default [
     category: "Manga",
     author: "Naoki Urasawa",
     pageCount: 416,
-    price: 22,
+    price: 15.99,
     publicationDate: "06/02/2020",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421599663.jpg",
@@ -2028,7 +2028,7 @@ export default [
     category: "Manga",
     author: "Naoki Urasawa",
     pageCount: 416,
-    price: 22,
+    price: 15.99,
     publicationDate: "16/04/2020",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421599670.jpg",
@@ -2039,7 +2039,7 @@ export default [
     category: "Manga",
     author: "Naoki Urasawa",
     pageCount: 416,
-    price: 22,
+    price: 15.99,
     publicationDate: "23/07/2020",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421599687.jpg",
@@ -2050,7 +2050,7 @@ export default [
     category: "Manga",
     author: "Naoki Urasawa",
     pageCount: 424,
-    price: 22,
+    price: 15.99,
     publicationDate: "15/10/2020",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421599694.jpg",
@@ -2061,7 +2061,7 @@ export default [
     category: "Manga",
     author: "Naoki Urasawa",
     pageCount: 424,
-    price: 22,
+    price: 15.99,
     publicationDate: "24/12/2020",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421599700.jpg",
@@ -2072,7 +2072,7 @@ export default [
     category: "Manga",
     author: "Naoki Urasawa",
     pageCount: 424,
-    price: 22,
+    price: 15.99,
     publicationDate: "13/05/2021",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421599717.jpg",
@@ -2083,7 +2083,7 @@ export default [
     category: "Manga",
     author: "Naoki Urasawa",
     pageCount: 424,
-    price: 22,
+    price: 13.99,
     publicationDate: "22/07/2021",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421599724.jpg",
@@ -2094,7 +2094,7 @@ export default [
     category: "Manga",
     author: "Takehiko Inoue",
     pageCount: 600,
-    price: 19.99,
+    price: 13.99,
     publicationDate: "03/07/2014",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421520544.jpg",
@@ -2105,7 +2105,7 @@ export default [
     category: "Manga",
     author: "Takehiko Inoue",
     pageCount: 640,
-    price: 19.99,
+    price: 15.99,
     publicationDate: "14/08/2014",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421522449.jpg",
@@ -2116,7 +2116,7 @@ export default [
     category: "Manga",
     author: "Takehiko Inoue",
     pageCount: 624,
-    price: 19.99,
+    price: 15.99,
     publicationDate: "11/09/2014",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421522456.jpg",
@@ -2127,7 +2127,7 @@ export default [
     category: "Manga",
     author: "Takehiko Inoue",
     pageCount: 608,
-    price: 19.99,
+    price: 15.99,
     publicationDate: "09/10/2014",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421522463.jpg",
@@ -2138,7 +2138,7 @@ export default [
     category: "Manga",
     author: "Takehiko Inoue",
     pageCount: 608,
-    price: 19.99,
+    price: 15.99,
     publicationDate: "06/11/2014",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421522470.jpg",
@@ -2149,7 +2149,7 @@ export default [
     category: "Manga",
     author: "Takehiko Inoue",
     pageCount: 624,
-    price: 19.99,
+    price: 15.99,
     publicationDate: "04/12/2014",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421522807.jpg",
@@ -2160,7 +2160,7 @@ export default [
     category: "Manga",
     author: "Takehiko Inoue",
     pageCount: 600,
-    price: 19.99,
+    price: 15.99,
     publicationDate: "01/01/2015",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421522814.jpg",
@@ -2171,7 +2171,7 @@ export default [
     category: "Manga",
     author: "Takehiko Inoue",
     pageCount: 640,
-    price: 19.99,
+    price: 15.99,
     publicationDate: "2011-07-19",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421522821.jpg",
@@ -2182,7 +2182,7 @@ export default [
     category: "Manga",
     author: "Takehiko Inoue",
     pageCount: 640,
-    price: 19.99,
+    price: 15.99,
     publicationDate: "12/03/2015",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421523132.jpg",
@@ -2193,7 +2193,7 @@ export default [
     category: "Manga",
     author: "Takehiko Inoue",
     pageCount: 624,
-    price: 19.99,
+    price: 15.99,
     publicationDate: "09/04/2015",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421529158.jpg",
@@ -2204,7 +2204,7 @@ export default [
     category: "Manga",
     author: "Takehiko Inoue",
     pageCount: 656,
-    price: 19.99,
+    price: 15.99,
     publicationDate: "07/05/2015",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421549293.jpg",
@@ -2215,7 +2215,7 @@ export default [
     category: "Manga",
     author: "Takehiko Inoue",
     pageCount: 640,
-    price: 19.99,
+    price: 15.99,
     publicationDate: "04/06/2015",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421573342.jpg",
@@ -2226,7 +2226,7 @@ export default [
     category: "Manga",
     author: "Junji Ito",
     pageCount: 648,
-    price: 19.99,
+    price: 20.99,
     publicationDate: "21/11/2013",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421561325.jpg",
@@ -2237,7 +2237,7 @@ export default [
     category: "Manga",
     author: "Junji Ito",
     pageCount: 752,
-    price: 34.99,
+    price: 21.99,
     publicationDate: "15/12/2016",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421590561.jpg",
@@ -2248,7 +2248,7 @@ export default [
     category: "Manga",
     author: "Junji Ito",
     pageCount: 432,
-    price: 14.99,
+    price: 15.99,
     publicationDate: "07/05/2015",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421579153.jpg",
@@ -2259,7 +2259,7 @@ export default [
     category: "Manga",
     author: "Junji Ito",
     pageCount: 416,
-    price: 22.99,
+    price: 20.99,
     publicationDate: "16/05/2019",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421598468.jpg",
@@ -2281,7 +2281,7 @@ export default [
     category: "Manga",
     author: "Junji Ito",
     pageCount: 408,
-    price: 22.99,
+    price: 18.99,
     publicationDate: "14/12/2017",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421596938.jpg",
@@ -2292,7 +2292,7 @@ export default [
     category: "Manga",
     author: "Junji Ito",
     pageCount: 616,
-    price: 34.99,
+    price: 16.99,
     publicationDate: "09/01/2020",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/9747/9781974707096.jpg",
@@ -2303,7 +2303,7 @@ export default [
     category: "Manga",
     author: "Junji Ito",
     pageCount: 408,
-    price: 22.99,
+    price: 16.99,
     publicationDate: "01/11/2018",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/9747/9781974703760.jpg",
@@ -2314,7 +2314,7 @@ export default [
     category: "Manga",
     author: "Inio Asano",
     pageCount: 448,
-    price: 24.99,
+    price: 18.99,
     publicationDate: "07/04/2016",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421586205.jpg",
@@ -2325,7 +2325,7 @@ export default [
     category: "Manga",
     author: "Inio Asano",
     pageCount: 448,
-    price: 24.99,
+    price: 18.99,
     publicationDate: "14/07/2016",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421586212.jpg",
@@ -2336,7 +2336,7 @@ export default [
     category: "Manga",
     author: "Inio Asano",
     pageCount: 448,
-    price: 24.99,
+    price: 18.99,
     publicationDate: "06/10/2016",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421586229.jpg",
@@ -2347,7 +2347,7 @@ export default [
     category: "Manga",
     author: "Inio Asano",
     pageCount: 448,
-    price: 24.99,
+    price: 18.99,
     publicationDate: "26/01/2017",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421586236.jpg",
@@ -2358,7 +2358,7 @@ export default [
     category: "Manga",
     author: "Inio Asano",
     pageCount: 448,
-    price: 24.99,
+    price: 18.99,
     publicationDate: "06/04/2017",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421586243.jpg",
@@ -2369,7 +2369,7 @@ export default [
     category: "Manga",
     author: "Inio Asano",
     pageCount: 448,
-    price: 24.99,
+    price: 18.99,
     publicationDate: "13/07/2017",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421586250.jpg",
@@ -2380,7 +2380,7 @@ export default [
     category: "Manga",
     author: "Inio Asano",
     pageCount: 448,
-    price: 24.99,
+    price: 10.99,
     publicationDate: "05/10/2017",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421586267.jpg",
@@ -2391,7 +2391,7 @@ export default [
     category: "Manga",
     author: "Eiichiro Oda",
     pageCount: 208,
-    price: 9.99,
+    price: 7.99,
     publicationDate: "06/10/2008",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5693/9781569319017.jpg",
@@ -2402,7 +2402,7 @@ export default [
     category: "Manga",
     author: "Eiichiro Oda",
     pageCount: 208,
-    price: 9.99,
+    price: 7.99,
     publicationDate: "06/10/2008",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591160571.jpg",
@@ -2413,7 +2413,7 @@ export default [
     category: "Manga",
     author: "Eiichiro Oda",
     pageCount: 208,
-    price: 9.99,
+    price: 7.99,
     publicationDate: "06/10/2008",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591161844.jpg",
@@ -2424,7 +2424,7 @@ export default [
     category: "Manga",
     author: "Eiichiro Oda",
     pageCount: 200,
-    price: 9.99,
+    price: 7.99,
     publicationDate: "06/10/2008",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591163374.jpg",
@@ -2435,7 +2435,7 @@ export default [
     category: "Manga",
     author: "Eiichiro Oda",
     pageCount: 208,
-    price: 9.99,
+    price: 7.99,
     publicationDate: "06/10/2008",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591166153.jpg",
@@ -2446,7 +2446,7 @@ export default [
     category: "Manga",
     author: "Eiichiro Oda",
     pageCount: 208,
-    price: 9.99,
+    price: 7.99,
     publicationDate: "06/10/2008",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591167235.jpg",
@@ -2457,7 +2457,7 @@ export default [
     category: "Manga",
     author: "Eiichiro Oda",
     pageCount: 208,
-    price: 9.99,
+    price: 7.99,
     publicationDate: "06/10/2008",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591168522.jpg",
@@ -2468,7 +2468,7 @@ export default [
     category: "Manga",
     author: "Eiichiro Oda",
     pageCount: 208,
-    price: 9.99,
+    price: 7.99,
     publicationDate: "06/10/2008",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421500751.jpg",
@@ -2479,7 +2479,7 @@ export default [
     category: "Manga",
     author: "Eiichiro Oda",
     pageCount: 4720,
-    price: 145,
+    price: 145.99,
     publicationDate: "19/12/2013",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421560748.jpg",
@@ -2490,7 +2490,7 @@ export default [
     category: "Manga",
     author: "Eiichiro Oda",
     pageCount: 4936,
-    price: 145,
+    price: 145.99,
     publicationDate: "20/11/2014",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421576060.jpg",
@@ -2501,7 +2501,7 @@ export default [
     category: "Manga",
     author: "Eiichiro Oda",
     pageCount: 5056,
-    price: 150,
+    price: 165.99,
     publicationDate: "20/10/2016",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421590523.jpg",
@@ -2512,7 +2512,7 @@ export default [
     category: "Manga",
     author: "Eiichiro Oda",
     pageCount: 4328,
-    price: 150,
+    price: 145.99,
     publicationDate: "12/05/2022",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/9747/9781974725960.jpg",
@@ -2523,7 +2523,7 @@ export default [
     category: "Manga",
     author: "Tite Kubo",
     pageCount: 192,
-    price: 9.99,
+    price: 7.99,
     publicationDate: "03/09/2007",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591164418.jpg",
@@ -2534,7 +2534,7 @@ export default [
     category: "Manga",
     author: "Tite Kubo",
     pageCount: 208,
-    price: 9.99,
+    price: 7.99,
     publicationDate: "03/09/2007",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591164425.jpg",
@@ -2545,7 +2545,7 @@ export default [
     category: "Manga",
     author: "Tite Kubo",
     pageCount: 192,
-    price: 9.99,
+    price: 7.99,
     publicationDate: "03/09/2007",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591164432.jpg",
@@ -2556,7 +2556,7 @@ export default [
     category: "Manga",
     author: "Tite Kubo",
     pageCount: 192,
-    price: 9.99,
+    price: 7.99,
     publicationDate: "05/11/2007",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591164449.jpg",
@@ -2567,7 +2567,7 @@ export default [
     category: "Manga",
     author: "Tite Kubo",
     pageCount: 192,
-    price: 9.99,
+    price: 7.99,
     publicationDate: "05/11/2007",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591164456.jpg",
@@ -2578,7 +2578,7 @@ export default [
     category: "Manga",
     author: "Tite Kubo",
     pageCount: 192,
-    price: 9.99,
+    price: 7.99,
     publicationDate: "05/11/2007",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591167280.jpg",
@@ -2589,7 +2589,7 @@ export default [
     category: "Manga",
     author: "Tite Kubo",
     pageCount: 192,
-    price: 9.99,
+    price: 7.99,
     publicationDate: "07/01/2008",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591168072.jpg",
@@ -2600,7 +2600,7 @@ export default [
     category: "Manga",
     author: "Tite Kubo",
     pageCount: 4256,
-    price: 135.0,
+    price: 134.99,
     publicationDate: "26/02/2015",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421526102.jpg",
@@ -2611,7 +2611,7 @@ export default [
     category: "Manga",
     author: "Tite Kubo",
     pageCount: 5416,
-    price: 170.0,
+    price: 169.99,
     publicationDate: "16/07/2015",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421580814.jpg",
@@ -2622,7 +2622,7 @@ export default [
     category: "Manga",
     author: "Tite Kubo",
     pageCount: 5096,
-    price: 165.0,
+    price: 164.99,
     publicationDate: "15/11/2018",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/9747/9781974703197.jpg",
@@ -2633,7 +2633,7 @@ export default [
     category: "Manga",
     author: "Masashi Kishimoto",
     pageCount: 208,
-    price: 9,
+    price: 7.99,
     publicationDate: " 03/09/2007",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5693/9781569319000.jpg",
@@ -2644,7 +2644,7 @@ export default [
     category: "Manga",
     author: "Masashi Kishimoto",
     pageCount: 192,
-    price: 9,
+    price: 7.99,
     publicationDate: "03/09/2007",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591161783.jpg",
@@ -2655,10 +2655,10 @@ export default [
     category: "Manga",
     author: "Masashi Kishimoto",
     pageCount: 192,
-    price: 9,
+    price: 7.99,
     publicationDate: "03/09/2007",
     thumbnail:
-      "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71A6EovDCRL.jpg",
+      "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591161875.jpg",
     stock: 25,
   },
   {
@@ -2666,7 +2666,7 @@ export default [
     category: "Manga",
     author: "Masashi Kishimoto",
     pageCount: 5216,
-    price: 170,
+    price: 169.99,
     publicationDate: "26/02/2015",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421525822.jpg",
@@ -2677,7 +2677,7 @@ export default [
     category: "Manga",
     author: "Masashi Kishimoto",
     pageCount: 4168,
-    price: 130,
+    price: 129.99,
     publicationDate: "16/07/2015",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421580807.jpg",
@@ -2688,7 +2688,7 @@ export default [
     category: "Manga",
     author: "Masashi Kishimoto",
     pageCount: 6688,
-    price: 150,
+    price: 149.99,
     publicationDate: "28/01/2016",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421583341.jpg",
@@ -2699,7 +2699,7 @@ export default [
     category: "Manga",
     author: "Makoto Yukimura",
     pageCount: 448,
-    price: 25,
+    price: 12.99,
     publicationDate: "10/10/2013",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/6126/9781612624204.jpg",
@@ -2710,7 +2710,7 @@ export default [
     category: "Manga",
     author: "Makoto Yukimura",
     pageCount: 432,
-    price: 25,
+    price: 13.99,
     publicationDate: "23/01/2014",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/6126/9781612624211.jpg",
@@ -2721,7 +2721,7 @@ export default [
     category: "Manga",
     author: "Makoto Yukimura",
     pageCount: 432,
-    price: 25,
+    price: 13.99,
     publicationDate: "29/04/2014",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/6126/9781612624228.jpg",
@@ -2732,7 +2732,7 @@ export default [
     category: "Manga",
     author: "Hajime Isayama",
     pageCount: 960,
-    price: 60,
+    price: 49.99,
     publicationDate: "29/05/2014",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/6126/9781612629711.jpg",
@@ -2743,7 +2743,7 @@ export default [
     category: "Manga",
     author: "Hajime Isayama",
     pageCount: 960,
-    price: 60,
+    price: 49.99,
     publicationDate: "15/10/2015",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/6323/9781632361813.jpg",
@@ -2754,7 +2754,7 @@ export default [
     category: "Manga",
     author: "Hajime Isayama",
     pageCount: 960,
-    price: 60,
+    price: 49.99,
     publicationDate: "15/09/2016",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/6323/9781632362957.jpg",
@@ -2765,7 +2765,7 @@ export default [
     category: "Manga",
     author: "Hajime Isayama",
     pageCount: 960,
-    price: 60,
+    price: 49.99,
     publicationDate: "23/08/2018",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/6323/9781632364647.jpg",
@@ -2776,7 +2776,7 @@ export default [
     category: "Manga",
     author: "Hajime Isayama",
     pageCount: 960,
-    price: 60,
+    price: 49.99,
     publicationDate: "15/10/2020",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/6323/9781632366566.jpg",
@@ -2787,7 +2787,7 @@ export default [
     category: "Manga",
     author: "Hajime Isayama",
     pageCount: 960,
-    price: 60,
+    price: 49.99,
     publicationDate: "23/11/2021",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/6465/9781646512782.jpg",
@@ -2798,7 +2798,7 @@ export default [
     category: "Manga",
     author: "Hajime Isayama",
     pageCount: 960,
-    price: 60,
+    price: 49.99,
     publicationDate: "29/11/2022",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/6465/9781646515653.jpg",
