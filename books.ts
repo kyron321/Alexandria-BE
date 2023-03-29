@@ -9,6 +9,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4088/9781408855652.jpg",
     stock: 25,
+    quantitySold: 0,
   },
   {
     title: "Harry Potter and the Chamber of Secrets",
@@ -20,6 +21,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4088/9781408855669.jpg",
     stock: 20,
+    quantitySold: 0,
   },
   {
     title: "Harry Potter and the Prisoner of Azkaban",
@@ -31,6 +33,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4088/9781408855676.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "Harry Potter and the Goblet of Fire",
@@ -42,6 +45,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4088/9781408855683.jpg",
     stock: 10,
+    quantitySold: 0,
   },
   {
     title: "Harry Potter and the Order of Phoenix",
@@ -53,6 +57,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4088/9781408855690.jpg",
     stock: 5,
+    quantitySold: 0,
   },
   {
     title: "Harry Potter and the Half-Blood Prince",
@@ -64,6 +69,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4088/9781408855706.jpg",
     stock: 3,
+    quantitySold: 0,
   },
   {
     title: "Harry Potter and the Deathly Hallows",
@@ -75,6 +81,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4088/9781408855713.jpg",
     stock: 2,
+    quantitySold: 0,
   },
   {
     title: "Harry Potter Box Set",
@@ -86,6 +93,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/override/v2/large/9781/4088/9781408856772.jpg",
     stock: 2,
+    quantitySold: 0,
   },
   {
     title: "1984",
@@ -97,6 +105,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/3288/9781328869333.jpg",
     stock: 100,
+    quantitySold: 0,
   },
   {
     title: "To Kill a Mockingbird",
@@ -108,6 +117,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9780/0994/9780099419785.jpg",
     stock: 75,
+    quantitySold: 0,
   },
   {
     title: "The Great Gatsby",
@@ -119,6 +129,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4711/9781471173936.jpg",
     stock: 50,
+    quantitySold: 0,
   },
   {
     title: "Dune",
@@ -130,6 +141,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9780/3409/9780340960196.jpg",
     stock: 30,
+    quantitySold: 0,
   },
   {
     title: "Animal Farm",
@@ -141,6 +153,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9780/2414/9780241453865.jpg",
     stock: 90,
+    quantitySold: 0,
   },
   {
     title: "The Lord of the Rings: Complete Edition",
@@ -152,6 +165,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9780/0084/9780008471286.jpg",
     stock: 10,
+    quantitySold: 0,
   },
   {
     title: "The Catcher in the Rye",
@@ -163,6 +177,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9780/2419/9780241984758.jpg",
     stock: 40,
+    quantitySold: 0,
   },
   {
     title: "The Hobbit",
@@ -174,6 +189,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9780/0074/9780007487301.jpg",
     stock: 80,
+    quantitySold: 0,
   },
   {
     title: "The Alchemist",
@@ -185,6 +201,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/override/v1/large/9780/0081/9780008144227.jpg",
     stock: 120,
+    quantitySold: 0,
   },
   {
     title: "The Chronicles of Narnia",
@@ -196,6 +213,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9780/0071/9780007117307.jpg",
     stock: 55,
+    quantitySold: 0,
   },
   {
     title: "The Da Vinci Code",
@@ -207,6 +225,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9780/5521/9780552159715.jpg",
     stock: 65,
+    quantitySold: 0,
   },
   {
     title: "The Hunger Games",
@@ -218,6 +237,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/override/v1/large/9781/4071/9781407132082.jpg",
     stock: 20,
+    quantitySold: 0,
   },
   {
     title: "Catching Fire",
@@ -229,6 +249,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/override/v1/large/9781/4071/9781407132099.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "Mockingjay",
@@ -240,6 +261,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/override/v1/large/9781/4071/9781407132105.jpg",
     stock: 10,
+    quantitySold: 0,
   },
   {
     title: "The Atlas Six",
@@ -251,6 +273,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5290/9781529095258.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "A Fatal Crossing",
@@ -262,6 +285,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5291/9781529157840.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "A Fatal Crossing",
@@ -273,6 +297,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5291/9781529157840.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "American Psycho",
@@ -284,6 +309,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5290/9781529077155.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "The Levitathan",
@@ -295,6 +321,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5266/9781526637369.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "Silverview",
@@ -306,6 +333,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/override/v1/large/9780/2419/9780241994535.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "The House With the Golden Door",
@@ -317,6 +345,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/8389/9781838933593.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "No Longer Human",
@@ -328,6 +357,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9780/8112/9780811204811.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "The Setting Sun",
@@ -339,17 +369,19 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9780/8112/9780811200325.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "The Flowers of Buffoonery",
     category: "Fiction",
     author: "Osamu Dazai",
     pageCount: 96,
-    price: 11.50,
+    price: 11.99,
     publicationDate: "07/03/2023",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9780/8112/9780811234542.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "The Handmaid's Tale",
@@ -361,6 +393,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/override/v2/large/9780/0997/9780099740919.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "A Slow Fire Burning",
@@ -372,6 +405,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5291/9781529176759.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "Pachinko",
@@ -383,6 +417,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/8389/9781838930509.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "Hamnet",
@@ -394,6 +429,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4722/9781472223821.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "Norwegian Wood",
@@ -405,6 +441,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9780/0994/9780099448822.jpg",
     stock: 20,
+    quantitySold: 0,
   },
   {
     title: "Amongst Our Weapons",
@@ -416,6 +453,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4732/9781473226685.jpg",
     stock: 20,
+    quantitySold: 0,
   },
   {
     title: "Death and Croissants",
@@ -427,6 +465,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/7884/9781788424233.jpg",
     stock: 20,
+    quantitySold: 0,
   },
   {
     title: "The Space Between Us",
@@ -438,6 +477,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/9145/9781914585449.jpg",
     stock: 20,
+    quantitySold: 0,
   },
   {
     title: "The Lamplighters",
@@ -449,6 +489,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5290/9781529047356.jpg",
     stock: 20,
+    quantitySold: 0,
   },
   {
     title: "Glory",
@@ -460,6 +501,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5291/9781529114225.jpg",
     stock: 20,
+    quantitySold: 0,
   },
   {
     title: "Clytemnestra",
@@ -471,6 +513,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9780/2415/9780241554746.jpg",
     stock: 20,
+    quantitySold: 0,
   },
   {
     title: "The Cloisters",
@@ -482,6 +525,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/7876/9781787636392.jpg",
     stock: 5,
+    quantitySold: 0,
   },
   {
     title: "The Silence of the Girls",
@@ -493,6 +537,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9780/2419/9780241983201.jpg",
     stock: 5,
+    quantitySold: 0,
   },
   {
     title: "The Picture of Dorian Gray",
@@ -504,6 +549,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9780/1414/9780141442464.jpg",
     stock: 5,
+    quantitySold: 0,
   },
   {
     title: "Great Circle",
@@ -515,6 +561,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5291/9781529176643.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "Kingdom of the Wicked",
@@ -526,6 +573,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5293/9781529350487.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "The Remains of the Day",
@@ -537,6 +585,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9780/5712/9780571258246.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "The Goldfinch",
@@ -548,6 +597,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9780/3491/9780349139630.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "Tender is the Flesh",
@@ -559,6 +609,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/7822/9781782276203.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "The Maidens",
@@ -570,6 +621,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4091/9781409181682.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "The Ashes of London",
@@ -581,6 +633,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9780/0081/9780008119096.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "Heartburn",
@@ -592,6 +645,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9780/3490/9780349010359.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "Wolf Hall",
@@ -603,6 +657,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9780/0083/9780008381691.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "Red Queen",
@@ -614,6 +669,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4091/9781409150725.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "The Book of Eve",
@@ -625,6 +681,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4722/9781472276087.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "The Echo Chamber",
@@ -636,6 +693,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4722/9781472276087.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "Lady Joker",
@@ -647,6 +705,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5293/9781529394214.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "Stone Blind",
@@ -658,6 +717,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5290/9781529061475.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "Giovanni's Room",
@@ -669,6 +729,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9780/1411/9780141186351.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "The Atlas Paradox",
@@ -680,6 +741,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5290/9781529095302.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "Kafka on the Shore",
@@ -691,6 +753,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9780/0994/9780099458326.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "The Vegetarian",
@@ -702,6 +765,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/8462/9781846276033.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "White Nights",
@@ -713,6 +777,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9780/2416/9780241619780.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "The Nightingale",
@@ -724,6 +789,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5098/9781509898411.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "Unsettled Ground",
@@ -735,6 +801,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/override/v1/large/9780/2414/9780241457467.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "Cursed Bunny",
@@ -746,6 +813,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/9162/9781916277182.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "Devil House",
@@ -757,6 +825,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/9144/9781914484896.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "Whale",
@@ -768,6 +837,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/7877/9781787704336.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "The Whispering Muse",
@@ -779,6 +849,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/override/v1/large/9781/5266/9781526627186.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "I Am Legend",
@@ -790,6 +861,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/3996/9781399607735.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "A Helping Hand",
@@ -801,6 +873,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/9141/9781914198335.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "This Other Eden",
@@ -812,6 +885,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5291/9781529152548.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "American Gods",
@@ -823,6 +897,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9780/7553/9780755322817.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "The Talented Mr Ripley",
@@ -834,6 +909,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9780/0992/9780099282877.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "Blood Meridian",
@@ -845,6 +921,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5290/9781529077162.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "The Passenger",
@@ -856,6 +933,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/7822/9781782275404.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "The Dark Hours",
@@ -867,6 +945,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4091/9781409186182.jpg",
     stock: 0,
+    quantitySold: 0,
   },
   {
     title: "The Adventures of Sherlock Holme",
@@ -878,6 +957,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9780/2413/9780241347782.jpg",
     stock: 20,
+    quantitySold: 0,
   },
   {
     title: "Girl With a Pearl Earring",
@@ -889,6 +969,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9780/0072/9780007232161.jpg",
     stock: 20,
+    quantitySold: 0,
   },
   {
     title: "The Dinner Guest",
@@ -900,6 +981,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9780/0084/9780008446086.jpg",
     stock: 20,
+    quantitySold: 0,
   },
   {
     title: "The Game",
@@ -911,6 +993,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9780/0085/9780008531621.jpg",
     stock: 20,
+    quantitySold: 0,
   },
   {
     title: "Burial Rites",
@@ -922,6 +1005,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4472/9781447233176.jpg",
     stock: 20,
+    quantitySold: 0,
   },
   {
     title: "Life Ceremony",
@@ -933,6 +1017,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/7837/9781783787371.jpg",
     stock: 20,
+    quantitySold: 0,
   },
   {
     title: "Another Country",
@@ -944,6 +1029,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9780/1411/9780141186375.jpg",
     stock: 20,
+    quantitySold: 0,
   },
   {
     title: "Starve Acre",
@@ -955,6 +1041,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5293/9781529387308.jpg",
     stock: 20,
+    quantitySold: 0,
   },
   {
     title: "The Fairy Tellers",
@@ -966,6 +1053,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5293/9781529327700.jpg",
     stock: 20,
+    quantitySold: 0,
   },
   {
     title: "Snow Country",
@@ -977,6 +1065,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9780/2415/9780241597361.jpg",
     stock: 10,
+    quantitySold: 0,
   },
   {
     title: "Street Haunting",
@@ -988,6 +1077,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9780/2415/9780241597040.jpg",
     stock: 10,
+    quantitySold: 0,
   },
   {
     title: "The Mountain in the Sea",
@@ -999,6 +1089,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/3996/9781399600460.jpg",
     stock: 10,
+    quantitySold: 0,
   },
   {
     title: "The Bandit Queens",
@@ -1010,6 +1101,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/8389/9781838957148.jpg",
     stock: 10,
+    quantitySold: 0,
   },
   {
     title: "The Sailor Who Fell from Grace With the Sea",
@@ -1021,6 +1113,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/7848/9781784875428.jpg",
     stock: 10,
+    quantitySold: 0,
   },
   {
     title: "The Shutter of Snow",
@@ -1032,6 +1125,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9780/5713/9780571375202.jpg",
     stock: 10,
+    quantitySold: 0,
   },
   {
     title: "Weasels in the Attic",
@@ -1043,6 +1137,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/7837/9781783789757.jpg",
     stock: 10,
+    quantitySold: 0,
   },
   {
     title: "The War of the Worlds",
@@ -1054,6 +1149,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9780/2413/9780241387160.jpg",
     stock: 5,
+    quantitySold: 0,
   },
   {
     title: "Lady Susan",
@@ -1065,6 +1161,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9780/2415/9780241582527.jpg",
     stock: 5,
+    quantitySold: 0,
   },
   {
     title: "The Outsider",
@@ -1076,6 +1173,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9780/2415/9780241554401.jpg",
     stock: 5,
+    quantitySold: 0,
   },
   {
     title: "The Stranger Times",
@@ -1087,6 +1185,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9780/5521/9780552177344.jpg",
     stock: 5,
+    quantitySold: 0,
   },
   {
     title: "The Stranding",
@@ -1098,6 +1197,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5293/9781529340686.jpg",
     stock: 5,
+    quantitySold: 0,
   },
   {
     title: "Squeaky Clean",
@@ -1109,6 +1209,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/7822/9781782278368.jpg",
     stock: 5,
+    quantitySold: 0,
   },
   {
     title: "Squeaky Clean",
@@ -1120,6 +1221,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9780/1411/9780141196909.jpg",
     stock: 5,
+    quantitySold: 0,
   },
   {
     title: "Life Of Pi",
@@ -1131,6 +1233,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/7868/9781786891686.jpg",
     stock: 20,
+    quantitySold: 0,
   },
   {
     title: "The Gallows Pole",
@@ -1142,6 +1245,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5266/9781526611154.jpg",
     stock: 20,
+    quantitySold: 0,
   },
   {
     title: "Oliver Twist",
@@ -1153,6 +1257,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9780/1411/9780141192499.jpg",
     stock: 20,
+    quantitySold: 0,
   },
   {
     title: "Spare",
@@ -1164,6 +1269,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9780/8575/9780857504791.jpg",
     stock: 20,
+    quantitySold: 0,
   },
   {
     title: "The State of Us",
@@ -1175,6 +1281,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/override/v2/large/2928/3770/2928377094980.jpg",
     stock: 20,
+    quantitySold: 0,
   },
   {
     title: "Elizabeth",
@@ -1186,6 +1293,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9780/2415/9780241582589.jpg",
     stock: 20,
+    quantitySold: 0,
   },
   {
     title: "The Gold",
@@ -1197,6 +1305,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5291/9781529149524.jpg",
     stock: 20,
+    quantitySold: 0,
   },
   {
     title: "Masquerade: The Lives of Noel Coward",
@@ -1208,6 +1317,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4746/9781474612807.jpg",
     stock: 20,
+    quantitySold: 0,
   },
   {
     title: "Love, Pamela",
@@ -1219,6 +1329,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4722/9781472291103.jpg",
     stock: 20,
+    quantitySold: 0,
   },
   {
     title: "Gloves Off",
@@ -1230,6 +1341,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5291/9781529199352.jpg",
     stock: 3,
+    quantitySold: 0,
   },
   {
     title: "Behind the Mask",
@@ -1241,6 +1353,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5291/9781529124866.jpg",
     stock: 20,
+    quantitySold: 0,
   },
   {
     title: "Becoming",
@@ -1252,6 +1365,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/override/v4/large/9780/2419/9780241982976.jpg",
     stock: 20,
+    quantitySold: 0,
   },
   {
     title: "Will",
@@ -1263,6 +1377,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/override/v1/large/9781/5291/9781529124156.jpg",
     stock: 20,
+    quantitySold: 0,
   },
   {
     title: "Killer in the Kremlin",
@@ -1274,6 +1389,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/8049/9781804991206.jpg",
     stock: 0,
+    quantitySold: 0,
   },
   {
     title: "Queen of Our Times: The Life of Elizabeth II",
@@ -1285,6 +1401,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/override/v1/large/9781/5290/9781529063417.jpg",
     stock: 0,
+    quantitySold: 0,
   },
   {
     title: "Lioness: My Journey to Glory",
@@ -1296,6 +1413,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/3996/9781399611671.jpg",
     stock: 11,
+    quantitySold: 0,
   },
   {
     title: "The Escape Artist",
@@ -1307,6 +1425,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5293/9781529369045.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "Surrender: 40 Songs, One Story",
@@ -1318,6 +1437,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5291/9781529151787.jpg",
     stock: 5,
+    quantitySold: 0,
   },
   {
     title: "Beyond the Wand",
@@ -1329,6 +1449,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5291/9781529149418.jpg",
     stock: 5,
+    quantitySold: 0,
   },
   {
     title: "Brief Answers to the Big Questions",
@@ -1340,6 +1461,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4736/9781473695993.jpg",
     stock: 5,
+    quantitySold: 0,
   },
   {
     title: "Beyond Possible",
@@ -1351,6 +1473,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5293/9781529312263.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "The Gift of a Radio",
@@ -1362,6 +1485,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/8049/9781804990896.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "Face It: A Memoir",
@@ -1373,6 +1497,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9780/0082/9780008229443.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "Shackleton",
@@ -1384,6 +1509,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4059/9781405938020.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "Pele: The Autobiography",
@@ -1395,6 +1521,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4165/9781416511212.jpg",
     stock: 5,
+    quantitySold: 0,
   },
   {
     title: "On Writing",
@@ -1406,6 +1533,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4447/9781444723250.jpg",
     stock: 5,
+    quantitySold: 0,
   },
   {
     title: "Messi",
@@ -1417,6 +1545,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/3996/9781399605809.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "Step By Step",
@@ -1428,6 +1557,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4736/9781473689121.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title:
@@ -1440,6 +1570,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9780/7535/9780753555644.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "Me",
@@ -1451,6 +1582,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/override/v1/large/9781/5098/9781509853342.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "Never Work with Animals",
@@ -1462,6 +1594,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9780/0084/9780008466619.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "Surviving to Drive",
@@ -1473,6 +1606,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/override/v1/large/2928/3771/2928377174095.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "The Fall of Boris Johnson",
@@ -1484,6 +1618,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/0350/9781035016556.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "Vincent van Gogh: A Life in Letters",
@@ -1495,6 +1630,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9780/5002/9780500296820.jpg",
     stock: 5,
+    quantitySold: 0,
   },
   {
     title: "The Women of Rothschild",
@@ -1506,6 +1642,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5293/9781529366730.jpg",
     stock: 0,
+    quantitySold: 0,
   },
   {
     title: "Inside the Mind of Jeffrey Dahmer: The Cannibal Killer",
@@ -1517,6 +1654,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/9135/9781913543310.jpg",
     stock: 2,
+    quantitySold: 0,
   },
   {
     title: "The Age of Bowie: How David Bowie Made a World of Difference",
@@ -1528,6 +1666,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4711/9781471148118.jpg",
     stock: 2,
+    quantitySold: 0,
   },
   {
     title: "Steve Jobs",
@@ -1539,6 +1678,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9780/3491/9780349140438.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "Kanye West: God and Monster",
@@ -1550,6 +1690,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/7830/9781783053711.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "Diana: Her True Story",
@@ -1561,6 +1702,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/7892/9781789290448.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "Jordan Henderson: The Autobiography",
@@ -1572,6 +1714,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9780/2416/9780241623848.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "Ted Bundy: The Only Living Witness",
@@ -1583,6 +1726,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/9126/9781912624805.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "I Am Malala",
@@ -1594,6 +1738,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/7802/9781780226583.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "Undisputed Truth",
@@ -1605,6 +1750,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9780/0075/9780007502530.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "Tokyo Ghoul, Vol. 1",
@@ -1616,6 +1762,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/override/v1/large/9781/4215/9781421580364.jpg",
     stock: 30,
+    quantitySold: 0,
   },
   {
     title: "Tokyo Ghoul, Vol. 2",
@@ -1627,6 +1774,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/override/v1/large/9781/4215/9781421580371.jpg",
     stock: 25,
+    quantitySold: 0,
   },
   {
     title: "Tokyo Ghoul, Vol. 3",
@@ -1638,6 +1786,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421580388.jpg",
     stock: 20,
+    quantitySold: 0,
   },
   {
     title: "Tokyo Ghoul, Vol. 4",
@@ -1649,6 +1798,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421580395.jpg",
     stock: 18,
+    quantitySold: 0,
   },
   {
     title: "Tokyo Ghoul, Vol. 5",
@@ -1660,6 +1810,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421580401.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "Tokyo Ghoul, Vol. 6",
@@ -1671,6 +1822,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421580418.jpg",
     stock: 12,
+    quantitySold: 0,
   },
   {
     title: "Tokyo Ghoul, Vol. 7",
@@ -1682,6 +1834,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421580425.jpg",
     stock: 10,
+    quantitySold: 0,
   },
   {
     title: "Tokyo Ghoul, Vol. 8",
@@ -1693,6 +1846,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421580432.jpg",
     stock: 8,
+    quantitySold: 0,
   },
   {
     title: "Tokyo Ghoul, Vol. 9",
@@ -1704,6 +1858,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421580449.jpg",
     stock: 10,
+    quantitySold: 0,
   },
   {
     title: "Tokyo Ghoul, Vol. 10",
@@ -1715,6 +1870,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421580456.jpg",
     stock: 6,
+    quantitySold: 0,
   },
   {
     title: "Tokyo Ghoul, Vol. 11",
@@ -1726,6 +1882,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421580463.jpg",
     stock: 5,
+    quantitySold: 0,
   },
   {
     title: "Tokyo Ghoul, Vol. 12",
@@ -1737,6 +1894,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421580470.jpg",
     stock: 4,
+    quantitySold: 0,
   },
   {
     title: "Tokyo Ghoul, Vol. 13",
@@ -1748,6 +1906,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421590424.jpg",
     stock: 3,
+    quantitySold: 0,
   },
   {
     title: "Tokyo Ghoul, Vol. 14",
@@ -1756,8 +1915,10 @@ export default [
     pageCount: 200,
     price: 9.99,
     publicationDate: "24/08/2017",
-    thumbnail: "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421590431.jpg",
+    thumbnail:
+      "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421590431.jpg",
     stock: 2,
+    quantitySold: 0,
   },
   {
     title: "Tokyo Ghoul: Box Set Vols. 1-14",
@@ -1769,6 +1930,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/9747/9781974703180.jpg",
     stock: 2,
+    quantitySold: 0,
   },
   {
     title: "Tokyo Ghoul:re, Vol. 1",
@@ -1780,6 +1942,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421594965.jpg",
     stock: 10,
+    quantitySold: 0,
   },
   {
     title: "Tokyo Ghoul:re, Vol. 2",
@@ -1791,6 +1954,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421594972.jpg",
     stock: 9,
+    quantitySold: 0,
   },
   {
     title: "Tokyo Ghoul:re, Vol. 3",
@@ -1802,6 +1966,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421594989.jpg",
     stock: 8,
+    quantitySold: 0,
   },
   {
     title: "Tokyo Ghoul:re, Vol. 4",
@@ -1813,6 +1978,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421594996.jpg",
     stock: 7,
+    quantitySold: 0,
   },
   {
     title: "Tokyo Ghoul:re, Vol. 5",
@@ -1824,6 +1990,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421595009.jpg",
     stock: 6,
+    quantitySold: 0,
   },
   {
     title: "Tokyo Ghoul:re, Vol. 6",
@@ -1835,6 +2002,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421595016.jpg",
     stock: 5,
+    quantitySold: 0,
   },
   {
     title: "Tokyo Ghoul:re, Vol. 7",
@@ -1846,6 +2014,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421595023.jpg",
     stock: 4,
+    quantitySold: 0,
   },
   {
     title: "Tokyo Ghoul:re, Vol. 8",
@@ -1857,6 +2026,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421595030.jpg",
     stock: 3,
+    quantitySold: 0,
   },
   {
     title: "Tokyo Ghoul:re, Vol. 9",
@@ -1868,6 +2038,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421598246.jpg",
     stock: 2,
+    quantitySold: 0,
   },
   {
     title: "Tokyo Ghoul:re, Vol. 10",
@@ -1879,6 +2050,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421598253.jpg",
     stock: 1,
+    quantitySold: 0,
   },
   {
     title: "Tokyo Ghoul:re, Vol. 11",
@@ -1890,6 +2062,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/9747/9781974700387.jpg",
     stock: 0,
+    quantitySold: 0,
   },
   {
     title: "Tokyo Ghoul:re, Vol. 12",
@@ -1901,6 +2074,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/9747/9781974700370.jpg",
     stock: 5,
+    quantitySold: 0,
   },
   {
     title: "Tokyo Ghoul:re, Vol. 13",
@@ -1912,6 +2086,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/9747/9781974701537.jpg",
     stock: 7,
+    quantitySold: 0,
   },
   {
     title: "Tokyo Ghoul:re, Vol. 14",
@@ -1923,6 +2098,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/9747/9781974704453.jpg",
     stock: 8,
+    quantitySold: 0,
   },
   {
     title: "Tokyo Ghoul:re, Vol. 15",
@@ -1934,6 +2110,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/9747/9781974704569.jpg",
     stock: 6,
+    quantitySold: 0,
   },
   {
     title: "Tokyo Ghoul:re, Vol. 16",
@@ -1945,6 +2122,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/override/v1/large/9781/9747/9781974707423.jpg",
     stock: 10,
+    quantitySold: 0,
   },
   {
     title: "Tokyo Ghoul:re Box Set Vols. 1-16",
@@ -1956,6 +2134,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/override/v1/large/9781/9747/9781974707423.jpg",
     stock: 10,
+    quantitySold: 0,
   },
   {
     title: "20th Century Boys, Vol. 1",
@@ -1967,6 +2146,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421599618.jpg",
     stock: 5,
+    quantitySold: 0,
   },
   {
     title: "20th Century Boys, Vol. 2",
@@ -1978,6 +2158,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421599625.jpg",
     stock: 3,
+    quantitySold: 0,
   },
   {
     title: "20th Century Boys, Vol. 3",
@@ -1989,6 +2170,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421599632.jpg",
     stock: 1,
+    quantitySold: 0,
   },
   {
     title: "20th Century Boys, Vol. 4",
@@ -2000,6 +2182,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421599649.jpg",
     stock: 0,
+    quantitySold: 0,
   },
   {
     title: "20th Century Boys, Vol. 5",
@@ -2011,6 +2194,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421599656.jpg",
     stock: 7,
+    quantitySold: 0,
   },
   {
     title: "20th Century Boys, Vol. 6",
@@ -2022,6 +2206,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421599663.jpg",
     stock: 6,
+    quantitySold: 0,
   },
   {
     title: "20th Century Boys, Vol. 7",
@@ -2033,6 +2218,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421599670.jpg",
     stock: 2,
+    quantitySold: 0,
   },
   {
     title: "20th Century Boys, Vol. 8",
@@ -2044,6 +2230,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421599687.jpg",
     stock: 4,
+    quantitySold: 0,
   },
   {
     title: "20th Century Boys, Vol. 9",
@@ -2055,6 +2242,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421599694.jpg",
     stock: 5,
+    quantitySold: 0,
   },
   {
     title: "20th Century Boys, Vol. 10",
@@ -2066,6 +2254,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421599700.jpg",
     stock: 3,
+    quantitySold: 0,
   },
   {
     title: "20st Century Boys , Vol. 11",
@@ -2077,6 +2266,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421599717.jpg",
     stock: 1,
+    quantitySold: 0,
   },
   {
     title: "21st Century Boys",
@@ -2088,6 +2278,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421599724.jpg",
     stock: 1,
+    quantitySold: 0,
   },
   {
     title: "Vagabond VIZBIG Edition, Vol. 1",
@@ -2099,6 +2290,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421520544.jpg",
     stock: 10,
+    quantitySold: 0,
   },
   {
     title: "Vagabond VIZBIG Edition, Vol. 2",
@@ -2110,6 +2302,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421522449.jpg",
     stock: 7,
+    quantitySold: 0,
   },
   {
     title: "Vagabond VIZBIG Edition, Vol. 3",
@@ -2121,6 +2314,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421522456.jpg",
     stock: 4,
+    quantitySold: 0,
   },
   {
     title: "Vagabond VIZBIG Edition, Vol. 4",
@@ -2132,6 +2326,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421522463.jpg",
     stock: 2,
+    quantitySold: 0,
   },
   {
     title: "Vagabond VIZBIG Edition, Vol. 5",
@@ -2143,6 +2338,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421522470.jpg",
     stock: 6,
+    quantitySold: 0,
   },
   {
     title: "Vagabond VIZBIG Edition, Vol. 6",
@@ -2154,6 +2350,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421522807.jpg",
     stock: 1,
+    quantitySold: 0,
   },
   {
     title: "Vagabond VIZBIG Edition, Vol. 7",
@@ -2165,6 +2362,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421522814.jpg",
     stock: 0,
+    quantitySold: 0,
   },
   {
     title: "Vagabond VIZBIG Edition, Vol. 8",
@@ -2176,6 +2374,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421522821.jpg",
     stock: 17,
+    quantitySold: 0,
   },
   {
     title: "Vagabond VIZBIG Edition, Vol. 9",
@@ -2187,6 +2386,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421523132.jpg",
     stock: 3,
+    quantitySold: 0,
   },
   {
     title: "Vagabond VIZBIG Edition, Vol. 10",
@@ -2198,6 +2398,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421529158.jpg",
     stock: 5,
+    quantitySold: 0,
   },
   {
     title: "Vagabond VIZBIG Edition, Vol. 11",
@@ -2209,6 +2410,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421549293.jpg",
     stock: 2,
+    quantitySold: 0,
   },
   {
     title: "Vagabond VIZBIG Edition, Vol. 12",
@@ -2220,6 +2422,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421573342.jpg",
     stock: 1,
+    quantitySold: 0,
   },
   {
     title: "Uzumaki: Complete Deluxe Edition",
@@ -2231,6 +2434,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421561325.jpg",
     stock: 4,
+    quantitySold: 0,
   },
   {
     title: "Tomie: Complete Deluxe Edition",
@@ -2242,6 +2446,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421590561.jpg",
     stock: 2,
+    quantitySold: 0,
   },
   {
     title: "Gyo: Complete Deluxe Edition",
@@ -2253,6 +2458,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421579153.jpg",
     stock: 6,
+    quantitySold: 0,
   },
   {
     title: "Smashed: Junji Ito Story Collection",
@@ -2264,6 +2470,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421598468.jpg",
     stock: 3,
+    quantitySold: 0,
   },
   {
     title: "Fragments of Horror",
@@ -2275,6 +2482,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421580791.jpg",
     stock: 5,
+    quantitySold: 0,
   },
   {
     title: "Shiver: Junji Ito Selected Stories",
@@ -2286,6 +2494,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421596938.jpg",
     stock: 2,
+    quantitySold: 0,
   },
   {
     title: "No Longer Human",
@@ -2297,6 +2506,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/9747/9781974707096.jpg",
     stock: 1,
+    quantitySold: 0,
   },
   {
     title: "Frankenstein: Junji Ito Story Collection",
@@ -2308,6 +2518,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/9747/9781974703760.jpg",
     stock: 4,
+    quantitySold: 0,
   },
   {
     title: "Goodnight Punpun, Vol. 1",
@@ -2319,6 +2530,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421586205.jpg",
     stock: 3,
+    quantitySold: 0,
   },
   {
     title: "Goodnight Punpun, Vol. 2",
@@ -2330,6 +2542,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421586212.jpg",
     stock: 1,
+    quantitySold: 0,
   },
   {
     title: "Goodnight Punpun, Vol. 3",
@@ -2341,6 +2554,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421586229.jpg",
     stock: 5,
+    quantitySold: 0,
   },
   {
     title: "Goodnight Punpun, Vol. 4",
@@ -2352,6 +2566,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421586236.jpg",
     stock: 0,
+    quantitySold: 0,
   },
   {
     title: "Goodnight Punpun, Vol. 5",
@@ -2363,6 +2578,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421586243.jpg",
     stock: 2,
+    quantitySold: 0,
   },
   {
     title: "Goodnight Punpun, Vol. 6",
@@ -2374,6 +2590,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421586250.jpg",
     stock: 2,
+    quantitySold: 0,
   },
   {
     title: "Goodnight Punpun, Vol. 7",
@@ -2385,6 +2602,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421586267.jpg",
     stock: 0,
+    quantitySold: 0,
   },
   {
     title: "One Piece, Vol. 1",
@@ -2396,6 +2614,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5693/9781569319017.jpg",
     stock: 10,
+    quantitySold: 0,
   },
   {
     title: "One Piece, Vol. 2",
@@ -2407,6 +2626,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591160571.jpg",
     stock: 7,
+    quantitySold: 0,
   },
   {
     title: "One Piece, Vol. 3",
@@ -2418,6 +2638,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591161844.jpg",
     stock: 3,
+    quantitySold: 0,
   },
   {
     title: "One Piece, Vol. 4",
@@ -2429,6 +2650,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591163374.jpg",
     stock: 5,
+    quantitySold: 0,
   },
   {
     title: "One Piece, Vol. 5",
@@ -2440,6 +2662,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591166153.jpg",
     stock: 9,
+    quantitySold: 0,
   },
   {
     title: "One Piece, Vol. 6",
@@ -2451,6 +2674,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591167235.jpg",
     stock: 2,
+    quantitySold: 0,
   },
   {
     title: "One Piece, Vol. 7",
@@ -2462,6 +2686,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591168522.jpg",
     stock: 4,
+    quantitySold: 0,
   },
   {
     title: "One Piece, Vol. 8",
@@ -2473,6 +2698,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421500751.jpg",
     stock: 0,
+    quantitySold: 0,
   },
   {
     title: "One Piece: Box Set 1, Vols. 1-23",
@@ -2484,6 +2710,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421560748.jpg",
     stock: 5,
+    quantitySold: 0,
   },
   {
     title: "One Piece: Box Set 2, Vols. 24-46",
@@ -2495,6 +2722,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421576060.jpg",
     stock: 20,
+    quantitySold: 0,
   },
   {
     title: "One Piece: Box Set 3, Vols. 47-70",
@@ -2506,6 +2734,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421590523.jpg",
     stock: 0,
+    quantitySold: 0,
   },
   {
     title: "One Piece: Box Set 4, Vols. 71-90",
@@ -2517,6 +2746,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/9747/9781974725960.jpg",
     stock: 10,
+    quantitySold: 0,
   },
   {
     title: "Bleach, Vol. 1",
@@ -2528,6 +2758,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591164418.jpg",
     stock: 10,
+    quantitySold: 0,
   },
   {
     title: "Bleach, Vol. 2",
@@ -2539,6 +2770,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591164425.jpg",
     stock: 12,
+    quantitySold: 0,
   },
   {
     title: "Bleach, Vol. 3",
@@ -2550,6 +2782,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591164432.jpg",
     stock: 8,
+    quantitySold: 0,
   },
   {
     title: "Bleach, Vol. 4",
@@ -2561,6 +2794,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591164449.jpg",
     stock: 11,
+    quantitySold: 0,
   },
   {
     title: "Bleach, Vol. 5",
@@ -2572,6 +2806,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591164456.jpg",
     stock: 9,
+    quantitySold: 0,
   },
   {
     title: "Bleach, Vol. 6",
@@ -2583,6 +2818,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591167280.jpg",
     stock: 13,
+    quantitySold: 0,
   },
   {
     title: "Bleach, Vol. 7",
@@ -2594,6 +2830,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591168072.jpg",
     stock: 0,
+    quantitySold: 0,
   },
   {
     title: "Bleach: Box Set 1, Vols. 1-21",
@@ -2605,6 +2842,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421526102.jpg",
     stock: 10,
+    quantitySold: 0,
   },
   {
     title: "Bleach: Box Set 2, Vols. 22-48",
@@ -2616,6 +2854,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421580814.jpg",
     stock: 10,
+    quantitySold: 0,
   },
   {
     title: "Bleach: Box Set 3, Vols. 49-74",
@@ -2627,6 +2866,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/9747/9781974703197.jpg",
     stock: 5,
+    quantitySold: 0,
   },
   {
     title: "Naruto, Vol. 1",
@@ -2638,6 +2878,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5693/9781569319000.jpg",
     stock: 20,
+    quantitySold: 0,
   },
   {
     title: "Naruto, Vol. 2",
@@ -2649,6 +2890,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591161783.jpg",
     stock: 15,
+    quantitySold: 0,
   },
   {
     title: "Naruto, Vol. 3",
@@ -2660,6 +2902,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591161875.jpg",
     stock: 25,
+    quantitySold: 0,
   },
   {
     title: "Naruto: Box Set 1, Vols. 1-27",
@@ -2671,6 +2914,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421525822.jpg",
     stock: 50,
+    quantitySold: 0,
   },
   {
     title: "Naruto: Box Set 2, Vols. 28-48",
@@ -2682,6 +2926,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421580807.jpg",
     stock: 25,
+    quantitySold: 0,
   },
   {
     title: "Naruto: Box Set 3, Vols. 49-72",
@@ -2693,6 +2938,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421583341.jpg",
     stock: 5,
+    quantitySold: 0,
   },
   {
     title: "Vinland Saga Deluxe, Vol. 1",
@@ -2704,6 +2950,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/6126/9781612624204.jpg",
     stock: 10,
+    quantitySold: 0,
   },
   {
     title: "Vinland Saga Deluxe, Vol. 2",
@@ -2715,6 +2962,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/6126/9781612624211.jpg",
     stock: 8,
+    quantitySold: 0,
   },
   {
     title: "Vinland Saga Deluxe, Vol. 3",
@@ -2726,6 +2974,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/6126/9781612624228.jpg",
     stock: 12,
+    quantitySold: 0,
   },
   {
     title: "Attack on Titan: Colossal Edition, Vol. 1",
@@ -2737,6 +2986,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/6126/9781612629711.jpg",
     stock: 5,
+    quantitySold: 0,
   },
   {
     title: "Attack on Titan: Colossal Edition, Vol. 2",
@@ -2748,6 +2998,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/6323/9781632361813.jpg",
     stock: 7,
+    quantitySold: 0,
   },
   {
     title: "Attack on Titan: Colossal Edition, Vol. 3",
@@ -2759,6 +3010,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/6323/9781632362957.jpg",
     stock: 3,
+    quantitySold: 0,
   },
   {
     title: "Attack on Titan: Colossal Edition, Vol. 4",
@@ -2770,6 +3022,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/6323/9781632364647.jpg",
     stock: 10,
+    quantitySold: 0,
   },
   {
     title: "Attack on Titan: Colossal Edition, Vol. 5",
@@ -2781,6 +3034,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/6323/9781632366566.jpg",
     stock: 2,
+    quantitySold: 0,
   },
   {
     title: "Attack on Titan: Colossal Edition, Vol. 6",
@@ -2792,6 +3046,7 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/6465/9781646512782.jpg",
     stock: 8,
+    quantitySold: 0,
   },
   {
     title: "Attack on Titan: Colossal Edition, Vol. 7",
@@ -2803,5 +3058,6 @@ export default [
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/6465/9781646515653.jpg",
     stock: 12,
+    quantitySold: 0,
   },
 ];
