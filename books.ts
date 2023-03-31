@@ -10,6 +10,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4088/9781408855652.jpg",
     stock: 25,
     quantitySold: 0,
+    Publisher:"Bloomsbury Publishing PLC",
     synopsis:"Twenty-five years ago, a wide-eyed young wizard was first drawn into an old-fashioned battle between good and evil. From Muggles to Quidditch, Hogwarts to Diagon Alley, the magical journey that launched a billion young readers feels just as fresh, fun and meticulously rendered today.",
   },
   {
@@ -23,6 +24,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4088/9781408855669.jpg",
     stock: 20,
     quantitySold: 0,
+    Publisher:"Bloomsbury Publishing PLC",
     synopsis:"In his second year at Hogwarts School, our beloved hero comes face to face with the surreptitious legend of the Chamber of Secrets and embarks on another dizzying adventure with his trusted companions Ron and Hermione. The second, spellbinding instalment of J.K. Rowling’s celebrated Harry Potter series is a true modern classic, full of enchantment and thrill.",
   },
   {
@@ -36,6 +38,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4088/9781408855676.jpg",
     stock: 15,
     quantitySold: 0,
+    Publisher:"Bloomsbury Publishing PLC",
     synopsis:"As our hero Harry returns to Hogwarts School for another term, he finds it guarded by fearsome Dementors, the guards of Azkaban prison. And there is a mass-murderer on the loose – the notorious Sirius Black who, it turns out, is after Harry. The gripping third installment of J. K. Rowling’s award-winning series is a treat indeed.",
   },
   {
@@ -49,6 +52,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4088/9781408855683.jpg",
     stock: 10,
     quantitySold: 0,
+    Publisher:"Bloomsbury Publishing PLC",
     synopsis:"The intricacies and secrets of the wizarding world keep unfolding in the fourth part of the series, as we follow Harry – just turned fourteen – and his friends on another bewildering adventure at Hogwarts. The school is playing host to a unique wizarding competition, the Triwizard Tournament, but as the excitement spreads, there are dark forces at work, plotting against Harry.",
   },
   {
@@ -62,6 +66,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4088/9781408855690.jpg",
     stock: 5,
     quantitySold: 0,
+    Publisher:"Bloomsbury Publishing PLC",
     synopsis:"In the thrilling fifth instalment of J. K. Rowling’s bestselling series, we find Hogwarts itself under threat. With the ominous Ministry of Magic seeking to gain further control over Harry’s school, and with a new cruel Headmistress at large too, Harry has to take a stand against the tyranny. But that means putting his loved ones in danger. Harry Potter and the Order of the Phoenix brims with sinister twists and new unfathomable challenges for Harry and his companions.",
   },
   {
@@ -75,6 +80,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4088/9781408855706.jpg",
     stock: 3,
     quantitySold: 0,
+    Publisher:"Bloomsbury Publishing PLC",
     synopsis:"In the captivating penultimate part of J.K. Rowling’s world-renowned series, the times are a-changing at Hogwarts: the newly-appointed potion-master seems to keep a few too many secrets, and Dumbledore has a clandestine mission in store for Harry. There is a traitor at the very heart of the school and the truth about the identity of the Half-Blood prince is waiting to be discovered.",
   },
   {
@@ -88,6 +94,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4088/9781408855713.jpg",
     stock: 2,
     quantitySold: 0,
+    Publisher:"Bloomsbury Publishing PLC",
     synopsis:"In this magnificent final installment of J. K. Rowling’s masterpiece, Harry, Ron and Hermione must face their biggest challenges yet, and even the strongest friendships are tested to their limit in the face of loss and misfortune. As Harry’s seventeenth birthday approaches, it is time for him to face Voldemort alone in one final, deadly duel. Harry Potter and the Deathly Hallows is an enchanting, heart-breaking conclusion to the epic series.",
   },
   {
@@ -101,6 +108,7 @@ export default [
       "https://cdn.waterstones.com/override/v2/large/9781/4088/9781408856772.jpg",
     stock: 2,
     quantitySold: 0,
+    Publisher:"Bloomsbury Publishing PLC",
     synopsis:"Celebrate 25 years of Harry Potter's spellbinding adventures with this magical boxed set of J.K. Rowling's classic series.",
   },
   {
@@ -114,6 +122,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/3288/9781328869333.jpg",
     stock: 100,
     quantitySold: 0,
+    Publisher:"HarperCollins Publishers Inc",
     synopsis:"1984 is a dystopian novella by George Orwell published in 1949, which follows the life of Winston Smith, a low ranking member of 'the Party', who is frustrated by the omnipresent eyes of the party, and its ominous ruler Big Brother. 'Big Brother' controls every aspect of people's lives.",
   },
   {
@@ -127,6 +136,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9780/0994/9780099419785.jpg",
     stock: 75,
     quantitySold: 0,
+    Publisher:"Cornerstone",
     synopsis:"To Kill a Mockingbird is a novel by the American author Harper Lee. It was published in 1960 and was instantly successful. In the United States, it is widely read in high schools and middle schools. To Kill a Mockingbird has become a classic of modern American literature, winning the Pulitzer Prize.",
   },
   {
@@ -140,6 +150,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4711/9781471173936.jpg",
     stock: 50,
     quantitySold: 0,
+    Publisher:"Penguin Books Ltd",
     synopsis:"One of the undisputed jewels of American fiction, Fitzgerald’s dazzling critique of the superficiality of the Jazz Age captures the glamorous facade at the heart of the American Dream in devastating style.",
   },
   {
@@ -153,6 +164,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9780/3409/9780340960196.jpg",
     stock: 30,
     quantitySold: 0,
+    Publisher:"Hodder & Stoughton",
     synopsis:"One of the pivotal works of literary science fiction, Frank Herbert’s sand-blasted epic details the internecine battles for control of the desert planet Arrakis and its precious resource, ‘spice’.",
   },
   {
@@ -166,6 +178,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9780/2414/9780241453865.jpg",
     stock: 90,
     quantitySold: 0,
+    Publisher:"Penguin Books Ltd",
     synopsis:"Animal Farm is a beast fable, in the form of a satirical allegorical novella, by George Orwell, first published in England on 17 August 1945. It tells the story of a group of farm animals who rebel against their human farmer, hoping to create a society where the animals can be equal, free, and happy.",
   },
   {
@@ -179,6 +192,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9780/0084/9780008471286.jpg",
     stock: 10,
     quantitySold: 0,
+    Publisher:"HarperCollins Publishers",
     synopsis:"This critically acclaimed epic trilogy follows the quest undertaken by the hobbit, Frodo Baggins, and his fellowship of companions to save Middle-earth by destroying the One Ring and defeating the evil forces of the Dark Lord Sauron.",
   },
   {
@@ -192,6 +206,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9780/2419/9780241984758.jpg",
     stock: 40,
     quantitySold: 0,
+    Publisher:"Penguin Books Ltd",
     synopsis:"The Catcher in the Rye is an American novel by J. D. Salinger that was partially published in serial form 1945–46 before being novelized in 1951. Originally intended for adults, it is often read by adolescents for its themes of angst and alienation, and as a critique of superficiality in society.",
   },
   {
@@ -205,6 +220,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9780/0074/9780007487301.jpg",
     stock: 80,
     quantitySold: 0,
+    Publisher:"HarperCollins Publishers",
     synopsis:"The Hobbit, or There and Back Again is a children's fantasy novel by English author J. R. R. Tolkien. It was published in 1937 to wide critical acclaim, being nominated for the Carnegie Medal and awarded a prize from the New York Herald Tribune for best juvenile fiction.",
   },
   {
@@ -218,6 +234,7 @@ export default [
       "https://cdn.waterstones.com/override/v1/large/9780/0081/9780008144227.jpg",
     stock: 120,
     quantitySold: 0,
+    Publisher:"Penguin Books Ltd",
     synopsis:"The Alchemist is a novel by Brazilian author Paulo Coelho which was first published in 1988. Originally written in Portuguese, it became a widely translated international bestseller.",
   },
   {
@@ -231,6 +248,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9780/0071/9780007117307.jpg",
     stock: 55,
     quantitySold: 0,
+    Publisher:"HarperCollins Publishers",
     synopsis:"The Chronicles of Narnia have enchanted millions of readers over the last fifty years and the magical events described in C.S. Lewis's immortal prose have left many a lasting memory for adults and children alike.",
   },
   {
@@ -244,6 +262,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9780/5521/9780552159715.jpg",
     stock: 65,
     quantitySold: 0,
+    Publisher:"Penguin Books Ltd",
     synopsis:"The phenomenal bestseller that brought codebreaking and the Knights Templar into the mainstream, Brown's unputdownable blockbuster finds a professor and a cryptologist on the trail of an ancient conspiracy.",
   },
   {
@@ -257,6 +276,7 @@ export default [
       "https://cdn.waterstones.com/override/v1/large/9781/4071/9781407132082.jpg",
     stock: 20,
     quantitySold: 0,
+    Publisher:"Scholastic",
     synopsis:"The first book in the ground-breaking Hunger Games trilogy. Set in a dark vision of the near future, a terrifying reality TV show is taking place. Twelve boys and twelve girls are forced to appear in a live event called The Hunger Games. There is only one rule: kill or be killed.",
   },
   {
@@ -270,6 +290,7 @@ export default [
       "https://cdn.waterstones.com/override/v1/large/9781/4071/9781407132099.jpg",
     stock: 15,
     quantitySold: 0,
+    Publisher:"Scholastic",
     synopsis:"After winning the brutal Hunger Games, Katniss and Peeta return to their district, hoping for a peaceful future. But their victory has caused rebellion to break out... and the Capitol has decided that someone must pay.",
   },
   {
@@ -283,6 +304,7 @@ export default [
       "https://cdn.waterstones.com/override/v1/large/9781/4071/9781407132105.jpg",
     stock: 10,
     quantitySold: 0,
+    Publisher:"Scholastic",
     synopsis:"Against all odds, Katniss Everdeen has survived the Hunger Games twice. But now that she's made it out of the bloody arena alive, she's still not safe. The Capitol is angry. The Capitol wants revenge. Who do they think should pay for the unrest? Katniss.",
   },
   {
@@ -296,6 +318,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/5290/9781529095258.jpg",
     stock: 15,
     quantitySold: 0,
+    Publisher:"Pan Macmillan",
     synopsis:"Opening the doors to a world of magic, ancient wisdom and secret societies, this slice of richly imagined and unputdownable fantasy follows six uniquely talented young magicians as they are invited to an initiation that will change their lives forever.",
   },
   {
@@ -309,20 +332,8 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/5291/9781529157840.jpg",
     stock: 15,
     quantitySold: 0,
+    Publisher:"Cornerstone",
     synopsis:"Shipbound slayings and priceless paintings abound in Hindle's rollicking period detective drama set aboard the Endeavour.",
-  },
-  {
-    title: "A Fatal Crossing",
-    category: "Fiction",
-    author: "Tom Hindle",
-    pageCount: 464,
-    price: 8.99,
-    publicationDate: "28/07/2022",
-    thumbnail:
-      "https://cdn.waterstones.com/bookjackets/large/9781/5291/9781529157840.jpg",
-    stock: 15,
-    quantitySold: 0,
-    synopsis:"",
   },
   {
     title: "American Psycho",
@@ -335,6 +346,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/5290/9781529077155.jpg",
     stock: 15,
     quantitySold: 0,
+    Publisher:"Pan Macmillan",
     synopsis:"Savagely satirical and consistently shocking, Ellis's iconic tale of Wall Street banker Patrick Bateman's dark psychopathy has become an enduring modern classic.",
   },
   {
@@ -348,6 +360,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/5266/9781526637369.jpg",
     stock: 15,
     quantitySold: 0,
+    Publisher:"Bloomsbury Publishing PLC",
     synopsis:"Whispers of witchcraft and sinister revelations of an old shipwreck fill the life of Thomas Treadwater – a reluctant soldier and man of reason – with dark unrest in Andrews’ mesmeric historical mystery set amidst the English Civil War.",
   },
   {
@@ -361,6 +374,7 @@ export default [
       "https://cdn.waterstones.com/override/v1/large/9780/2419/9780241994535.jpg",
     stock: 15,
     quantitySold: 0,
+    Publisher:"Penguin Books Ltd",
     synopsis:"Characteristically taut and incisively written, the final completed novel from the unassailable master of espionage finds an independent bookshop owner caught between the sinister attentions of a Polish emigre; and the dogged suspicions of a British spy chief.",
   },
   {
@@ -374,6 +388,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/8389/9781838933593.jpg",
     stock: 15,
     quantitySold: 0,
+    Publisher:"Bloomsbury Publishing PLC",
     synopsis:"Following on from the bestselling The Wolf Den, this second part of Harper's mesmerising trilogy set in ancient Pompeii sees Amara, now freed from slavery, navigate her new life which transpires to be no less precarious than before.",
   },
   {
@@ -387,6 +402,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9780/8112/9780811204811.jpg",
     stock: 15,
     quantitySold: 0,
+    Publisher:"New Directions Publishing Corporation",
     synopsis:"The devastating account of a young Japanese man caught between the collapse of traditional ideas and the onset of encroaching Westernisation, Dazai's short novel is an unforgettable study in alienation and submerged identity.",
   },
   {
@@ -400,6 +416,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9780/8112/9780811200325.jpg",
     stock: 15,
     quantitySold: 0,
+    Publisher:"New Directions Publishing Corporation",
     synopsis:"Set in the early postwar years, it probes the destructive effects of war and the transition from a feudal Japan to an industrial society.",
   },
   {
@@ -413,6 +430,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9780/8112/9780811234542.jpg",
     stock: 15,
     quantitySold: 0,
+    Publisher:"New Directions Publishing Corporation",
     synopsis:"A glimpse into the lives of a group of outsiders in pre-war Japan, The Flowers of Buffoonery is a darkly humorous and fresh addition to Osamu Dazai's masterful and intoxicating oeuvre.",
   },
   {
@@ -426,6 +444,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/5291/9781529176759.jpg",
     stock: 15,
     quantitySold: 0,
+    Publisher:"Transworld Publishers Ltd",
     synopsis:"The author of the bestselling phenomenon The Girl on the Train returns with another white-knuckle thriller awash with unbearable suspense and jaw-dropping misdirection, as three women are brought into conflict through a brutal murder.",
   },
   {
@@ -439,6 +458,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/8389/9781838930509.jpg",
     stock: 15,
     quantitySold: 0,
+    Publisher:"Bloomsbury Publishing PLC",
     synopsis:"Boasting a remarkably accomplished epic sweep and sharply focused attention to character and place, Min Jin Lee’s breathtaking saga chronicles the lives of four generations of Japanese citizens with rich psychological acuity. ",
   },
   {
@@ -452,6 +472,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4722/9781472223821.jpg",
     stock: 15,
     quantitySold: 0,
+    Publisher:"Headline Publishing Group",
     synopsis:"One of our greatest living novelists resurrects the short life of Hamnet Shakespeare, in a lyrically written and emotionally devastating account of the Bard’s only son.",
   },
   {
@@ -465,6 +486,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9780/0994/9780099448822.jpg",
     stock: 20,
     quantitySold: 0,
+    Publisher:"Vintage Publishing",
     synopsis:"When he hears her favourite Beatles song, Toru Watanabe recalls his first love Naoko, the girlfriend of his best friend Kizuki.",
   },
   {
@@ -478,6 +500,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4732/9781473226685.jpg",
     stock: 20,
     quantitySold: 0,
+    Publisher:"Orion Publishing Co",
     synopsis:"The ninth compelling instalment of Aaronovitch's brilliantly realised genre-bending fantasy/crime series sees an impossible killing in the London Silver Vaults spell jeopardy for Detective Constable Peter Grant and the rest of the Special Assessment Unit.",
   },
   {
@@ -491,6 +514,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/7884/9781788424233.jpg",
     stock: 20,
     quantitySold: 0,
+    Publisher:"Duckworth Books",
     synopsis:"A peace-loving British B&B owner in rural France turns sleuth when one his guests disappears in the first wonderfully witty whodunit in Moore’s entertaining Follett Valley series, perfect for fans of The Thursday Murder Club.",
   },
   {
@@ -504,6 +528,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/9145/9781914585449.jpg",
     stock: 20,
     quantitySold: 0,
+    Publisher:"Orenda Books",
     synopsis:"When three people suffer strokes after seeing dazzling lights over Edinburgh, then awake completely recovered, they're convinced their ordeal is connected to the alien creature discovered on a nearby beach... an adrenaline-soaked, deeply humane, life-affirming first-contact novel from one of Scotland's most revered authors...",
   },
   {
@@ -517,6 +542,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/5290/9781529047356.jpg",
     stock: 20,
     quantitySold: 0,
+    Publisher:"Pan Macmillan",
     synopsis:"Inspired by a haunting true story, a gorgeous and atmospheric novel about the mysterious disappearance of three lighthouse keepers from a remote tower miles from the Cornish coast—and about the wives who were left behind.",
   },
   {
@@ -530,6 +556,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/5291/9781529114225.jpg",
     stock: 20,
     quantitySold: 0,
+    Publisher:"Vintage Publishing",
     synopsis:"A scintillating allegory of anthropomorphic uprising with echoes of Animal Farm, the second novel from the author of We Need New Names incisively captures the destructive cycle of corrupting power and relentless tyranny.",
   },
   {
@@ -543,6 +570,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9780/2415/9780241554746.jpg",
     stock: 20,
     quantitySold: 0,
+    Publisher:"Penguin Books Ltd",
     synopsis:"For fans of Madeline Miller, a stunning debut following Clytemnestra, the most notorious villainess of the ancient world and the events that forged her into the legendary queen.",
   },
   {
@@ -556,6 +584,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/7876/9781787636392.jpg",
     stock: 5,
     quantitySold: 0,
+    Publisher:"Penguin Books Ltd",
     synopsis:"The Secret History meets Ninth House in this sinister, atmospheric novel following a circle of researchers as they uncover a mysterious deck of tarot cards and shocking secrets in New York’s famed Met Cloisters.",
   },
   {
@@ -569,6 +598,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9780/2419/9780241983201.jpg",
     stock: 5,
     quantitySold: 0,
+    Publisher:"Penguin Books Ltd",
     synopsis:"The Silence of the Girls is a 2018 novel by English novelist Pat Barker. It recounts the events of the Iliad, chiefly from the point of view of Briseis.",
   },
   {
@@ -582,6 +612,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9780/1414/9780141442464.jpg",
     stock: 5,
     quantitySold: 0,
+    Publisher:"Penguin Books Ltd",
     synopsis:"The Picture of Dorian Gray is a philosophical novel by Irish writer Oscar Wilde. A shorter novella-length version was published in the July 1890 issue of the American periodical Lippincott's Monthly Magazine. The novel-length version was published in April 1891.",
   },
   {
@@ -595,6 +626,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/5291/9781529176643.jpg",
     stock: 15,
     quantitySold: 0,
+    Publisher:"Penguin Books Ltd",
     synopsis:"The unforgettable story of a daredevil female aviator determined to chart her own course in life, at any cost: an “epic trip—through Prohibition and World War II, from Montana to London to present-day Hollywood—and you’ll relish every minute”",
   },
   {
@@ -608,6 +640,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/5293/9781529350487.jpg",
     stock: 15,
     quantitySold: 0,
+    Publisher:"Hodder & Stoughton",
     synopsis:"A James Patterson Presents Novel From the #1 New York Times and USA Today bestselling author of the Stalking Jack the Ripper series comes a new blockbuster series...  Two sisters.One brutal murder. A quest for vengeance that will unleash Hell itself...",
   },
   {
@@ -621,6 +654,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9780/5712/9780571258246.jpg",
     stock: 15,
     quantitySold: 0,
+    Publisher:"Faber & Faber",
     synopsis:"The Remains of the Day is a 1989 novel by the Nobel Prize-winning British author Kazuo Ishiguro. The protagonist, Stevens, is a butler with a long record of service at Darlington Hall, a stately home near Oxford, England.",
   },
   {
@@ -634,6 +668,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9780/3491/9780349139630.jpg",
     stock: 15,
     quantitySold: 0,
+    Publisher:"Little, Brown Book Group",
     synopsis:"The Goldfinch is a novel by the American author Donna Tartt. It won the 2014 Pulitzer Prize for Fiction, among other honors. Published in 2013, it was Tartt's first novel since The Little Friend in 2002.",
   },
   {
@@ -647,6 +682,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/7822/9781782276203.jpg",
     stock: 15,
     quantitySold: 0,
+    Publisher:"Pushkin Press",
     synopsis:"Tender is the Flesh is a dystopian novel by Argentine author Agustina Bazterrica. The novel was originally published in Spanish in 2017 and translated by Sarah Moses into English in 2020. Tender is the Flesh portrays a society in which a virus has contaminated all animal meat.",
   },
   {
@@ -660,6 +696,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4091/9781409181682.jpg",
     stock: 15,
     quantitySold: 0,
+    Publisher:"Orion Publishing Co",
     synopsis:"The Maidens Novel tells an elegant and atmospheric story of secret societies and murder at a university.",
   },
   {
@@ -673,6 +710,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9780/0081/9780008119096.jpg",
     stock: 15,
     quantitySold: 0,
+    Publisher:"HarperCollins Publishers",
     synopsis:"London, 1666. As the Great Fire consumes everything in its path, the body of a man is found in the ruins of St Paul’s Cathedral – stabbed in the neck, thumbs tied behind his back.",
   },
   {
@@ -686,6 +724,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9780/3490/9780349010359.jpg",
     stock: 15,
     quantitySold: 0,
+    Publisher:"Heartburn",
     synopsis:"A 40th anniversary reissue of Ephron's hilarious first novel that memorably mixed food, heartbreak, and revenge into a comic masterpiece.",
   },
   {
@@ -699,6 +738,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9780/0083/9780008381691.jpg",
     stock: 15,
     quantitySold: 0,
+    Publisher:"Wolf Hall",
     synopsis:"Watch the events of Henry VIII's life unfold through the eyes of his sometimes-confidant, sometimes-adversary Thomas Cromwell in this sweeping historical epic.",
   },
   {
@@ -712,6 +752,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4091/9781409150725.jpg",
     stock: 15,
     quantitySold: 0,
+    Publisher:"Red Queen",
     synopsis:"A rich, dark fantasy with endless twists and turns. When Mare Barrow finds herself thrust into the cut-throat Silver Court, she must learn to play the game of politics. With interesting characters, a gripping plot, and poetic writing, Red Queen is a fantasy series you don’t want to miss.",
   },
   {
@@ -725,6 +766,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4722/9781472276087.jpg",
     stock: 15,
     quantitySold: 0,
+    Publisher:"Headline Publishing Group",
     synopsis:"A convent librarian must choose between protecting her sisters or discovering the truth about a mysterious book in this haunting and compelling page-turner from the author of Sea Fever.",
   },
   {
@@ -738,6 +780,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4722/9781472276087.jpg",
     stock: 15,
     quantitySold: 0,
+    Publisher:"Transworld Publishers Ltd",
     synopsis:"Following the privileged Cleverly family as they navigate the jungle of modern living, The Echo Chamber is a deliciously constructed story about reputation and presumption from the bestselling author of The Heart’s Invisible Furies.",
   },
   {
@@ -751,6 +794,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/5293/9781529394214.jpg",
     stock: 15,
     quantitySold: 0,
+    Publisher:"John Murray Press",
     synopsis:"A heist thriller with a heavyweight emotional and social undertow, Takamura's seminal 1997 work is an enduring slice of Japanese noir and the worthy recipient of a long overdue English translation.",
   },
   {
@@ -764,6 +808,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/5290/9781529061475.jpg",
     stock: 15,
     quantitySold: 0,
+    Publisher:"Pan Macmillan",
     synopsis:"From the classicist and author of A Thousand Ships and Pandora's Jar comes another bravura reimagining of Greek myth as the story of Medusa is transformed into a powerful meditation on mortality, betrayal and the cruel limits of beauty.",
   },
   {
@@ -777,6 +822,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9780/1411/9780141186351.jpg",
     stock: 15,
     quantitySold: 0,
+    Publisher:"Penguin Books Ltd",
     synopsis:"Truly groundbreaking in its treatment of homosexual relationships and the stigma surrounding them in the 1950s, Baldwin's concise masterpiece focuses on David and Hella's separation in Paris and David's subsequent entanglement with the passionate Giovanni.",
   },
   {
@@ -790,6 +836,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/5290/9781529095302.jpg",
     stock: 15,
     quantitySold: 0,
+    Publisher:"Pan Macmillan",
     synopsis:"Following hot on the heels of the mega-selling fantasy debut The Atlas Six, the second part of Olivie Blake's spectacular magical saga ups the ante on excitement and adventure.",
   },
   {
@@ -803,6 +850,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9780/0994/9780099458326.jpg",
     stock: 15,
     quantitySold: 0,
+    Publisher:"Vintage Publishing",
     synopsis:"A runaway teen and an ageing cat whisperer collide in this fabulist extravaganza that showcases all of Murakami’s philosophical playfulness and surreal exuberance. Kafka on the Shore effortlessly siphons the legacy of magic realism into Murakami’s own hypnotically skewed version, leaving the reader enthralled and intoxicated by the novel’s close.",
   },
   {
@@ -816,6 +864,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/8462/9781846276033.jpg",
     stock: 15,
     quantitySold: 0,
+    Publisher:"Granta Books",
     synopsis:"Mining a rich seam of quietly suffocating misogyny, control and mental health, Kang's beautiful, chilling story of a woman who makes an unpopular decision is an indisputable modern classic.",
   },
   {
@@ -829,6 +878,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9780/2416/9780241619780.jpg",
     stock: 15,
     quantitySold: 0,
+    Publisher:"Penguin Books Ltd",
     synopsis:"A man with no memory is found dead and suspicion clouds the community. Inspector Jimmy Perez must hunt for a calculating killer in White Nights, the second Shetland mystery from Ann Cleeves.",
   },
   {
@@ -842,6 +892,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/5098/9781509898411.jpg",
     stock: 15,
     quantitySold: 0,
+    Publisher:"Pan Macmillan",
     synopsis:"Soon to be a major motion picture, The Nightingale has captured the hearts of millions of readers becoming a number one bestseller across the world. It is a heart-breakingly beautiful novel that celebrates the resilience of the human spirit and the endurance of women.",
   },
   {
@@ -855,6 +906,7 @@ export default [
       "https://cdn.waterstones.com/override/v1/large/9780/2414/9780241457467.jpg",
     stock: 15,
     quantitySold: 0,
+    Publisher:"Penguin Books Ltd",
     synopsis:"In sharp yet sumptuous prose, Fuller paints a stunning portrait of two middle-aged twins whose carefully cultivated existence on the fringes of society begins to unravel following the death of their mother.",
   },
   {
@@ -868,6 +920,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/9162/9781916277182.jpg",
     stock: 15,
     quantitySold: 0,
+    Publisher:"Honford Star",
     synopsis:"Deploying the fantastical and surreal to address very real issues of patriarchy and capitalism, the stories that comprise Chung's dazzling collection are vivid riots of unpredictability and invention.",
   },
   {
@@ -881,23 +934,11 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/9144/9781914484896.jpg",
     stock: 15,
     quantitySold: 0,
+    Publisher:"Scribe Publications",
     synopsis:"From New York Times bestselling author and Mountain Goats singer/songwriter John Darnielle, an epic, gripping novel about murder, truth, artistic obsession, and the dangers of storytelling.",
   },
   {
     title: "Whale",
-    category: "Fiction",
-    author: "Cheon Myeong-kwan",
-    pageCount: 368,
-    price: 14.99,
-    publicationDate: "19/01/2023",
-    thumbnail:
-      "https://cdn.waterstones.com/bookjackets/large/9781/7877/9781787704336.jpg",
-    stock: 15,
-    quantitySold: 0,
-    synopsis:"A magic realist masterpiece with echoes of One Hundred Years of Solitude, Cheon Myeong-kwan's mesmerising novel takes place in a remote South Korean village that abounds in fantastical incidents.",
-  },
-  {
-    title: "The Whispering Muse",
     category: "Fiction",
     author: "Laura Purcell",
     pageCount: 304,
@@ -907,6 +948,7 @@ export default [
       "https://cdn.waterstones.com/override/v1/large/9781/5266/9781526627186.jpg",
     stock: 15,
     quantitySold: 0,
+    Publisher:"Europa Editions",
     synopsis:"From the author of The Silent Companions and The Shape of Darkness comes a thrilling gothic tale of dangerous bargains and vaulting ambition, as an actress makes a pact with an ancient Greek muse to become the greatest performer of all time.",
   },
   {
@@ -920,6 +962,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/3996/9781399607735.jpg",
     stock: 15,
     quantitySold: 0,
+    Publisher:"Orion Publishing Co",
     synopsis:"Wire-taut, unbearably tense and told in crisp, spare prose, Matheson’s ground-breaking zombie/vampire hybrid unleashed a horde of imitators and continues to influence both horror and sci-fi genres. ",
   },
   {
@@ -933,6 +976,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/9141/9781914198335.jpg",
     stock: 15,
     quantitySold: 0,
+    Publisher:"Daunt Books",
     synopsis:"With shades of Roald Dahl and Shirley Jackson, Dale's masterpiece of skin-crawling suburban terror sees a trusting middle-aged couple take in an unhappy widow - with horrifying results.",
   },
   {
@@ -946,6 +990,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/5291/9781529152548.jpg",
     stock: 15,
     quantitySold: 0,
+    Publisher:"Cornerstone",
     synopsis:"Perfect for fans of Marilynne Robinson, this lyrical and thought-provoking novel from the Pulitzer Prize-winning author explores home, heredity and redemption through an arresting narrative about an island utopia in its final days.",
   },
   {
@@ -959,6 +1004,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9780/7553/9780755322817.jpg",
     stock: 15,
     quantitySold: 0,
+    Publisher:"Headline Publishing Group",
     synopsis:"Gaiman’s wildly imaginative magnum opus follows a bereaved husband and an alleged former god on a riotously fantastical road trip through the dark heart of America.",
   },
   {
@@ -972,6 +1018,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9780/0992/9780099282877.jpg",
     stock: 15,
     quantitySold: 0,
+    Publisher:"Vintage Publishing",
     synopsis:"Tom Ripley, charming yet petulant, reckless yet calculating, is one of the great literary anti-heroes, and his shocking actions across the jet-set Europe of the 1950s have thrilled and appalled millions of voracious readers.",
   },
   {
@@ -985,6 +1032,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/5290/9781529077162.jpg",
     stock: 15,
     quantitySold: 0,
+    Publisher:"Pan Macmillan",
     synopsis:"The wrath of God lies sleeping. It was hid a million years before men were and only men have power to wake it. Hell aint half full.",
   },
   {
@@ -998,6 +1046,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/7822/9781782275404.jpg",
     stock: 15,
     quantitySold: 0,
+    Publisher:"Pushkin Press",
     synopsis:"Tackling themes of ethics, science and haunting family legacies, McCarthy's tour de force - the first of a hugely exciting literary duet - finds Bobby Western attempting to outrun shadowy organisations and the ghost of his atom bomb-inventing father in pursuit of the truth about a sunken jet and its missing passenger.",
   },
   {
@@ -1011,6 +1060,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4091/9781409186182.jpg",
     stock: 0,
     quantitySold: 0,
+    Publisher:"Orion Publishing Co",
     synopsis:"Ballard and Bosch return in another compelling police procedural, as New Year's revelry turns fatal when an auto shop owner is murdered during a chaotic street party.",
   },
   {
@@ -1024,6 +1074,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9780/2413/9780241347782.jpg",
     stock: 20,
     quantitySold: 0,
+    Publisher:"Penguin Books Ltd",
     synopsis:"A collection of the most famous cases faced by Sir Arthur Conan Doyle's peerless creation, The Adventures of Sherlock Holmes and the Memoirs of Sherlock Holmes contains an introduction by Iain Pears and notes by Ed Glinert in Penguin Classics.",
   },
   {
@@ -1037,6 +1088,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9780/0072/9780007232161.jpg",
     stock: 20,
     quantitySold: 0,
+    Publisher:"HarperCollins Publishers",
     synopsis:"Those eyes are fixed on someone. But who? What is she thinking as she stares out from one of the world's best-loved paintings?",
   },
   {
@@ -1050,6 +1102,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9780/0084/9780008446086.jpg",
     stock: 20,
     quantitySold: 0,
+    Publisher:"HarperCollins Publishers",
     synopsis:"The tragic end to an intimate dinner in an affluent West London home unearths a mesh of secrets and deception in this chilling, ingeniously plotted domestic noir from the author of Hold Your Breath.",
   },
   {
@@ -1063,6 +1116,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9780/0085/9780008531621.jpg",
     stock: 20,
     quantitySold: 0,
+    Publisher:"HarperCollins Publishers",
     synopsis:"A breakneck thriller filled with non-stop suspense, perfect for fans of Harlan Coben, Mark Dawson and Terry Hayes' I Am Pilgrim.",
   },
   {
@@ -1076,6 +1130,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4472/9781447233176.jpg",
     stock: 20,
     quantitySold: 0,
+    Publisher:"Pan Macmillan",
     synopsis:"A condemned woman is forced to work alongside a deeply mistrustful family whilst she awaits execution in this bravura period novel about the shapeshifting nature of truth set in early nineteenth-century Iceland.",
   },
   {
@@ -1089,6 +1144,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/7837/9781783787371.jpg",
     stock: 20,
     quantitySold: 0,
+    Publisher:"Granta Books",
     synopsis:"Thrillingly transgressive and wildly imaginative, this scintillating collection of stories from the bestselling author of Convenience Store Woman takes in curtains, cannibalism and 'clean marriages.'",
   },
   {
@@ -1102,6 +1158,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9780/1411/9780141186375.jpg",
     stock: 20,
     quantitySold: 0,
+    Publisher:"Penguin Books Ltd",
     synopsis:"Ranging from self-portraits to political photo collages, this utterly immersive dive into postwar social and cultural British history features giants of reportage photography from Don McCullin, Lee Miller, Cold War Steve and more.",
   },
   {
@@ -1115,6 +1172,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/5293/9781529387308.jpg",
     stock: 20,
     quantitySold: 0,
+    Publisher:"John Murray Press",
     synopsis:"In the aftermath of their child’s death, a couple haunted by grief and guilt search for answers by digging into the past in this evocative slice of folk horror from the acclaimed author of The Loney.   ",
   },
   {
@@ -1128,6 +1186,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/5293/9781529327700.jpg",
     stock: 20,
     quantitySold: 0,
+    Publisher:"John Murray Press",
     synopsis:"The surprising origins and people behind the world's most influential magical tales: the people who told and re-shaped them, the landscapes that forged them, and the cultures that formed them and were in turn formed by them.",
   },
   {
@@ -1141,6 +1200,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9780/2415/9780241597361.jpg",
     stock: 10,
     quantitySold: 0,
+    Publisher:"Vintage Publishing",
     synopsis:"Set in Vienna during the First World War and in the looming shadow of the rise of Fascism, Faulks’s elegant, psychologically acute novel tracks a small group of individuals as they struggle to come to terms with the destruction of an old world and the terrifying new shape of its successor.",
   },
   {
@@ -1154,6 +1214,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9780/2415/9780241597040.jpg",
     stock: 10,
     quantitySold: 0,
+    Publisher:"Penguin Books Ltd",
     synopsis:"Street Haunting is an essay by Virginia Woolf about the joy of walking the streets of London in winter.",
   },
   {
@@ -1167,6 +1228,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/3996/9781399600460.jpg",
     stock: 10,
     quantitySold: 0,
+    Publisher:"Orion Publishing Co",
     synopsis:"A brilliantly clever and compelling thriller about the dangers of Artificial Intelligence and corporate greed, The Mountain in the Sea sees pioneering research into a deadly species of octopus go horribly awry.",
   },
   {
@@ -1180,6 +1242,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/8389/9781838957148.jpg",
     stock: 10,
     quantitySold: 0,
+    Publisher:"Atlantic Books",
     synopsis:"Tender, funny and totally unpredictable, Shroff’s refreshing take on the feminist revenge thriller sees the women of a rural Indian village unite in a peculiar and sinister project.",
   },
   {
@@ -1193,6 +1256,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/7848/9781784875428.jpg",
     stock: 10,
     quantitySold: 0,
+    Publisher:"Vintage Publishing",
     synopsis:"Mishima's greatest novel, and one of the greatest of the past century",
   },
   {
@@ -1206,6 +1270,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9780/5713/9780571375202.jpg",
     stock: 10,
     quantitySold: 0,
+    Publisher:"Faber & Faber",
     synopsis:"Shocking and hilarious, tragic and visceral, this experimental portrait of motherhood and mental illness written in 1930 has never felt more visionary.",
   },
   {
@@ -1219,6 +1284,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/7837/9781783789757.jpg",
     stock: 10,
     quantitySold: 0,
+    Publisher:"Granta Books",
     synopsis:"Delightfully idiosyncratic and exquisitely written, Oyamada's novel of masculinity, fertility and marriage is comprised of a trio of increasingly surreal dinner conversations between two old friends.",
   },
   {
@@ -1232,6 +1298,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9780/2413/9780241387160.jpg",
     stock: 5,
     quantitySold: 0,
+    Publisher:"Penguin Books Ltd",
     synopsis:"The ultimate alien invasion story, Wells’s electrifying yarn has been oft imitated but never bettered. Expertly combining the minutiae of late- Victorian England with the spectacular arrival of dazzlingly imagined extra-terrestrial beings, The War of the Worlds is a triumph of set piece action and pulsating atmosphere.",
   },
   {
@@ -1245,6 +1312,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9780/2415/9780241582527.jpg",
     stock: 5,
     quantitySold: 0,
+    Publisher:"Penguin Books Ltd",
     synopsis:"Collecting three lesser-known works by one of the nineteenth century's greatest authors, Jane Austen's Lady Susan, The Watsons and Sanditon is edited with an introduction by Margaret Drabble in Penguin Classics.",
   },
   {
@@ -1258,6 +1326,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9780/2415/9780241554401.jpg",
     stock: 5,
     quantitySold: 0,
+    Publisher:"Penguin Books Ltd",
     synopsis:"The Outsider gives King fans exactly what they want at the same time as cramming in new ideas.",
   },
   {
@@ -1271,6 +1340,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9780/5521/9780552177344.jpg",
     stock: 5,
     quantitySold: 0,
+    Publisher:"Transworld Publishers Ltd",
     synopsis:"There are dark forces at work in our world (and in Manchester in particular), so thank God The Stranger Times is on hand to report them . . .",
   },
   {
@@ -1284,6 +1354,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/5293/9781529340686.jpg",
     stock: 5,
     quantitySold: 0,
+    Publisher:"Hodder & Stoughton",
     synopsis:"A bold, utterly unforgettable novel about new beginnings and the survival of hope that’s already a huge hit with our booksellers, The Stranding tells the story of one woman’s extraordinary journey as the world reels from a seismic catastrophic event.",
   },
   {
@@ -1297,6 +1368,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/7822/9781782278368.jpg",
     stock: 5,
     quantitySold: 0,
+    Publisher:"Pushkin Press",
     synopsis:"Weaving a gripping story around one widely unpopular Detective Inspector, an unfortunate car wash owner and a psychopathic gang leader from Glasgow’s heinous underbelly, McSorley’s masterful debut thriller brims with blood, brilliantly drawn characters and pitch-black humour.",
   },
   {
@@ -1310,6 +1382,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/7868/9781786891686.jpg",
     stock: 20,
     quantitySold: 0,
+    Publisher:"Canongate Books",
     synopsis:"Pi is bewitching, the tale both nihilistic and naive, philosophical and playful, deeply moving while always treading the line clear of schmalz.",
   },
   {
@@ -1323,6 +1396,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/5266/9781526611154.jpg",
     stock: 20,
     quantitySold: 0,
+    Publisher:"Bloomsbury Publishing PLC",
     synopsis:"A dark, primal story of smuggling, suppression and retribution set in eighteenth-century Yorkshire, The Gallows Pole’s stygian murk borders on folk horror. A fictionalised retelling of the outlaw Cragg Vale Coiners and the brutality they trailed in their wake, it is a novel that bubbles with uncanny local myth and parochial terrors.",
   },
   {
@@ -1336,6 +1410,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9780/1411/9780141192499.jpg",
     stock: 20,
     quantitySold: 0,
+    Publisher:"Penguin Books Ltd",
     synopsis:"In this spellbinding, dark coming of age tale of orphan Oliver in the backstreets of London, Charles Dickens launches a scathing attack on Victorian poverty, gifting the world with such iconic characters as the brutal Bill Sikes and manipulative Fagin.   ",
   },
   {
@@ -1349,6 +1424,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9780/8575/9780857504791.jpg",
     stock: 20,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"In the most eagerly-awaited memoir of 2023, Prince Harry tells his version of the story about the tragic death of his mother Princess Diana, life within the Royal Family and his marriage to Meghan, Duchess of Sussex, with remarkable candour and directness.",
   },
   {
@@ -1362,6 +1438,7 @@ export default [
       "https://cdn.waterstones.com/override/v2/large/2928/3770/2928377094980.jpg",
     stock: 20,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Arguing with passion, eloquence and unrivalled insight, the veteran broadcast journalist delivers a trenchant critique of the pernicious effect of inequality in society through the pivotal stories that he has covered.",
   },
   {
@@ -1375,6 +1452,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9780/2415/9780241582589.jpg",
     stock: 20,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Drawing on records of conversations and meetings the author and raconteur had with Elizabeth II, Brandreth delivers a moving, intimate portrait of the much-missed monarch, laced with his trademark gentle humour and unfailing eloquence.",
   },
   {
@@ -1388,6 +1466,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/5291/9781529149524.jpg",
     stock: 20,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Reading like the purest fictional heist thriller, The Gold tells the riveting true story of Britain's biggest ever robbery and its jaw-dropping aftermath in pacey, page-turning prose.",
   },
   {
@@ -1401,6 +1480,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4746/9781474612807.jpg",
     stock: 20,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"From musicals and plays to relationships and personal quirks, this fascinating biography of Noel Coward sheds new light on the life, career and incredible body of work of this prolific and truly multi-talented man.",
   },
   {
@@ -1414,6 +1494,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4722/9781472291103.jpg",
     stock: 20,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Charting her path from the 1990s most famous cover girl to a devoted mother and activist, Pamela Anderson’s revealing and deeply personal memoir reflects an extraordinary life in and out of the limelight.",
   },
   {
@@ -1427,6 +1508,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/5291/9781529199352.jpg",
     stock: 3,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Covering the entirety of the Gypsy King's career to date, Gloves Off chronicles Fury's tempestuous life from his Travelling upbringing to his battles with mental health and his devotion to his wife and children in compelling, candid prose.",
   },
   {
@@ -1440,6 +1522,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/5291/9781529124866.jpg",
     stock: 20,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Love him or loathe him, there is no denying the immense sporting and cultural impact of Tyson Fury. Behind the Mask is the candid, combative memoir of a prodigiously talented but stridently outspoken and troubled individual, all recounted in the author’s inimitably dynamic style.",
   },
   {
@@ -1453,6 +1536,7 @@ export default [
       "https://cdn.waterstones.com/override/v4/large/9780/2419/9780241982976.jpg",
     stock: 20,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Warm, wise, and revelatory, Becoming is the deeply personal story of a woman of soul and substance who has steadily defied expectations - and whose story inspires us to do the same.",
   },
   {
@@ -1466,6 +1550,7 @@ export default [
       "https://cdn.waterstones.com/override/v1/large/9781/5291/9781529124156.jpg",
     stock: 20,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Tracing the incredible career of one of the biggest music and film stars of all time, Will Smith's inspirational memoir also homes in on the emotional toll that stardom can exact and provides sound advice to all those who think they have mastered life only to find themselves unfulfilled.",
   },
   {
@@ -1479,6 +1564,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/8049/9781804991206.jpg",
     stock: 0,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Charting Putin's inexorable rise to power and the ruthlessness he has exhibited during his twenty-first-century rule, the award-winning journalist brilliantly dissects the Russian president's imperial aims.",
   },
   {
@@ -1492,6 +1578,7 @@ export default [
       "https://cdn.waterstones.com/override/v1/large/9781/5290/9781529063417.jpg",
     stock: 0,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"The celebrated royal biographer and author of Queen of the World delivers the definitive account of Elizabeth II's record-breaking tenure as British monarch, highlighting her inspirational commitment to duty and embodiment of the very best of British values.",
   },
   {
@@ -1505,6 +1592,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/3996/9781399611671.jpg",
     stock: 11,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Top scorer and Player of the Tournament at the UEFA Women's Euros, the gifted Beth Mead lifts the lid on the Lionesses' glorious victory as well as telling the story of her own path to the top of the international game.",
   },
   {
@@ -1518,6 +1606,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/5293/9781529369045.jpg",
     stock: 15,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Both a thrilling story of escape and fortitude and a profoundly important contribution to Holocaust literature, Freedland's expertly crafted account of two Jewish inmates who broke out of Auschwitz and alerted the world to the horrors practiced there is an instant classic of World War II writing.",
   },
   {
@@ -1531,6 +1620,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/5291/9781529151787.jpg",
     stock: 5,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"From a challenging Dublin childhood to worldwide fame with U2 and high-profile campaigning for a multitude of causes, the rock legend and activist tells his hugely eventful story through both candid, lyrical prose and evocative original artwork.",
   },
   {
@@ -1544,6 +1634,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/5291/9781529149418.jpg",
     stock: 5,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Known to millions as the big screen embodiment of Harry Potter's wizarding nemesis Draco Malfoy, Tom Felton delivers a fascinating, wittily written account of his role in of one of the world's most successful film franchises.",
   },
   {
@@ -1557,6 +1648,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4736/9781473695993.jpg",
     stock: 5,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"A fitting, parting gift: Brief Answers to the Big Questions rekindles that excitement we shared as booksellers when A Brief History of Time became the phenomenon it was, Hawking’s zeal and spirit undimmed to the last.",
   },
   {
@@ -1570,6 +1662,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/5293/9781529312263.jpg",
     stock: 15,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Chilled by the glacial winds and lung-burning temperatures, Beyond Possible charts the incredible journey of an elite soldier who conquered 14 of the world’s toughest peaks in six months.",
   },
   {
@@ -1583,6 +1676,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/8049/9781804990896.jpg",
     stock: 15,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Gripping, darkly funny and uniquely insightful, the BBC radio presenter’s candid memoir is both an unflinching account of family dysfunction and education in a Quaker Boarding School and an eye-opening portrait of 1970s Britain.",
   },
   {
@@ -1596,6 +1690,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9780/0082/9780008229443.jpg",
     stock: 15,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"From the spit and sweat of the New York Punk scene to the glamour and polish of New Wave success, Debbie Harry has relentlessly maintained her invincible aura of cool. ",
   },
   {
@@ -1609,6 +1704,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4059/9781405938020.jpg",
     stock: 15,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"One iconic polar explorer pays fitting tribute to another in this vivid, page-turning account of Ernest Shackleton’s dramatic 1915 expedition to the South Pole and his team's remarkable escape from the jaws of almost certain death.",
   },
   {
@@ -1622,6 +1718,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4165/9781416511212.jpg",
     stock: 5,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Of huge interest even to readers indifferent to its story of prowess trouncing prejudice... Every dressing-room, let alone every changing-room, should have one ",
   },
   {
@@ -1635,6 +1732,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4447/9781444723250.jpg",
     stock: 5,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"",
   },
   {
@@ -1648,6 +1746,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/3996/9781399605809.jpg",
     stock: 15,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Brilliantly structured, friendly and inspiring, On Writing will empower and entertain everyone who reads it - fans, writers, and anyone who loves a great story well told.",
   },
   {
@@ -1661,6 +1760,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4736/9781473689121.jpg",
     stock: 15,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Both an inspiring account of determination and adventuring spirit, and a field guide to some of the most remote, perilous and awesome terrain on Earth, Step by Step is Simon Reeve’s record of the thrills and challenges of his many and varied travels.",
   },
   {
@@ -1674,6 +1774,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9780/7535/9780753555644.jpg",
     stock: 15,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Musk wants to save our planet; he wants to send citizens into space, to form a colony on Mars; he wants to make money while doing these things; and he wants us all to know about it.",
   },
   {
@@ -1687,6 +1788,7 @@ export default [
       "https://cdn.waterstones.com/override/v1/large/9781/5098/9781509853342.jpg",
     stock: 15,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"From his 70s glam rock pomp to a settled twenty-first-century family life, the former Reg Dwight has been a consistent, iconic presence in British popular culture for the last fifty years. Me is the refreshingly candid and hugely entertaining memoir of an artist who lived the rock n roll lifestyle to the full.",
   },
   {
@@ -1700,6 +1802,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9780/0084/9780008466619.jpg",
     stock: 15,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Thought-provoking, heartwarming and often laugh-out-loud funny, this unforgettable memoir reveals what life is really like for our vets.",
   },
   {
@@ -1713,6 +1816,7 @@ export default [
       "https://cdn.waterstones.com/override/v1/large/2928/3771/2928377174095.jpg",
     stock: 15,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"The Haas Formula 1 boss and show-stealing star of Netflix's Drive to Survive takes readers through a full F1 season - from hiring and firing drivers to the race calendar itself - in his own inimitable fashion.",
   },
   {
@@ -1726,6 +1830,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/0350/9781035016556.jpg",
     stock: 15,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"As page-turning as any political thriller, Payne's riveting account of the downfall of Boris Johnson lurches from the Owen Paterson affair to Partygate and the Chris Pincher allegations in a narrative of inexorable collapse and catastrophe.",
   },
   {
@@ -1739,6 +1844,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9780/5002/9780500296820.jpg",
     stock: 5,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"An illustrated selection of Van Gogh's letters, forming an extraordinary window into the life and creative thinking of one of the world's most iconic artists.",
   },
   {
@@ -1752,6 +1858,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/5293/9781529366730.jpg",
     stock: 0,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"With a focus on the female members of the English branch of the prominent Rothschild dynasty, Livingstone’s entertaining and richly detailed book reveals a cast of extraordinary women who defied the rules and shaped society across three centuries.",
   },
   {
@@ -1765,6 +1872,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/9135/9781913543310.jpg",
     stock: 2,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"",
   },
   {
@@ -1778,6 +1886,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4711/9781471148118.jpg",
     stock: 2,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Using his long experience and psychological expertise, Berry-Dee seeks to understand the motivation, the amoral urges and the merciless horror behind Dahmer's inhuman behaviour: what could make a man do this?",
   },
   {
@@ -1791,6 +1900,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9780/3491/9780349140438.jpg",
     stock: 15,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Based on more than forty interviews with Steve Jobs conducted over two years - as well as interviews with more than a hundred family members, friends, adversaries, competitors, and colleagues - this is the acclaimed, internationally bestselling biography of the ultimate icon of inventiveness.",
   },
   {
@@ -1804,6 +1914,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/7830/9781783053711.jpg",
     stock: 15,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"This biography, the most in-depth look at Kanye's life and career to date, lifts the mask to expose the man behind the endless myths.",
   },
   {
@@ -1817,6 +1928,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/7892/9781789290448.jpg",
     stock: 15,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Arguably the most explosive biography of a member of the British Royal Family there has ever been, Morton's notorious volume gave Diana, Princess of Wales the chance to present her side of a highly public story for the first time and fundamentally changed the course of the British monarchy in the process.",
   },
   {
@@ -1830,6 +1942,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9780/2416/9780241623848.jpg",
     stock: 15,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"The inspirational Liverpool captain and England international delivers his first autobiography, recounting his decade-long career at Anfield and revealing fascinating details about his football-obsessed Sunderland youth.",
   },
   {
@@ -1843,6 +1956,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/9126/9781912624805.jpg",
     stock: 15,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"This is the most complete self-portrait ever painted by a serial killer... as unique a document as Bundy was a killer. There are lessons in this book for everyone",
   },
   {
@@ -1856,6 +1970,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/7802/9781780226583.jpg",
     stock: 15,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"I Am Malala will make you believe in the power of one person's voice to inspire change in the world.",
   },
   {
@@ -1869,6 +1984,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9780/0075/9780007502530.jpg",
     stock: 15,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Undisputed Truth, is the American dream writ large in raw detail: think Citizen Kane scripted by the writing team of The Wire",
   },
   {
@@ -1882,6 +1998,7 @@ export default [
       "https://cdn.waterstones.com/override/v1/large/9781/4215/9781421580364.jpg",
     stock: 30,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"One of the greatest horror series in manga history, the visceral Tokyo Ghoul introduces the shy Ken Kaneki, unwittingly transformed into a half-human, half-ghoul hybrid after a first date goes seriously wrong.",
   },
   {
@@ -1895,6 +2012,7 @@ export default [
       "https://cdn.waterstones.com/override/v1/large/9781/4215/9781421580371.jpg",
     stock: 25,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"One of the greatest horror series in manga history, the visceral Tokyo Ghoul introduces the shy Ken Kaneki, unwittingly transformed into a half-human, half-ghoul hybrid after a first date goes seriously wrong.",
   },
   {
@@ -1908,6 +2026,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421580388.jpg",
     stock: 20,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"One of the greatest horror series in manga history, the visceral Tokyo Ghoul introduces the shy Ken Kaneki, unwittingly transformed into a half-human, half-ghoul hybrid after a first date goes seriously wrong.",
   },
   {
@@ -1921,6 +2040,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421580395.jpg",
     stock: 18,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"One of the greatest horror series in manga history, the visceral Tokyo Ghoul introduces the shy Ken Kaneki, unwittingly transformed into a half-human, half-ghoul hybrid after a first date goes seriously wrong.",
   },
   {
@@ -1934,6 +2054,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421580401.jpg",
     stock: 15,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"One of the greatest horror series in manga history, the visceral Tokyo Ghoul introduces the shy Ken Kaneki, unwittingly transformed into a half-human, half-ghoul hybrid after a first date goes seriously wrong.",
   },
   {
@@ -1947,6 +2068,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421580418.jpg",
     stock: 12,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"One of the greatest horror series in manga history, the visceral Tokyo Ghoul introduces the shy Ken Kaneki, unwittingly transformed into a half-human, half-ghoul hybrid after a first date goes seriously wrong.",
   },
   {
@@ -1960,6 +2082,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421580425.jpg",
     stock: 10,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"One of the greatest horror series in manga history, the visceral Tokyo Ghoul introduces the shy Ken Kaneki, unwittingly transformed into a half-human, half-ghoul hybrid after a first date goes seriously wrong.",
   },
   {
@@ -1973,6 +2096,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421580432.jpg",
     stock: 8,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"One of the greatest horror series in manga history, the visceral Tokyo Ghoul introduces the shy Ken Kaneki, unwittingly transformed into a half-human, half-ghoul hybrid after a first date goes seriously wrong.",
   },
   {
@@ -1986,6 +2110,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421580449.jpg",
     stock: 10,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"One of the greatest horror series in manga history, the visceral Tokyo Ghoul introduces the shy Ken Kaneki, unwittingly transformed into a half-human, half-ghoul hybrid after a first date goes seriously wrong.",
   },
   {
@@ -1999,6 +2124,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421580456.jpg",
     stock: 6,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"One of the greatest horror series in manga history, the visceral Tokyo Ghoul introduces the shy Ken Kaneki, unwittingly transformed into a half-human, half-ghoul hybrid after a first date goes seriously wrong.",
   },
   {
@@ -2012,6 +2138,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421580463.jpg",
     stock: 5,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"One of the greatest horror series in manga history, the visceral Tokyo Ghoul introduces the shy Ken Kaneki, unwittingly transformed into a half-human, half-ghoul hybrid after a first date goes seriously wrong.",
   },
   {
@@ -2025,6 +2152,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421580470.jpg",
     stock: 4,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"One of the greatest horror series in manga history, the visceral Tokyo Ghoul introduces the shy Ken Kaneki, unwittingly transformed into a half-human, half-ghoul hybrid after a first date goes seriously wrong.",
   },
   {
@@ -2038,6 +2166,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421590424.jpg",
     stock: 3,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"One of the greatest horror series in manga history, the visceral Tokyo Ghoul introduces the shy Ken Kaneki, unwittingly transformed into a half-human, half-ghoul hybrid after a first date goes seriously wrong.",
   },
   {
@@ -2051,6 +2180,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421590431.jpg",
     stock: 2,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"One of the greatest horror series in manga history, the visceral Tokyo Ghoul introduces the shy Ken Kaneki, unwittingly transformed into a half-human, half-ghoul hybrid after a first date goes seriously wrong.",
   },
   {
@@ -2064,6 +2194,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/9747/9781974703180.jpg",
     stock: 2,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"A box set that includes all fourteen volumes of the original Tokyo Ghoul series. Includes an exclusive double-sided poster.",
   },
   {
@@ -2077,6 +2208,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421594965.jpg",
     stock: 10,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"In the world of Tokyo Ghoul, sometimes the only way to fight monsters is to become one…",
   },
   {
@@ -2090,6 +2222,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421594972.jpg",
     stock: 9,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"In the world of Tokyo Ghoul, sometimes the only way to fight monsters is to become one…",
   },
   {
@@ -2103,6 +2236,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421594989.jpg",
     stock: 8,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"In the world of Tokyo Ghoul, sometimes the only way to fight monsters is to become one…",
   },
   {
@@ -2116,6 +2250,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421594996.jpg",
     stock: 7,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"In the world of Tokyo Ghoul, sometimes the only way to fight monsters is to become one…",
   },
   {
@@ -2129,6 +2264,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421595009.jpg",
     stock: 6,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"In the world of Tokyo Ghoul, sometimes the only way to fight monsters is to become one…",
   },
   {
@@ -2142,6 +2278,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421595016.jpg",
     stock: 5,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"In the world of Tokyo Ghoul, sometimes the only way to fight monsters is to become one…",
   },
   {
@@ -2155,6 +2292,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421595023.jpg",
     stock: 4,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"In the world of Tokyo Ghoul, sometimes the only way to fight monsters is to become one…",
   },
   {
@@ -2168,6 +2306,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421595030.jpg",
     stock: 3,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"In the world of Tokyo Ghoul, sometimes the only way to fight monsters is to become one…",
   },
   {
@@ -2181,6 +2320,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421598246.jpg",
     stock: 2,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"In the world of Tokyo Ghoul, sometimes the only way to fight monsters is to become one…",
   },
   {
@@ -2194,6 +2334,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421598253.jpg",
     stock: 1,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"In the world of Tokyo Ghoul, sometimes the only way to fight monsters is to become one…",
   },
   {
@@ -2207,6 +2348,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/9747/9781974700387.jpg",
     stock: 0,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"In the world of Tokyo Ghoul, sometimes the only way to fight monsters is to become one…",
   },
   {
@@ -2220,6 +2362,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/9747/9781974700370.jpg",
     stock: 5,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"In the world of Tokyo Ghoul, sometimes the only way to fight monsters is to become one…",
   },
   {
@@ -2233,6 +2376,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/9747/9781974701537.jpg",
     stock: 7,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"In the world of Tokyo Ghoul, sometimes the only way to fight monsters is to become one…",
   },
   {
@@ -2246,6 +2390,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/9747/9781974704453.jpg",
     stock: 8,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"In the world of Tokyo Ghoul, sometimes the only way to fight monsters is to become one…",
   },
   {
@@ -2259,6 +2404,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/9747/9781974704569.jpg",
     stock: 6,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"In the world of Tokyo Ghoul, sometimes the only way to fight monsters is to become one…",
   },
   {
@@ -2272,6 +2418,7 @@ export default [
       "https://cdn.waterstones.com/override/v1/large/9781/9747/9781974707423.jpg",
     stock: 10,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"In the world of Tokyo Ghoul, sometimes the only way to fight monsters is to become one…",
   },
   {
@@ -2285,6 +2432,7 @@ export default [
       "https://cdn.waterstones.com/override/v1/large/9781/9747/9781974707423.jpg",
     stock: 10,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"A box set that includes all 16 volumes of the original Tokyo Ghoul: re series, with an exclusive double-sided poster.",
   },
   {
@@ -2298,6 +2446,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421599618.jpg",
     stock: 5,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"A deluxe bind-up edition of Naoki Urasawa's award-winning epic of doomsday cults, giant robots and a group of friends trying to save the world from destruction!",
   },
   {
@@ -2311,6 +2460,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421599625.jpg",
     stock: 3,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"A deluxe bind-up edition of Naoki Urasawa's award-winning epic of doomsday cults, giant robots and a group of friends trying to save the world from destruction!",
   },
   {
@@ -2324,6 +2474,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421599632.jpg",
     stock: 1,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"A deluxe bind-up edition of Naoki Urasawa's award-winning epic of doomsday cults, giant robots and a group of friends trying to save the world from destruction!",
   },
   {
@@ -2337,6 +2488,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421599649.jpg",
     stock: 0,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"A deluxe bind-up edition of Naoki Urasawa's award-winning epic of doomsday cults, giant robots and a group of friends trying to save the world from destruction!",
   },
   {
@@ -2350,6 +2502,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421599656.jpg",
     stock: 7,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"A deluxe bind-up edition of Naoki Urasawa's award-winning epic of doomsday cults, giant robots and a group of friends trying to save the world from destruction!",
   },
   {
@@ -2363,6 +2516,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421599663.jpg",
     stock: 6,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"A deluxe bind-up edition of Naoki Urasawa's award-winning epic of doomsday cults, giant robots and a group of friends trying to save the world from destruction!",
   },
   {
@@ -2376,6 +2530,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421599670.jpg",
     stock: 2,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"A deluxe bind-up edition of Naoki Urasawa's award-winning epic of doomsday cults, giant robots and a group of friends trying to save the world from destruction!",
   },
   {
@@ -2389,6 +2544,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421599687.jpg",
     stock: 4,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"A deluxe bind-up edition of Naoki Urasawa's award-winning epic of doomsday cults, giant robots and a group of friends trying to save the world from destruction!",
   },
   {
@@ -2402,6 +2558,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421599694.jpg",
     stock: 5,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"A deluxe bind-up edition of Naoki Urasawa's award-winning epic of doomsday cults, giant robots and a group of friends trying to save the world from destruction!",
   },
   {
@@ -2415,6 +2572,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421599700.jpg",
     stock: 3,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"A deluxe bind-up edition of Naoki Urasawa's award-winning epic of doomsday cults, giant robots and a group of friends trying to save the world from destruction!",
   },
   {
@@ -2428,6 +2586,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421599717.jpg",
     stock: 1,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"A deluxe bind-up edition of Naoki Urasawa's award-winning epic of doomsday cults, giant robots and a group of friends trying to save the world from destruction!",
   },
   {
@@ -2441,6 +2600,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421599724.jpg",
     stock: 1,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"A deluxe bind-up edition of Naoki Urasawa's award-winning epic of doomsday cults, giant robots and a group of friends trying to save the world from destruction!",
   },
   {
@@ -2454,6 +2614,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421520544.jpg",
     stock: 10,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Striving for enlightenment by way of the sword, Miyamoto Musashi is prepared to cut down anyone who stands in his way. Vagabond is an action-packed portrayal of the life and times of the quintessential warrior-philosopher - the most celebrated samurai of all time!",
   },
   {
@@ -2467,6 +2628,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421522449.jpg",
     stock: 7,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Striving for enlightenment by way of the sword, Miyamoto Musashi is prepared to cut down anyone who stands in his way. Vagabond is an action-packed portrayal of the life and times of the quintessential warrior-philosopher - the most celebrated samurai of all time!",
   },
   {
@@ -2480,6 +2642,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421522456.jpg",
     stock: 4,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Striving for enlightenment by way of the sword, Miyamoto Musashi is prepared to cut down anyone who stands in his way. Vagabond is an action-packed portrayal of the life and times of the quintessential warrior-philosopher - the most celebrated samurai of all time!",
   },
   {
@@ -2493,6 +2656,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421522463.jpg",
     stock: 2,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Striving for enlightenment by way of the sword, Miyamoto Musashi is prepared to cut down anyone who stands in his way. Vagabond is an action-packed portrayal of the life and times of the quintessential warrior-philosopher - the most celebrated samurai of all time!",
   },
   {
@@ -2506,6 +2670,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421522470.jpg",
     stock: 6,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Striving for enlightenment by way of the sword, Miyamoto Musashi is prepared to cut down anyone who stands in his way. Vagabond is an action-packed portrayal of the life and times of the quintessential warrior-philosopher - the most celebrated samurai of all time!",
   },
   {
@@ -2519,6 +2684,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421522807.jpg",
     stock: 1,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Striving for enlightenment by way of the sword, Miyamoto Musashi is prepared to cut down anyone who stands in his way. Vagabond is an action-packed portrayal of the life and times of the quintessential warrior-philosopher - the most celebrated samurai of all time!",
   },
   {
@@ -2532,6 +2698,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421522814.jpg",
     stock: 0,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Striving for enlightenment by way of the sword, Miyamoto Musashi is prepared to cut down anyone who stands in his way. Vagabond is an action-packed portrayal of the life and times of the quintessential warrior-philosopher - the most celebrated samurai of all time!",
   },
   {
@@ -2545,6 +2712,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421522821.jpg",
     stock: 17,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Striving for enlightenment by way of the sword, Miyamoto Musashi is prepared to cut down anyone who stands in his way. Vagabond is an action-packed portrayal of the life and times of the quintessential warrior-philosopher - the most celebrated samurai of all time!",
   },
   {
@@ -2558,6 +2726,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421523132.jpg",
     stock: 3,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Striving for enlightenment by way of the sword, Miyamoto Musashi is prepared to cut down anyone who stands in his way. Vagabond is an action-packed portrayal of the life and times of the quintessential warrior-philosopher - the most celebrated samurai of all time!",
   },
   {
@@ -2571,6 +2740,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421529158.jpg",
     stock: 5,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Striving for enlightenment by way of the sword, Miyamoto Musashi is prepared to cut down anyone who stands in his way. Vagabond is an action-packed portrayal of the life and times of the quintessential warrior-philosopher - the most celebrated samurai of all time!",
   },
   {
@@ -2584,6 +2754,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421549293.jpg",
     stock: 2,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Striving for enlightenment by way of the sword, Miyamoto Musashi is prepared to cut down anyone who stands in his way. Vagabond is an action-packed portrayal of the life and times of the quintessential warrior-philosopher - the most celebrated samurai of all time!",
   },
   {
@@ -2597,6 +2768,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421573342.jpg",
     stock: 1,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Striving for enlightenment by way of the sword, Miyamoto Musashi is prepared to cut down anyone who stands in his way. Vagabond is an action-packed portrayal of the life and times of the quintessential warrior-philosopher - the most celebrated samurai of all time!",
   },
   {
@@ -2610,6 +2782,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421561325.jpg",
     stock: 4,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"A fogbound Japanese coastal town is held in the thrall to the mysterious spiral in Ito’s darkly atmospheric and unnerving classic of uncanny, encroaching dread.",
   },
   {
@@ -2623,6 +2796,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421590561.jpg",
     stock: 2,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"The complete classic horror series, now available in a single deluxe volume. Murdered again and again, one girl always comes back for more... ",
   },
   {
@@ -2636,6 +2810,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421579153.jpg",
     stock: 6,
     quantitySold: 0,
+    Publisher:"",
     synopsis:" Here is the creepiest masterpiece of horror manga ever from the creator of Uzumaki, Junji Ito. Hold your breath until all is revealed.",
   },
   {
@@ -2649,6 +2824,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421598468.jpg",
     stock: 3,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Thirteen chilling nightmares, presented by the master of horror.",
   },
   {
@@ -2662,6 +2838,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421580791.jpg",
     stock: 5,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Ranging from the terrifying to the comedic and even the loathsome, these stories showcase Junji Ito's long-awaited return to the world of horror.",
   },
   {
@@ -2675,6 +2852,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421596938.jpg",
     stock: 2,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"This volume includes nine of Junji Ito's best short stories, as selected by the author himself and presented with accompanying notes and commentary.",
   },
   {
@@ -2688,6 +2866,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/9747/9781974707096.jpg",
     stock: 1,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Manga legend Junji Ito transforms Osamu Dazai's Japanese classic of mental breakdown and spiralling psychosis into a visceral visual feast for the senses.",
   },
   {
@@ -2701,6 +2880,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/9747/9781974703760.jpg",
     stock: 4,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"The master of horror manga brings the world's greatest horror novel-Frankenstein-back to life.",
   },
   {
@@ -2714,6 +2894,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421586205.jpg",
     stock: 3,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Meet Punpun Punyama. He's an average kid in an average town.",
   },
   {
@@ -2727,6 +2908,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421586212.jpg",
     stock: 1,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Meet Punpun Punyama. He's an average kid in an average town.",
   },
   {
@@ -2740,6 +2922,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421586229.jpg",
     stock: 5,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Meet Punpun Punyama. He's an average kid in an average town.",
   },
   {
@@ -2753,6 +2936,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421586236.jpg",
     stock: 0,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Meet Punpun Punyama. He's an average kid in an average town.",
   },
   {
@@ -2766,6 +2950,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421586243.jpg",
     stock: 2,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Meet Punpun Punyama. He's an average kid in an average town.",
   },
   {
@@ -2779,6 +2964,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421586250.jpg",
     stock: 2,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Meet Punpun Punyama. He's an average kid in an average town.",
   },
   {
@@ -2792,6 +2978,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421586267.jpg",
     stock: 0,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Meet Punpun Punyama. He's an average kid in an average town.",
   },
   {
@@ -2805,6 +2992,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/5693/9781569319017.jpg",
     stock: 10,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Follow the riotous adventures of a boy pirate with a rubberised body in Oda’s effervescent comic epic packed with unforgettable characters and spectacular set-pieces. ",
   },
   {
@@ -2818,6 +3006,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591160571.jpg",
     stock: 7,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Follow the riotous adventures of a boy pirate with a rubberised body in Oda’s effervescent comic epic packed with unforgettable characters and spectacular set-pieces. ",
   },
   {
@@ -2831,6 +3020,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591161844.jpg",
     stock: 3,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Follow the riotous adventures of a boy pirate with a rubberised body in Oda’s effervescent comic epic packed with unforgettable characters and spectacular set-pieces. ",
   },
   {
@@ -2844,6 +3034,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591163374.jpg",
     stock: 5,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Follow the riotous adventures of a boy pirate with a rubberised body in Oda’s effervescent comic epic packed with unforgettable characters and spectacular set-pieces. ",
   },
   {
@@ -2857,6 +3048,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591166153.jpg",
     stock: 9,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Follow the riotous adventures of a boy pirate with a rubberised body in Oda’s effervescent comic epic packed with unforgettable characters and spectacular set-pieces. ",
   },
   {
@@ -2870,6 +3062,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591167235.jpg",
     stock: 2,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Follow the riotous adventures of a boy pirate with a rubberised body in Oda’s effervescent comic epic packed with unforgettable characters and spectacular set-pieces. ",
   },
   {
@@ -2883,6 +3076,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591168522.jpg",
     stock: 4,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Follow the riotous adventures of a boy pirate with a rubberised body in Oda’s effervescent comic epic packed with unforgettable characters and spectacular set-pieces. ",
   },
   {
@@ -2896,6 +3090,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421500751.jpg",
     stock: 0,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Follow the riotous adventures of a boy pirate with a rubberised body in Oda’s effervescent comic epic packed with unforgettable characters and spectacular set-pieces. ",
   },
   {
@@ -2909,6 +3104,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421560748.jpg",
     stock: 5,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"This box set includes volumes 1-23, which comprise the first two story arcs, East Blue and Baroque Works.",
   },
   {
@@ -2922,6 +3118,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421576060.jpg",
     stock: 20,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"This set includes volumes 24-46, which comprise the third and fourth story arcs of the series, Skypeia and Water Seven.",
   },
   {
@@ -2935,6 +3132,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421590523.jpg",
     stock: 0,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"The third One Piece Box Set contains the arcs Thriller Bark, Sabaody, Impel Down, Paramount War, and New World, which make up vols. 47-70 of the original manga.",
   },
   {
@@ -2948,6 +3146,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/9747/9781974725960.jpg",
     stock: 10,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"The fourth One Piece Box Set contains volumes 71-90, which make up the Dressrosa, Zou, Whole Cake Island, and Reverie arcs.",
   },
   {
@@ -2961,6 +3160,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591164418.jpg",
     stock: 10,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Ichigo Kurosaki never asked for the ability to see ghosts-he was born with the gift. When his family is attacked by a Hollow-a malevolent lost soul-Ichigo becomes a Soul Reaper, dedicating his life to protecting the innocent and helping the tortured spirits themselves find peace.",
   },
   {
@@ -2974,6 +3174,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591164425.jpg",
     stock: 12,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Ichigo Kurosaki never asked for the ability to see ghosts-he was born with the gift. When his family is attacked by a Hollow-a malevolent lost soul-Ichigo becomes a Soul Reaper, dedicating his life to protecting the innocent and helping the tortured spirits themselves find peace.",
   },
   {
@@ -2987,6 +3188,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591164432.jpg",
     stock: 8,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Ichigo Kurosaki never asked for the ability to see ghosts-he was born with the gift. When his family is attacked by a Hollow-a malevolent lost soul-Ichigo becomes a Soul Reaper, dedicating his life to protecting the innocent and helping the tortured spirits themselves find peace.",
   },
   {
@@ -3000,6 +3202,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591164449.jpg",
     stock: 11,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Ichigo Kurosaki never asked for the ability to see ghosts-he was born with the gift. When his family is attacked by a Hollow-a malevolent lost soul-Ichigo becomes a Soul Reaper, dedicating his life to protecting the innocent and helping the tortured spirits themselves find peace.",
   },
   {
@@ -3013,6 +3216,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591164456.jpg",
     stock: 9,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Ichigo Kurosaki never asked for the ability to see ghosts-he was born with the gift. When his family is attacked by a Hollow-a malevolent lost soul-Ichigo becomes a Soul Reaper, dedicating his life to protecting the innocent and helping the tortured spirits themselves find peace.",
   },
   {
@@ -3026,6 +3230,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591167280.jpg",
     stock: 13,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Ichigo Kurosaki never asked for the ability to see ghosts-he was born with the gift. When his family is attacked by a Hollow-a malevolent lost soul-Ichigo becomes a Soul Reaper, dedicating his life to protecting the innocent and helping the tortured spirits themselves find peace.",
   },
   {
@@ -3039,6 +3244,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591168072.jpg",
     stock: 0,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Ichigo Kurosaki never asked for the ability to see ghosts-he was born with the gift. When his family is attacked by a Hollow-a malevolent lost soul-Ichigo becomes a Soul Reaper, dedicating his life to protecting the innocent and helping the tortured spirits themselves find peace.",
   },
   {
@@ -3052,6 +3258,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421526102.jpg",
     stock: 10,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Contains volumes 1-21 and an exclusive double-sided poster and character book!",
   },
   {
@@ -3065,6 +3272,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421580814.jpg",
     stock: 10,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"The second Bleach Box Set. This set features volumes 22-48, along with an exclusive mini-comic containing the pilot story of the series and a full-colour, double-sided poster.",
   },
   {
@@ -3078,6 +3286,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/9747/9781974703197.jpg",
     stock: 5,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"The third and final Bleach manga box set. This set completes the series, featuring volumes 49-74, along with an exclusive booklet containing a cover art gallery and author interview, as well as a full-color, double-sided poster.",
   },
   {
@@ -3091,6 +3300,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/5693/9781569319000.jpg",
     stock: 20,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Naruto is a ninja-in-training with a need for attention, a knack for mischief, and sealed within him, a strange, formidable power. His antics amuse his instructor Kakashi and irritate his teammates, intense Sasuki and witty Sakura, but Naruto is serious about becoming the greatest ninja in the village of Konohagakure!",
   },
   {
@@ -3104,6 +3314,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591161783.jpg",
     stock: 15,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Naruto is a ninja-in-training with a need for attention, a knack for mischief, and sealed within him, a strange, formidable power. His antics amuse his instructor Kakashi and irritate his teammates, intense Sasuki and witty Sakura, but Naruto is serious about becoming the greatest ninja in the village of Konohagakure!",
   },
   {
@@ -3117,6 +3328,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591161875.jpg",
     stock: 25,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Naruto is a ninja-in-training with a need for attention, a knack for mischief, and sealed within him, a strange, formidable power. His antics amuse his instructor Kakashi and irritate his teammates, intense Sasuki and witty Sakura, but Naruto is serious about becoming the greatest ninja in the village of Konohagakure!",
   },
   {
@@ -3130,6 +3342,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421525822.jpg",
     stock: 50,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Includes volumes 1-27 of Naruto, plus an exclusive double-sided poster and character book!",
   },
   {
@@ -3143,6 +3356,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421580807.jpg",
     stock: 25,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Includes volumes 28-48 of Naruto, plus an exclusive double-sided poster and character book!",
   },
   {
@@ -3156,6 +3370,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421583341.jpg",
     stock: 5,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Includes volumes 49-72 of Naruto, plus an exclusive double-sided poster and character book!",
   },
   {
@@ -3169,6 +3384,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/6126/9781612624204.jpg",
     stock: 10,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Amid the chaos of the Viking war for dominance over England, a boy has everything taken from him and vows revenge. But violent dreams bring no peace...",
   },
   {
@@ -3182,6 +3398,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/6126/9781612624211.jpg",
     stock: 8,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Amid the chaos of the Viking war for dominance over England, a boy has everything taken from him and vows revenge. But violent dreams bring no peace...",
   },
   {
@@ -3195,6 +3412,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/6126/9781612624228.jpg",
     stock: 12,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"Amid the chaos of the Viking war for dominance over England, a boy has everything taken from him and vows revenge. But violent dreams bring no peace...",
   },
   {
@@ -3208,6 +3426,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/6126/9781612629711.jpg",
     stock: 5,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"One hundred years after a race of giants destroyed most of humanity, these terrifying Titans return to wreak slaughter on a barricaded city in the first instalment of Isayama’s exhilarating and wildly popular series.",
   },
   {
@@ -3221,6 +3440,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/6323/9781632361813.jpg",
     stock: 7,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"One hundred years after a race of giants destroyed most of humanity, these terrifying Titans return to wreak slaughter on a barricaded city in the first instalment of Isayama’s exhilarating and wildly popular series.",
   },
   {
@@ -3234,6 +3454,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/6323/9781632362957.jpg",
     stock: 3,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"One hundred years after a race of giants destroyed most of humanity, these terrifying Titans return to wreak slaughter on a barricaded city in the first instalment of Isayama’s exhilarating and wildly popular series.",
   },
   {
@@ -3247,6 +3468,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/6323/9781632364647.jpg",
     stock: 10,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"One hundred years after a race of giants destroyed most of humanity, these terrifying Titans return to wreak slaughter on a barricaded city in the first instalment of Isayama’s exhilarating and wildly popular series.",
   },
   {
@@ -3260,6 +3482,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/6323/9781632366566.jpg",
     stock: 2,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"One hundred years after a race of giants destroyed most of humanity, these terrifying Titans return to wreak slaughter on a barricaded city in the first instalment of Isayama’s exhilarating and wildly popular series.",
   },
   {
@@ -3273,6 +3496,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/6465/9781646512782.jpg",
     stock: 8,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"One hundred years after a race of giants destroyed most of humanity, these terrifying Titans return to wreak slaughter on a barricaded city in the first instalment of Isayama’s exhilarating and wildly popular series.",
   },
   {
@@ -3286,6 +3510,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/6465/9781646515653.jpg",
     stock: 12,
     quantitySold: 0,
+    Publisher:"",
     synopsis:"One hundred years after a race of giants destroyed most of humanity, these terrifying Titans return to wreak slaughter on a barricaded city in the first instalment of Isayama’s exhilarating and wildly popular series.",
   },
 ];
