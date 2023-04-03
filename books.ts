@@ -1722,13 +1722,13 @@ export default [
     title: "Spare",
     author: "Prince Harry",
     pageCount: 416,
-    price: 28,
+    price: 27.99,
     publicationDate: "10/01/23",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9780/8575/9780857504791.jpg",
     stock: 20,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Hardcover",
     publisher: "Transworld Publishers Ltd",
     synopsis:
       "In the most eagerly-awaited memoir of 2023, Prince Harry tells his version of the story about the tragic death of his mother Princess Diana, life within the Royal Family and his marriage to Meghan, Duchess of Sussex, with remarkable candour and directness.",
@@ -1739,13 +1739,13 @@ export default [
     title: "The State of Us",
     author: "Jon Snow",
     pageCount: 304,
-    price: 20,
+    price: 19.99,
     publicationDate: "02/03/2023",
     thumbnail:
       "https://cdn.waterstones.com/override/v2/large/2928/3770/2928377094980.jpg",
     stock: 20,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Hardcover",
     publisher: "Transworld Publishers Ltd",
     synopsis:
       "Arguing with passion, eloquence and unrivalled insight, the veteran broadcast journalist delivers a trenchant critique of the pernicious effect of inequality in society through the pivotal stories that he has covered.",
@@ -1756,13 +1756,13 @@ export default [
     title: "Elizabeth",
     author: "Gyles Brandreth",
     pageCount: 576,
-    price: 22,
+    price: 21.99,
     publicationDate: "08/12/2022",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9780/2415/9780241582589.jpg",
     stock: 20,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Hardcover",
     publisher: "Penguin Books Ltd",
     synopsis:
       "Drawing on records of conversations and meetings the author and raconteur had with Elizabeth II, Brandreth delivers a moving, intimate portrait of the much-missed monarch, laced with his trademark gentle humour and unfailing eloquence.",
@@ -1773,13 +1773,13 @@ export default [
     title: "The Gold",
     author: "Niel Forsyth",
     pageCount: 352,
-    price: 15,
+    price: 15.99,
     publicationDate: "16/02/2023",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5291/9781529149524.jpg",
     stock: 20,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Hardcover",
     publisher: "Ebury Publishing",
     synopsis:
       "Reading like the purest fictional heist thriller, The Gold tells the riveting true story of Britain's biggest ever robbery and its jaw-dropping aftermath in pacey, page-turning prose.",
@@ -1790,13 +1790,13 @@ export default [
     title: "Masquerade: The Lives of Noel Coward",
     author: "Oliver Soden",
     pageCount: 656,
-    price: 22,
+    price: 22.99,
     publicationDate: "16/03/2023",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4746/9781474612807.jpg",
     stock: 20,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Hardcover",
     publisher: "Orion Publishing Co",
     synopsis:
       "From musicals and plays to relationships and personal quirks, this fascinating biography of Noel Coward sheds new light on the life, career and incredible body of work of this prolific and truly multi-talented man.",
@@ -1807,13 +1807,13 @@ export default [
     title: "Love, Pamela",
     author: "Pamela Anderson",
     pageCount: 256,
-    price: 17,
+    price: 17.99,
     publicationDate: "31/01/2023",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/4722/9781472291103.jpg",
     stock: 20,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Hardcover",
     publisher: "Headline Publishing Group",
     synopsis:
       "Charting her path from the 1990s most famous cover girl to a devoted mother and activist, Pamela Anderson’s revealing and deeply personal memoir reflects an extraordinary life in and out of the limelight.",
@@ -1824,13 +1824,13 @@ export default [
     title: "Gloves Off",
     author: "Tyson Fury",
     pageCount: 256,
-    price: 19,
+    price: 19.99,
     publicationDate: "10/11/2022",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5291/9781529199352.jpg",
     stock: 3,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Hardcover",
     publisher: "Cornerstone",
     synopsis:
       "Covering the entirety of the Gypsy King's career to date, Gloves Off chronicles Fury's tempestuous life from his Travelling upbringing to his battles with mental health and his devotion to his wife and children in compelling, candid prose.",
@@ -1841,13 +1841,13 @@ export default [
     title: "Behind the Mask",
     author: "Tyson Fury",
     pageCount: 304,
-    price: 20,
+    price: 20.99,
     publicationDate: "14/11/2019",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5291/9781529124866.jpg",
     stock: 20,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Hardcover",
     publisher: "Cornerstone",
     synopsis:
       "Love him or loathe him, there is no denying the immense sporting and cultural impact of Tyson Fury. Behind the Mask is the candid, combative memoir of a prodigiously talented but stridently outspoken and troubled individual, all recounted in the author’s inimitably dynamic style.",
@@ -1858,13 +1858,13 @@ export default [
     title: "Becoming",
     author: "Michelle Obama",
     pageCount: 464,
-    price: 13,
+    price: 13.99,
     publicationDate: "02/03/2021",
     thumbnail:
       "https://cdn.waterstones.com/override/v4/large/9780/2419/9780241982976.jpg",
     stock: 20,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Penguin Books Ltd",
     synopsis:
       "Warm, wise, and revelatory, Becoming is the deeply personal story of a woman of soul and substance who has steadily defied expectations - and whose story inspires us to do the same.",
@@ -1875,13 +1875,13 @@ export default [
     title: "Will",
     author: "Will Smith",
     pageCount: 432,
-    price: 20,
+    price: 20.99,
     publicationDate: "09/11/2021",
     thumbnail:
       "https://cdn.waterstones.com/override/v1/large/9781/5291/9781529124156.jpg",
     stock: 20,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Hardcover",
     publisher: "Cornerstone",
     synopsis:
       "Tracing the incredible career of one of the biggest music and film stars of all time, Will Smith's inspirational memoir also homes in on the emotional toll that stardom can exact and provides sound advice to all those who think they have mastered life only to find themselves unfulfilled.",
@@ -1892,13 +1892,13 @@ export default [
     title: "Killer in the Kremlin",
     author: "John Sweeney",
     pageCount: 352,
-    price: 8,
+    price: 8.99,
     publicationDate: "16/02/2023",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/8049/9781804991206.jpg",
     stock: 0,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Transworld Publishers Ltd",
     synopsis:
       "Charting Putin's inexorable rise to power and the ruthlessness he has exhibited during his twenty-first-century rule, the award-winning journalist brilliantly dissects the Russian president's imperial aims.",
@@ -1915,7 +1915,7 @@ export default [
       "https://cdn.waterstones.com/override/v1/large/9781/5290/9781529063417.jpg",
     stock: 0,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Hardcover",
     publisher: "Pan Macmillan",
     synopsis:
       "The celebrated royal biographer and author of Queen of the World delivers the definitive account of Elizabeth II's record-breaking tenure as British monarch, highlighting her inspirational commitment to duty and embodiment of the very best of British values.",
@@ -1932,7 +1932,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/3996/9781399611671.jpg",
     stock: 11,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Hardcover",
     publisher: "Orion Publishing Co",
     synopsis:
       "Top scorer and Player of the Tournament at the UEFA Women's Euros, the gifted Beth Mead lifts the lid on the Lionesses' glorious victory as well as telling the story of her own path to the top of the international game.",
@@ -1943,13 +1943,13 @@ export default [
     title: "The Escape Artist",
     author: "Jonathan Freedland",
     pageCount: 400,
-    price: 20.0,
+    price: 19.99,
     publicationDate: "09/06/2022",
     thumbnail:
       "https://cdn.waterstones.com/bookjackets/large/9781/5293/9781529369045.jpg",
     stock: 15,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Hardcover",
     publisher: "John Murray Press",
     synopsis:
       "Both a thrilling story of escape and fortitude and a profoundly important contribution to Holocaust literature, Freedland's expertly crafted account of two Jewish inmates who broke out of Auschwitz and alerted the world to the horrors practiced there is an instant classic of World War II writing.",
@@ -1966,7 +1966,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/5291/9781529151787.jpg",
     stock: 5,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Hardcover",
     publisher: "Cornerstone",
     synopsis:
       "From a challenging Dublin childhood to worldwide fame with U2 and high-profile campaigning for a multitude of causes, the rock legend and activist tells his hugely eventful story through both candid, lyrical prose and evocative original artwork.",
@@ -1983,7 +1983,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/5291/9781529149418.jpg",
     stock: 5,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Hardcover",
     publisher: "Ebury Publishing",
     synopsis:
       "Known to millions as the big screen embodiment of Harry Potter's wizarding nemesis Draco Malfoy, Tom Felton delivers a fascinating, wittily written account of his role in of one of the world's most successful film franchises.",
@@ -2000,7 +2000,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4736/9781473695993.jpg",
     stock: 5,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "John Murray Press",
     synopsis:
       "A fitting, parting gift: Brief Answers to the Big Questions rekindles that excitement we shared as booksellers when A Brief History of Time became the phenomenon it was, Hawking’s zeal and spirit undimmed to the last.",
@@ -2017,7 +2017,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/5293/9781529312263.jpg",
     stock: 15,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Hodder & Stoughton",
     synopsis:
       "Chilled by the glacial winds and lung-burning temperatures, Beyond Possible charts the incredible journey of an elite soldier who conquered 14 of the world’s toughest peaks in six months.",
@@ -2034,7 +2034,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/8049/9781804990896.jpg",
     stock: 15,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Transworld Publishers Ltd",
     synopsis:
       "Gripping, darkly funny and uniquely insightful, the BBC radio presenter’s candid memoir is both an unflinching account of family dysfunction and education in a Quaker Boarding School and an eye-opening portrait of 1970s Britain.",
@@ -2051,7 +2051,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9780/0082/9780008229443.jpg",
     stock: 15,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "HarperCollins Publishers",
     synopsis:
       "From the spit and sweat of the New York Punk scene to the glamour and polish of New Wave success, Debbie Harry has relentlessly maintained her invincible aura of cool. ",
@@ -2068,7 +2068,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4059/9781405938020.jpg",
     stock: 15,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Penguin Books Ltd",
     synopsis:
       "One iconic polar explorer pays fitting tribute to another in this vivid, page-turning account of Ernest Shackleton’s dramatic 1915 expedition to the South Pole and his team's remarkable escape from the jaws of almost certain death.",
@@ -2085,7 +2085,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4165/9781416511212.jpg",
     stock: 5,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Simon & Schuster",
     synopsis:
       "Of huge interest even to readers indifferent to its story of prowess trouncing prejudice... Every dressing-room, let alone every changing-room, should have one ",
@@ -2102,7 +2102,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4447/9781444723250.jpg",
     stock: 5,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Hodder & Stoughton",
     synopsis:
       "Brilliantly structured, friendly and inspiring, On Writing will empower and entertain everyone who reads it.",
@@ -2119,7 +2119,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/3996/9781399605809.jpg",
     stock: 15,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Orion Publishing Co",
     synopsis:
       "Brilliantly structured, friendly and inspiring, On Writing will empower and entertain everyone who reads it - fans, writers, and anyone who loves a great story well told.",
@@ -2136,7 +2136,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4736/9781473689121.jpg",
     stock: 15,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Hodder & Stoughton",
     synopsis:
       "Both an inspiring account of determination and adventuring spirit, and a field guide to some of the most remote, perilous and awesome terrain on Earth, Step by Step is Simon Reeve’s record of the thrills and challenges of his many and varied travels.",
@@ -2153,7 +2153,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9780/7535/9780753555644.jpg",
     stock: 15,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Ebury Publishing",
     synopsis:
       "Musk wants to save our planet; he wants to send citizens into space, to form a colony on Mars; he wants to make money while doing these things; and he wants us all to know about it.",
@@ -2170,7 +2170,7 @@ export default [
       "https://cdn.waterstones.com/override/v1/large/9781/5098/9781509853342.jpg",
     stock: 15,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Pan Macmillan",
     synopsis:
       "From his 70s glam rock pomp to a settled twenty-first-century family life, the former Reg Dwight has been a consistent, iconic presence in British popular culture for the last fifty years. Me is the refreshingly candid and hugely entertaining memoir of an artist who lived the rock n roll lifestyle to the full.",
@@ -2187,7 +2187,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9780/0084/9780008466619.jpg",
     stock: 15,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "HarperCollins Publishers",
     synopsis:
       "Thought-provoking, heartwarming and often laugh-out-loud funny, this unforgettable memoir reveals what life is really like for our vets.",
@@ -2204,7 +2204,7 @@ export default [
       "https://cdn.waterstones.com/override/v1/large/2928/3771/2928377174095.jpg",
     stock: 15,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Transworld Publishers Ltd",
     synopsis:
       "The Haas Formula 1 boss and show-stealing star of Netflix's Drive to Survive takes readers through a full F1 season - from hiring and firing drivers to the race calendar itself - in his own inimitable fashion.",
@@ -2221,7 +2221,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/0350/9781035016556.jpg",
     stock: 15,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Hardcover",
     publisher: "Pan Macmillan",
     synopsis:
       "As page-turning as any political thriller, Payne's riveting account of the downfall of Boris Johnson lurches from the Owen Paterson affair to Partygate and the Chris Pincher allegations in a narrative of inexorable collapse and catastrophe.",
@@ -2238,7 +2238,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9780/5002/9780500296820.jpg",
     stock: 5,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Thames & Hudson Ltd",
     synopsis:
       "An illustrated selection of Van Gogh's letters, forming an extraordinary window into the life and creative thinking of one of the world's most iconic artists.",
@@ -2255,7 +2255,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/5293/9781529366730.jpg",
     stock: 0,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "John Murray Press",
     synopsis:
       "With a focus on the female members of the English branch of the prominent Rothschild dynasty, Livingstone’s entertaining and richly detailed book reveals a cast of extraordinary women who defied the rules and shaped society across three centuries.",
@@ -2272,7 +2272,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/9135/9781913543310.jpg",
     stock: 2,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Ad Lib Publishers Ltd",
     synopsis:
       "Berry-Dee delves into the mind of perhaps the most sadistic and psychopathic killer of all time.",
@@ -2289,7 +2289,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4711/9781471148118.jpg",
     stock: 2,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Simon & Schuster Ltd",
     synopsis:
       "Using his long experience and psychological expertise, Berry-Dee seeks to understand the motivation, the amoral urges and the merciless horror behind Dahmer's inhuman behaviour: what could make a man do this?",
@@ -2306,7 +2306,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9780/3491/9780349140438.jpg",
     stock: 15,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Little, Brown Book Group",
     synopsis:
       "Based on more than forty interviews with Steve Jobs conducted over two years - as well as interviews with more than a hundred family members, friends, adversaries, competitors, and colleagues - this is the acclaimed, internationally bestselling biography of the ultimate icon of inventiveness.",
@@ -2323,7 +2323,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/7830/9781783053711.jpg",
     stock: 15,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Hardcover",
     publisher: "Omnibus Press",
     synopsis:
       "This biography, the most in-depth look at Kanye's life and career to date, lifts the mask to expose the man behind the endless myths.",
@@ -2340,7 +2340,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/7892/9781789290448.jpg",
     stock: 15,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Michael O'Mara Books Ltd",
     synopsis:
       "Arguably the most explosive biography of a member of the British Royal Family there has ever been, Morton's notorious volume gave Diana, Princess of Wales the chance to present her side of a highly public story for the first time and fundamentally changed the course of the British monarchy in the process.",
@@ -2357,7 +2357,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9780/2416/9780241623848.jpg",
     stock: 15,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Hardcover",
     publisher: "Penguin Books Ltd",
     synopsis:
       "The inspirational Liverpool captain and England international delivers his first autobiography, recounting his decade-long career at Anfield and revealing fascinating details about his football-obsessed Sunderland youth.",
@@ -2374,7 +2374,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/9126/9781912624805.jpg",
     stock: 15,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Mirror Books",
     synopsis:
       "This is the most complete self-portrait ever painted by a serial killer... as unique a document as Bundy was a killer. There are lessons in this book for everyone",
@@ -2391,7 +2391,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/7802/9781780226583.jpg",
     stock: 15,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Orion Publishing Co",
     synopsis:
       "I Am Malala will make you believe in the power of one person's voice to inspire change in the world.",
@@ -2408,7 +2408,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9780/0075/9780007502530.jpg",
     stock: 15,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "HarperCollins Publishers",
     synopsis:
       "Undisputed Truth, is the American dream writ large in raw detail: think Citizen Kane scripted by the writing team of The Wire",
