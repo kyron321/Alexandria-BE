@@ -2273,7 +2273,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Horror",
     title: "Tokyo Ghoul, Vol. 1",
     author: "Sui Ishida",
     pageCount: 224,
@@ -2289,7 +2289,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Horror",
     title: "Tokyo Ghoul, Vol. 2",
     author: "Sui Ishida",
     pageCount: 208,
@@ -2305,7 +2305,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Horror",
     title: "Tokyo Ghoul, Vol. 3",
     author: "Sui Ishida",
     pageCount: 200,
@@ -2321,7 +2321,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Horror",
     title: "Tokyo Ghoul, Vol. 4",
     author: "Sui Ishida",
     pageCount: 200,
@@ -2337,7 +2337,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Horror",
     title: "Tokyo Ghoul, Vol. 5",
     author: "Sui Ishida",
     pageCount: 200,
@@ -2353,7 +2353,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Horror",
     title: "Tokyo Ghoul, Vol. 6",
     author: "Sui Ishida",
     pageCount: 200,
@@ -2369,7 +2369,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Horror",
     title: "Tokyo Ghoul, Vol. 7",
     author: "Sui Ishida",
     pageCount: 200,
@@ -2385,7 +2385,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Horror",
     title: "Tokyo Ghoul, Vol. 8",
     author: "Sui Ishida",
     pageCount: 200,
@@ -2401,7 +2401,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Horror",
     title: "Tokyo Ghoul, Vol. 9",
     author: "Sui Ishida",
     pageCount: 200,
@@ -2417,7 +2417,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Horror",
     title: "Tokyo Ghoul, Vol. 10",
     author: "Sui Ishida",
     pageCount: 200,
@@ -2433,7 +2433,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Horror",
     title: "Tokyo Ghoul, Vol. 11",
     author: "Sui Ishida",
     pageCount: 200,
@@ -2449,7 +2449,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Horror",
     title: "Tokyo Ghoul, Vol. 12",
     author: "Sui Ishida",
     pageCount: 200,
@@ -2465,7 +2465,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Horror",
     title: "Tokyo Ghoul, Vol. 13",
     author: "Sui Ishida",
     pageCount: 200,
@@ -2481,7 +2481,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Horror",
     title: "Tokyo Ghoul, Vol. 14",
     author: "Sui Ishida",
     pageCount: 200,
@@ -2497,7 +2497,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Horror",
     title: "Tokyo Ghoul: Box Set Vols. 1-14",
     author: "Sui Ishida",
     pageCount: 2904,
@@ -2513,7 +2513,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Horror",
     title: "Tokyo Ghoul:re, Vol. 1",
     author: "Sui Ishida",
     pageCount: 224,
@@ -2529,7 +2529,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Horror",
     title: "Tokyo Ghoul:re, Vol. 2",
     author: "Sui Ishida",
     pageCount: 224,
@@ -2545,7 +2545,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Horror",
     title: "Tokyo Ghoul:re, Vol. 3",
     author: "Sui Ishida",
     pageCount: 224,
@@ -2561,7 +2561,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Horror",
     title: "Tokyo Ghoul:re, Vol. 4",
     author: "Sui Ishida",
     pageCount: 224,
@@ -2577,7 +2577,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Horror",
     title: "Tokyo Ghoul:re, Vol. 5",
     author: "Sui Ishida",
     pageCount: 224,
@@ -2593,7 +2593,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Horror",
     title: "Tokyo Ghoul:re, Vol. 6",
     author: "Sui Ishida",
     pageCount: 224,
@@ -2609,7 +2609,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Horror",
     title: "Tokyo Ghoul:re, Vol. 7",
     author: "Sui Ishida",
     pageCount: 224,
@@ -2625,7 +2625,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Horror",
     title: "Tokyo Ghoul:re, Vol. 8",
     author: "Sui Ishida",
     pageCount: 224,
@@ -2641,7 +2641,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Horror",
     title: "Tokyo Ghoul:re, Vol. 9",
     author: "Sui Ishida",
     pageCount: 224,
@@ -2657,7 +2657,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Horror",
     title: "Tokyo Ghoul:re, Vol. 10",
     author: "Sui Ishida",
     pageCount: 224,
@@ -2673,7 +2673,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Horror",
     title: "Tokyo Ghoul:re, Vol. 11",
     author: "Sui Ishida",
     pageCount: 224,
@@ -2689,7 +2689,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Horror",
     title: "Tokyo Ghoul:re, Vol. 12",
     author: "Sui Ishida",
     pageCount: 224,
@@ -2705,7 +2705,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Horror",
     title: "Tokyo Ghoul:re, Vol. 13",
     author: "Sui Ishida",
     pageCount: 224,
@@ -2721,7 +2721,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Horror",
     title: "Tokyo Ghoul:re, Vol. 14",
     author: "Sui Ishida",
     pageCount: 224,
@@ -2737,7 +2737,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Horror",
     title: "Tokyo Ghoul:re, Vol. 15",
     author: "Sui Ishida",
     pageCount: 224,
@@ -2753,7 +2753,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Horror",
     title: "Tokyo Ghoul:re, Vol. 16",
     author: "Sui Ishida",
     pageCount: 224,
@@ -2769,7 +2769,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Horror",
     title: "Tokyo Ghoul:re Box Set Vols. 1-16",
     author: "Sui Ishida",
     pageCount: 3776,
@@ -2785,7 +2785,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Thrillers & MysteryThrillers & Mystery",
     title: "20th Century Boys, Vol. 1",
     author: "Naoki Urasawa",
     pageCount: 416,
@@ -2801,7 +2801,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Thrillers & Mystery",
     title: "20th Century Boys, Vol. 2",
     author: "Naoki Urasawa",
     pageCount: 416,
@@ -2817,7 +2817,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Thrillers & Mystery",
     title: "20th Century Boys, Vol. 3",
     author: "Naoki Urasawa",
     pageCount: 416,
@@ -2833,7 +2833,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Thrillers & Mystery",
     title: "20th Century Boys, Vol. 4",
     author: "Naoki Urasawa",
     pageCount: 416,
@@ -2849,7 +2849,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Thrillers & Mystery",
     title: "20th Century Boys, Vol. 5",
     author: "Naoki Urasawa",
     pageCount: 416,
@@ -2865,7 +2865,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Thrillers & Mystery",
     title: "20th Century Boys, Vol. 6",
     author: "Naoki Urasawa",
     pageCount: 416,
@@ -2881,7 +2881,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Thrillers & Mystery",
     title: "20th Century Boys, Vol. 7",
     author: "Naoki Urasawa",
     pageCount: 416,
@@ -2897,7 +2897,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Thrillers & Mystery",
     title: "20th Century Boys, Vol. 8",
     author: "Naoki Urasawa",
     pageCount: 416,
@@ -2913,7 +2913,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Thrillers & Mystery",
     title: "20th Century Boys, Vol. 9",
     author: "Naoki Urasawa",
     pageCount: 424,
@@ -2929,7 +2929,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Thrillers & Mystery",
     title: "20th Century Boys, Vol. 10",
     author: "Naoki Urasawa",
     pageCount: 424,
@@ -2945,7 +2945,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Thrillers & Mystery",
     title: "20st Century Boys , Vol. 11",
     author: "Naoki Urasawa",
     pageCount: 424,
@@ -2961,7 +2961,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Thrillers & Mystery",
     title: "21st Century Boys",
     author: "Naoki Urasawa",
     pageCount: 424,
@@ -2977,7 +2977,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Action",
     title: "Vagabond VIZBIG Edition, Vol. 1",
     author: "Takehiko Inoue",
     pageCount: 600,
@@ -2993,7 +2993,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Action",
     title: "Vagabond VIZBIG Edition, Vol. 2",
     author: "Takehiko Inoue",
     pageCount: 640,
@@ -3009,7 +3009,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Action",
     title: "Vagabond VIZBIG Edition, Vol. 3",
     author: "Takehiko Inoue",
     pageCount: 624,
@@ -3025,7 +3025,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Action",
     title: "Vagabond VIZBIG Edition, Vol. 4",
     author: "Takehiko Inoue",
     pageCount: 608,
@@ -3041,7 +3041,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Action",
     title: "Vagabond VIZBIG Edition, Vol. 5",
     author: "Takehiko Inoue",
     pageCount: 608,
@@ -3057,7 +3057,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Action",
     title: "Vagabond VIZBIG Edition, Vol. 6",
     author: "Takehiko Inoue",
     pageCount: 624,
@@ -3073,7 +3073,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Action",
     title: "Vagabond VIZBIG Edition, Vol. 7",
     author: "Takehiko Inoue",
     pageCount: 600,
@@ -3089,7 +3089,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Action",
     title: "Vagabond VIZBIG Edition, Vol. 8",
     author: "Takehiko Inoue",
     pageCount: 640,
@@ -3105,7 +3105,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Action",
     title: "Vagabond VIZBIG Edition, Vol. 9",
     author: "Takehiko Inoue",
     pageCount: 640,
@@ -3121,7 +3121,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Action",
     title: "Vagabond VIZBIG Edition, Vol. 10",
     author: "Takehiko Inoue",
     pageCount: 624,
@@ -3137,7 +3137,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Action",
     title: "Vagabond VIZBIG Edition, Vol. 11",
     author: "Takehiko Inoue",
     pageCount: 656,
@@ -3153,7 +3153,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Action",
     title: "Vagabond VIZBIG Edition, Vol. 12",
     author: "Takehiko Inoue",
     pageCount: 640,
@@ -3169,7 +3169,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Horror",
     title: "Uzumaki: Complete Deluxe Edition",
     author: "Junji Ito",
     pageCount: 648,
@@ -3185,7 +3185,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Horror",
     title: "Tomie: Complete Deluxe Edition",
     author: "Junji Ito",
     pageCount: 752,
@@ -3201,7 +3201,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Horror",
     title: "Gyo: Complete Deluxe Edition",
     author: "Junji Ito",
     pageCount: 432,
@@ -3217,7 +3217,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Horror",
     title: "Smashed: Junji Ito Story Collection",
     author: "Junji Ito",
     pageCount: 416,
@@ -3233,7 +3233,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Horror",
     title: "Fragments of Horror",
     author: "Junji Ito",
     pageCount: 224,
@@ -3249,7 +3249,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Horror",
     title: "Shiver: Junji Ito Selected Stories",
     author: "Junji Ito",
     pageCount: 408,
@@ -3265,7 +3265,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Horror",
     title: "No Longer Human",
     author: "Junji Ito",
     pageCount: 616,
@@ -3281,7 +3281,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Horror",
     title: "Frankenstein: Junji Ito Story Collection",
     author: "Junji Ito",
     pageCount: 408,
@@ -3297,7 +3297,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Psychological",
     title: "Goodnight Punpun, Vol. 1",
     author: "Inio Asano",
     pageCount: 448,
@@ -3312,7 +3312,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Psychological",
     title: "Goodnight Punpun, Vol. 2",
     author: "Inio Asano",
     pageCount: 448,
@@ -3327,7 +3327,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Psychological",
     title: "Goodnight Punpun, Vol. 3",
     author: "Inio Asano",
     pageCount: 448,
@@ -3342,7 +3342,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Psychological",
     title: "Goodnight Punpun, Vol. 4",
     author: "Inio Asano",
     pageCount: 448,
@@ -3357,7 +3357,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Psychological",
     title: "Goodnight Punpun, Vol. 5",
     author: "Inio Asano",
     pageCount: 448,
@@ -3372,7 +3372,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Psychological",
     title: "Goodnight Punpun, Vol. 6",
     author: "Inio Asano",
     pageCount: 448,
@@ -3387,7 +3387,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Psychological",
     title: "Goodnight Punpun, Vol. 7",
     author: "Inio Asano",
     pageCount: 448,
@@ -3402,7 +3402,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Adventure",
     title: "One Piece, Vol. 1",
     author: "Eiichiro Oda",
     pageCount: 208,
@@ -3418,7 +3418,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Adventure",
     title: "One Piece, Vol. 2",
     author: "Eiichiro Oda",
     pageCount: 208,
@@ -3434,7 +3434,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Adventure",
     title: "One Piece, Vol. 3",
     author: "Eiichiro Oda",
     pageCount: 208,
@@ -3450,7 +3450,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Adventure",
     title: "One Piece, Vol. 4",
     author: "Eiichiro Oda",
     pageCount: 200,
@@ -3466,7 +3466,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Adventure",
     title: "One Piece, Vol. 5",
     author: "Eiichiro Oda",
     pageCount: 208,
@@ -3482,7 +3482,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Adventure",
     title: "One Piece, Vol. 6",
     author: "Eiichiro Oda",
     pageCount: 208,
@@ -3498,7 +3498,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Adventure",
     title: "One Piece, Vol. 7",
     author: "Eiichiro Oda",
     pageCount: 208,
@@ -3514,7 +3514,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Adventure",
     title: "One Piece, Vol. 8",
     author: "Eiichiro Oda",
     pageCount: 208,
@@ -3530,7 +3530,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Adventure",
     title: "One Piece: Box Set 1, Vols. 1-23",
     author: "Eiichiro Oda",
     pageCount: 4720,
@@ -3546,7 +3546,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Adventure",
     title: "One Piece: Box Set 2, Vols. 24-46",
     author: "Eiichiro Oda",
     pageCount: 4936,
@@ -3562,7 +3562,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Adventure",
     title: "One Piece: Box Set 3, Vols. 47-70",
     author: "Eiichiro Oda",
     pageCount: 5056,
@@ -3578,7 +3578,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Adventure",
     title: "One Piece: Box Set 4, Vols. 71-90",
     author: "Eiichiro Oda",
     pageCount: 4328,
@@ -3594,7 +3594,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Action",
     title: "Bleach, Vol. 1",
     author: "Tite Kubo",
     pageCount: 192,
@@ -3610,7 +3610,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Action",
     title: "Bleach, Vol. 2",
     author: "Tite Kubo",
     pageCount: 208,
@@ -3626,7 +3626,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Action",
     title: "Bleach, Vol. 3",
     author: "Tite Kubo",
     pageCount: 192,
@@ -3642,7 +3642,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Action",
     title: "Bleach, Vol. 4",
     author: "Tite Kubo",
     pageCount: 192,
@@ -3658,7 +3658,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Action",
     title: "Bleach, Vol. 5",
     author: "Tite Kubo",
     pageCount: 192,
@@ -3674,7 +3674,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Action",
     title: "Bleach, Vol. 6",
     author: "Tite Kubo",
     pageCount: 192,
@@ -3690,7 +3690,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Action",
     title: "Bleach, Vol. 7",
     author: "Tite Kubo",
     pageCount: 192,
@@ -3706,7 +3706,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Action",
     title: "Bleach: Box Set 1, Vols. 1-21",
     author: "Tite Kubo",
     pageCount: 4256,
@@ -3722,7 +3722,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Action",
     title: "Bleach: Box Set 2, Vols. 22-48",
     author: "Tite Kubo",
     pageCount: 5416,
@@ -3738,7 +3738,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Action",
     title: "Bleach: Box Set 3, Vols. 49-74",
     author: "Tite Kubo",
     pageCount: 5096,
@@ -3754,7 +3754,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Action",
     title: "Naruto, Vol. 1",
     author: "Masashi Kishimoto",
     pageCount: 208,
@@ -3770,7 +3770,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Action",
     title: "Naruto, Vol. 2",
     author: "Masashi Kishimoto",
     pageCount: 192,
@@ -3786,7 +3786,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Action",
     title: "Naruto, Vol. 3",
     author: "Masashi Kishimoto",
     pageCount: 192,
@@ -3802,7 +3802,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Action",
     title: "Naruto: Box Set 1, Vols. 1-27",
     author: "Masashi Kishimoto",
     pageCount: 5216,
@@ -3818,7 +3818,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Action",
     title: "Naruto: Box Set 2, Vols. 28-48",
     author: "Masashi Kishimoto",
     pageCount: 4168,
@@ -3834,7 +3834,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Action",
     title: "Naruto: Box Set 3, Vols. 49-72",
     author: "Masashi Kishimoto",
     pageCount: 6688,
@@ -3850,7 +3850,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Adventure",
     title: "Vinland Saga Deluxe, Vol. 1",
     author: "Makoto Yukimura",
     pageCount: 448,
@@ -3866,7 +3866,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Adventure",
     title: "Vinland Saga Deluxe, Vol. 2",
     author: "Makoto Yukimura",
     pageCount: 432,
@@ -3882,7 +3882,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Adventure",
     title: "Vinland Saga Deluxe, Vol. 3",
     author: "Makoto Yukimura",
     pageCount: 432,
@@ -3898,7 +3898,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Adventure",
     title: "Attack on Titan: Colossal Edition, Vol. 1",
     author: "Hajime Isayama",
     pageCount: 960,
@@ -3914,7 +3914,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Adventure",
     title: "Attack on Titan: Colossal Edition, Vol. 2",
     author: "Hajime Isayama",
     pageCount: 960,
@@ -3930,7 +3930,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Adventure",
     title: "Attack on Titan: Colossal Edition, Vol. 3",
     author: "Hajime Isayama",
     pageCount: 960,
@@ -3946,7 +3946,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Adventure",
     title: "Attack on Titan: Colossal Edition, Vol. 4",
     author: "Hajime Isayama",
     pageCount: 960,
@@ -3962,7 +3962,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Adventure",
     title: "Attack on Titan: Colossal Edition, Vol. 5",
     author: "Hajime Isayama",
     pageCount: 960,
@@ -3978,7 +3978,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Adventure",
     title: "Attack on Titan: Colossal Edition, Vol. 6",
     author: "Hajime Isayama",
     pageCount: 960,
@@ -3994,7 +3994,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"",
+    subcategory:"Adventure",
     title: "Attack on Titan: Colossal Edition, Vol. 7",
     author: "Hajime Isayama",
     pageCount: 960,
