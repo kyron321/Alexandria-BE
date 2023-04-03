@@ -2425,7 +2425,7 @@ export default [
       "https://cdn.waterstones.com/override/v1/large/9781/4215/9781421580364.jpg",
     stock: 30,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "One of the greatest horror series in manga history, the visceral Tokyo Ghoul introduces the shy Ken Kaneki, unwittingly transformed into a half-human, half-ghoul hybrid after a first date goes seriously wrong.",
@@ -2442,7 +2442,7 @@ export default [
       "https://cdn.waterstones.com/override/v1/large/9781/4215/9781421580371.jpg",
     stock: 25,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "One of the greatest horror series in manga history, the visceral Tokyo Ghoul introduces the shy Ken Kaneki, unwittingly transformed into a half-human, half-ghoul hybrid after a first date goes seriously wrong.",
@@ -2459,7 +2459,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421580388.jpg",
     stock: 20,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "One of the greatest horror series in manga history, the visceral Tokyo Ghoul introduces the shy Ken Kaneki, unwittingly transformed into a half-human, half-ghoul hybrid after a first date goes seriously wrong.",
@@ -2476,7 +2476,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421580395.jpg",
     stock: 18,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "One of the greatest horror series in manga history, the visceral Tokyo Ghoul introduces the shy Ken Kaneki, unwittingly transformed into a half-human, half-ghoul hybrid after a first date goes seriously wrong.",
@@ -2493,7 +2493,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421580401.jpg",
     stock: 15,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "One of the greatest horror series in manga history, the visceral Tokyo Ghoul introduces the shy Ken Kaneki, unwittingly transformed into a half-human, half-ghoul hybrid after a first date goes seriously wrong.",
@@ -2510,7 +2510,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421580418.jpg",
     stock: 12,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "One of the greatest horror series in manga history, the visceral Tokyo Ghoul introduces the shy Ken Kaneki, unwittingly transformed into a half-human, half-ghoul hybrid after a first date goes seriously wrong.",
@@ -2527,7 +2527,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421580425.jpg",
     stock: 10,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "One of the greatest horror series in manga history, the visceral Tokyo Ghoul introduces the shy Ken Kaneki, unwittingly transformed into a half-human, half-ghoul hybrid after a first date goes seriously wrong.",
@@ -2544,7 +2544,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421580432.jpg",
     stock: 8,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "One of the greatest horror series in manga history, the visceral Tokyo Ghoul introduces the shy Ken Kaneki, unwittingly transformed into a half-human, half-ghoul hybrid after a first date goes seriously wrong.",
@@ -2561,7 +2561,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421580449.jpg",
     stock: 10,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "One of the greatest horror series in manga history, the visceral Tokyo Ghoul introduces the shy Ken Kaneki, unwittingly transformed into a half-human, half-ghoul hybrid after a first date goes seriously wrong.",
@@ -2578,7 +2578,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421580456.jpg",
     stock: 6,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "One of the greatest horror series in manga history, the visceral Tokyo Ghoul introduces the shy Ken Kaneki, unwittingly transformed into a half-human, half-ghoul hybrid after a first date goes seriously wrong.",
@@ -2595,7 +2595,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421580463.jpg",
     stock: 5,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "One of the greatest horror series in manga history, the visceral Tokyo Ghoul introduces the shy Ken Kaneki, unwittingly transformed into a half-human, half-ghoul hybrid after a first date goes seriously wrong.",
@@ -2612,7 +2612,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421580470.jpg",
     stock: 4,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "One of the greatest horror series in manga history, the visceral Tokyo Ghoul introduces the shy Ken Kaneki, unwittingly transformed into a half-human, half-ghoul hybrid after a first date goes seriously wrong.",
@@ -2629,7 +2629,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421590424.jpg",
     stock: 3,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "One of the greatest horror series in manga history, the visceral Tokyo Ghoul introduces the shy Ken Kaneki, unwittingly transformed into a half-human, half-ghoul hybrid after a first date goes seriously wrong.",
@@ -2646,7 +2646,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421590431.jpg",
     stock: 2,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "One of the greatest horror series in manga history, the visceral Tokyo Ghoul introduces the shy Ken Kaneki, unwittingly transformed into a half-human, half-ghoul hybrid after a first date goes seriously wrong.",
@@ -2663,7 +2663,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/9747/9781974703180.jpg",
     stock: 2,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "A box set that includes all fourteen volumes of the original Tokyo Ghoul series. Includes an exclusive double-sided poster.",
@@ -2680,7 +2680,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421594965.jpg",
     stock: 10,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "In the world of Tokyo Ghoul, sometimes the only way to fight monsters is to become one…",
@@ -2697,7 +2697,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421594972.jpg",
     stock: 9,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "In the world of Tokyo Ghoul, sometimes the only way to fight monsters is to become one…",
@@ -2714,7 +2714,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421594989.jpg",
     stock: 8,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "In the world of Tokyo Ghoul, sometimes the only way to fight monsters is to become one…",
@@ -2731,7 +2731,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421594996.jpg",
     stock: 7,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "In the world of Tokyo Ghoul, sometimes the only way to fight monsters is to become one…",
@@ -2748,7 +2748,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421595009.jpg",
     stock: 6,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "In the world of Tokyo Ghoul, sometimes the only way to fight monsters is to become one…",
@@ -2765,7 +2765,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421595016.jpg",
     stock: 5,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "In the world of Tokyo Ghoul, sometimes the only way to fight monsters is to become one…",
@@ -2782,7 +2782,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421595023.jpg",
     stock: 4,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "In the world of Tokyo Ghoul, sometimes the only way to fight monsters is to become one…",
@@ -2799,7 +2799,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421595030.jpg",
     stock: 3,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "In the world of Tokyo Ghoul, sometimes the only way to fight monsters is to become one…",
@@ -2816,7 +2816,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421598246.jpg",
     stock: 2,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "In the world of Tokyo Ghoul, sometimes the only way to fight monsters is to become one…",
@@ -2833,7 +2833,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421598253.jpg",
     stock: 1,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "In the world of Tokyo Ghoul, sometimes the only way to fight monsters is to become one…",
@@ -2850,7 +2850,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/9747/9781974700387.jpg",
     stock: 0,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "In the world of Tokyo Ghoul, sometimes the only way to fight monsters is to become one…",
@@ -2867,7 +2867,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/9747/9781974700370.jpg",
     stock: 5,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "In the world of Tokyo Ghoul, sometimes the only way to fight monsters is to become one…",
@@ -2884,7 +2884,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/9747/9781974701537.jpg",
     stock: 7,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "In the world of Tokyo Ghoul, sometimes the only way to fight monsters is to become one…",
@@ -2901,7 +2901,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/9747/9781974704453.jpg",
     stock: 8,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "In the world of Tokyo Ghoul, sometimes the only way to fight monsters is to become one…",
@@ -2918,7 +2918,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/9747/9781974704569.jpg",
     stock: 6,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "In the world of Tokyo Ghoul, sometimes the only way to fight monsters is to become one…",
@@ -2935,7 +2935,7 @@ export default [
       "https://cdn.waterstones.com/override/v1/large/9781/9747/9781974707423.jpg",
     stock: 10,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "In the world of Tokyo Ghoul, sometimes the only way to fight monsters is to become one…",
@@ -2952,7 +2952,7 @@ export default [
       "https://cdn.waterstones.com/override/v1/large/9781/9747/9781974707423.jpg",
     stock: 10,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "A box set that includes all 16 volumes of the original Tokyo Ghoul: re series, with an exclusive double-sided poster.",
@@ -2969,7 +2969,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421599618.jpg",
     stock: 5,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "A deluxe bind-up edition of Naoki Urasawa's award-winning epic of doomsday cults, giant robots and a group of friends trying to save the world from destruction!",
@@ -2986,7 +2986,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421599625.jpg",
     stock: 3,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "A deluxe bind-up edition of Naoki Urasawa's award-winning epic of doomsday cults, giant robots and a group of friends trying to save the world from destruction!",
@@ -3003,7 +3003,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421599632.jpg",
     stock: 1,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "A deluxe bind-up edition of Naoki Urasawa's award-winning epic of doomsday cults, giant robots and a group of friends trying to save the world from destruction!",
@@ -3020,7 +3020,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421599649.jpg",
     stock: 0,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "A deluxe bind-up edition of Naoki Urasawa's award-winning epic of doomsday cults, giant robots and a group of friends trying to save the world from destruction!",
@@ -3037,7 +3037,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421599656.jpg",
     stock: 7,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "A deluxe bind-up edition of Naoki Urasawa's award-winning epic of doomsday cults, giant robots and a group of friends trying to save the world from destruction!",
@@ -3054,7 +3054,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421599663.jpg",
     stock: 6,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "A deluxe bind-up edition of Naoki Urasawa's award-winning epic of doomsday cults, giant robots and a group of friends trying to save the world from destruction!",
@@ -3071,7 +3071,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421599670.jpg",
     stock: 2,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "A deluxe bind-up edition of Naoki Urasawa's award-winning epic of doomsday cults, giant robots and a group of friends trying to save the world from destruction!",
@@ -3088,7 +3088,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421599687.jpg",
     stock: 4,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "A deluxe bind-up edition of Naoki Urasawa's award-winning epic of doomsday cults, giant robots and a group of friends trying to save the world from destruction!",
@@ -3105,7 +3105,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421599694.jpg",
     stock: 5,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "A deluxe bind-up edition of Naoki Urasawa's award-winning epic of doomsday cults, giant robots and a group of friends trying to save the world from destruction!",
@@ -3122,7 +3122,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421599700.jpg",
     stock: 3,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "A deluxe bind-up edition of Naoki Urasawa's award-winning epic of doomsday cults, giant robots and a group of friends trying to save the world from destruction!",
@@ -3139,7 +3139,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421599717.jpg",
     stock: 1,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "A deluxe bind-up edition of Naoki Urasawa's award-winning epic of doomsday cults, giant robots and a group of friends trying to save the world from destruction!",
@@ -3156,7 +3156,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421599724.jpg",
     stock: 1,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "A deluxe bind-up edition of Naoki Urasawa's award-winning epic of doomsday cults, giant robots and a group of friends trying to save the world from destruction!",
@@ -3173,7 +3173,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421520544.jpg",
     stock: 10,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "Striving for enlightenment by way of the sword, Miyamoto Musashi is prepared to cut down anyone who stands in his way. Vagabond is an action-packed portrayal of the life and times of the quintessential warrior-philosopher - the most celebrated samurai of all time!",
@@ -3190,7 +3190,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421522449.jpg",
     stock: 7,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "Striving for enlightenment by way of the sword, Miyamoto Musashi is prepared to cut down anyone who stands in his way. Vagabond is an action-packed portrayal of the life and times of the quintessential warrior-philosopher - the most celebrated samurai of all time!",
@@ -3207,7 +3207,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421522456.jpg",
     stock: 4,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "Striving for enlightenment by way of the sword, Miyamoto Musashi is prepared to cut down anyone who stands in his way. Vagabond is an action-packed portrayal of the life and times of the quintessential warrior-philosopher - the most celebrated samurai of all time!",
@@ -3224,7 +3224,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421522463.jpg",
     stock: 2,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "Striving for enlightenment by way of the sword, Miyamoto Musashi is prepared to cut down anyone who stands in his way. Vagabond is an action-packed portrayal of the life and times of the quintessential warrior-philosopher - the most celebrated samurai of all time!",
@@ -3241,7 +3241,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421522470.jpg",
     stock: 6,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "Striving for enlightenment by way of the sword, Miyamoto Musashi is prepared to cut down anyone who stands in his way. Vagabond is an action-packed portrayal of the life and times of the quintessential warrior-philosopher - the most celebrated samurai of all time!",
@@ -3258,7 +3258,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421522807.jpg",
     stock: 1,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "Striving for enlightenment by way of the sword, Miyamoto Musashi is prepared to cut down anyone who stands in his way. Vagabond is an action-packed portrayal of the life and times of the quintessential warrior-philosopher - the most celebrated samurai of all time!",
@@ -3275,7 +3275,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421522814.jpg",
     stock: 0,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "Striving for enlightenment by way of the sword, Miyamoto Musashi is prepared to cut down anyone who stands in his way. Vagabond is an action-packed portrayal of the life and times of the quintessential warrior-philosopher - the most celebrated samurai of all time!",
@@ -3292,7 +3292,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421522821.jpg",
     stock: 17,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "Striving for enlightenment by way of the sword, Miyamoto Musashi is prepared to cut down anyone who stands in his way. Vagabond is an action-packed portrayal of the life and times of the quintessential warrior-philosopher - the most celebrated samurai of all time!",
@@ -3309,7 +3309,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421523132.jpg",
     stock: 3,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "Striving for enlightenment by way of the sword, Miyamoto Musashi is prepared to cut down anyone who stands in his way. Vagabond is an action-packed portrayal of the life and times of the quintessential warrior-philosopher - the most celebrated samurai of all time!",
@@ -3326,7 +3326,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421529158.jpg",
     stock: 5,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "Striving for enlightenment by way of the sword, Miyamoto Musashi is prepared to cut down anyone who stands in his way. Vagabond is an action-packed portrayal of the life and times of the quintessential warrior-philosopher - the most celebrated samurai of all time!",
@@ -3343,7 +3343,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421549293.jpg",
     stock: 2,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "Striving for enlightenment by way of the sword, Miyamoto Musashi is prepared to cut down anyone who stands in his way. Vagabond is an action-packed portrayal of the life and times of the quintessential warrior-philosopher - the most celebrated samurai of all time!",
@@ -3360,7 +3360,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421573342.jpg",
     stock: 1,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "Striving for enlightenment by way of the sword, Miyamoto Musashi is prepared to cut down anyone who stands in his way. Vagabond is an action-packed portrayal of the life and times of the quintessential warrior-philosopher - the most celebrated samurai of all time!",
@@ -3377,7 +3377,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421561325.jpg",
     stock: 4,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Hardcover",
     publisher: "Viz Media",
     synopsis:
       "A fogbound Japanese coastal town is held in the thrall to the mysterious spiral in Ito’s darkly atmospheric and unnerving classic of uncanny, encroaching dread.",
@@ -3394,7 +3394,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421590561.jpg",
     stock: 2,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Hardcover",
     publisher: "Viz Media",
     synopsis:
       "The complete classic horror series, now available in a single deluxe volume. Murdered again and again, one girl always comes back for more... ",
@@ -3411,7 +3411,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421579153.jpg",
     stock: 6,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Hardcover",
     publisher: "Viz Media",
     synopsis:
       " Here is the creepiest masterpiece of horror manga ever from the creator of Uzumaki, Junji Ito. Hold your breath until all is revealed.",
@@ -3428,7 +3428,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421598468.jpg",
     stock: 3,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Hardcover",
     publisher: "Viz Media",
     synopsis:
       "Thirteen chilling nightmares, presented by the master of horror.",
@@ -3445,7 +3445,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421580791.jpg",
     stock: 5,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Hardcover",
     publisher: "Viz Media",
     synopsis:
       "Ranging from the terrifying to the comedic and even the loathsome, these stories showcase Junji Ito's long-awaited return to the world of horror.",
@@ -3462,7 +3462,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421596938.jpg",
     stock: 2,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Hardcover",
     publisher: "Viz Media",
     synopsis:
       "This volume includes nine of Junji Ito's best short stories, as selected by the author himself and presented with accompanying notes and commentary.",
@@ -3479,7 +3479,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/9747/9781974707096.jpg",
     stock: 1,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Hardcover",
     publisher: "Viz Media",
     synopsis:
       "Manga legend Junji Ito transforms Osamu Dazai's Japanese classic of mental breakdown and spiralling psychosis into a visceral visual feast for the senses.",
@@ -3496,7 +3496,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/9747/9781974703760.jpg",
     stock: 4,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Hardcover",
     publisher: "Viz Media",
     synopsis:
       "The master of horror manga brings the world's greatest horror novel-Frankenstein-back to life.",
@@ -3513,7 +3513,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421586205.jpg",
     stock: 3,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis: "Meet Punpun Punyama. He's an average kid in an average town.",
   },
@@ -3529,7 +3529,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421586212.jpg",
     stock: 1,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis: "Meet Punpun Punyama. He's an average kid in an average town.",
   },
@@ -3545,7 +3545,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421586229.jpg",
     stock: 5,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis: "Meet Punpun Punyama. He's an average kid in an average town.",
   },
@@ -3561,7 +3561,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421586236.jpg",
     stock: 0,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis: "Meet Punpun Punyama. He's an average kid in an average town.",
   },
@@ -3577,7 +3577,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421586243.jpg",
     stock: 2,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis: "Meet Punpun Punyama. He's an average kid in an average town.",
   },
@@ -3593,7 +3593,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421586250.jpg",
     stock: 2,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis: "Meet Punpun Punyama. He's an average kid in an average town.",
   },
@@ -3609,7 +3609,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421586267.jpg",
     stock: 0,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis: "Meet Punpun Punyama. He's an average kid in an average town.",
   },
@@ -3625,7 +3625,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/5693/9781569319017.jpg",
     stock: 10,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "Follow the riotous adventures of a boy pirate with a rubberised body in Oda’s effervescent comic epic packed with unforgettable characters and spectacular set-pieces. ",
@@ -3642,7 +3642,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591160571.jpg",
     stock: 7,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "Follow the riotous adventures of a boy pirate with a rubberised body in Oda’s effervescent comic epic packed with unforgettable characters and spectacular set-pieces. ",
@@ -3659,7 +3659,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591161844.jpg",
     stock: 3,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "Follow the riotous adventures of a boy pirate with a rubberised body in Oda’s effervescent comic epic packed with unforgettable characters and spectacular set-pieces. ",
@@ -3676,7 +3676,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591163374.jpg",
     stock: 5,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "Follow the riotous adventures of a boy pirate with a rubberised body in Oda’s effervescent comic epic packed with unforgettable characters and spectacular set-pieces. ",
@@ -3693,7 +3693,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591166153.jpg",
     stock: 9,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "Follow the riotous adventures of a boy pirate with a rubberised body in Oda’s effervescent comic epic packed with unforgettable characters and spectacular set-pieces. ",
@@ -3710,7 +3710,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591167235.jpg",
     stock: 2,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "Follow the riotous adventures of a boy pirate with a rubberised body in Oda’s effervescent comic epic packed with unforgettable characters and spectacular set-pieces. ",
@@ -3727,7 +3727,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591168522.jpg",
     stock: 4,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "Follow the riotous adventures of a boy pirate with a rubberised body in Oda’s effervescent comic epic packed with unforgettable characters and spectacular set-pieces. ",
@@ -3744,7 +3744,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421500751.jpg",
     stock: 0,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "Follow the riotous adventures of a boy pirate with a rubberised body in Oda’s effervescent comic epic packed with unforgettable characters and spectacular set-pieces. ",
@@ -3761,7 +3761,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421560748.jpg",
     stock: 5,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "This box set includes volumes 1-23, which comprise the first two story arcs, East Blue and Baroque Works.",
@@ -3778,7 +3778,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421576060.jpg",
     stock: 20,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "This set includes volumes 24-46, which comprise the third and fourth story arcs of the series, Skypeia and Water Seven.",
@@ -3795,7 +3795,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421590523.jpg",
     stock: 0,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "The third One Piece Box Set contains the arcs Thriller Bark, Sabaody, Impel Down, Paramount War, and New World, which make up vols. 47-70 of the original manga.",
@@ -3812,7 +3812,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/9747/9781974725960.jpg",
     stock: 10,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "The fourth One Piece Box Set contains volumes 71-90, which make up the Dressrosa, Zou, Whole Cake Island, and Reverie arcs.",
@@ -3829,7 +3829,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591164418.jpg",
     stock: 10,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "Ichigo Kurosaki never asked for the ability to see ghosts-he was born with the gift. When his family is attacked by a Hollow-a malevolent lost soul-Ichigo becomes a Soul Reaper, dedicating his life to protecting the innocent and helping the tortured spirits themselves find peace.",
@@ -3846,7 +3846,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591164425.jpg",
     stock: 12,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "Ichigo Kurosaki never asked for the ability to see ghosts-he was born with the gift. When his family is attacked by a Hollow-a malevolent lost soul-Ichigo becomes a Soul Reaper, dedicating his life to protecting the innocent and helping the tortured spirits themselves find peace.",
@@ -3863,7 +3863,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591164432.jpg",
     stock: 8,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "Ichigo Kurosaki never asked for the ability to see ghosts-he was born with the gift. When his family is attacked by a Hollow-a malevolent lost soul-Ichigo becomes a Soul Reaper, dedicating his life to protecting the innocent and helping the tortured spirits themselves find peace.",
@@ -3880,7 +3880,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591164449.jpg",
     stock: 11,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "Ichigo Kurosaki never asked for the ability to see ghosts-he was born with the gift. When his family is attacked by a Hollow-a malevolent lost soul-Ichigo becomes a Soul Reaper, dedicating his life to protecting the innocent and helping the tortured spirits themselves find peace.",
@@ -3897,7 +3897,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591164456.jpg",
     stock: 9,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "Ichigo Kurosaki never asked for the ability to see ghosts-he was born with the gift. When his family is attacked by a Hollow-a malevolent lost soul-Ichigo becomes a Soul Reaper, dedicating his life to protecting the innocent and helping the tortured spirits themselves find peace.",
@@ -3914,7 +3914,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591167280.jpg",
     stock: 13,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "Ichigo Kurosaki never asked for the ability to see ghosts-he was born with the gift. When his family is attacked by a Hollow-a malevolent lost soul-Ichigo becomes a Soul Reaper, dedicating his life to protecting the innocent and helping the tortured spirits themselves find peace.",
@@ -3931,7 +3931,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591168072.jpg",
     stock: 0,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "Ichigo Kurosaki never asked for the ability to see ghosts-he was born with the gift. When his family is attacked by a Hollow-a malevolent lost soul-Ichigo becomes a Soul Reaper, dedicating his life to protecting the innocent and helping the tortured spirits themselves find peace.",
@@ -3948,7 +3948,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421526102.jpg",
     stock: 10,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "Contains volumes 1-21 and an exclusive double-sided poster and character book!",
@@ -3965,7 +3965,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421580814.jpg",
     stock: 10,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "The second Bleach Box Set. This set features volumes 22-48, along with an exclusive mini-comic containing the pilot story of the series and a full-colour, double-sided poster.",
@@ -3982,7 +3982,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/9747/9781974703197.jpg",
     stock: 5,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "The third and final Bleach manga box set. This set completes the series, featuring volumes 49-74, along with an exclusive booklet containing a cover art gallery and author interview, as well as a full-color, double-sided poster.",
@@ -3999,7 +3999,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/5693/9781569319000.jpg",
     stock: 20,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "Naruto is a ninja-in-training with a need for attention, a knack for mischief, and sealed within him, a strange, formidable power. His antics amuse his instructor Kakashi and irritate his teammates, intense Sasuki and witty Sakura, but Naruto is serious about becoming the greatest ninja in the village of Konohagakure!",
@@ -4016,7 +4016,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591161783.jpg",
     stock: 15,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "Naruto is a ninja-in-training with a need for attention, a knack for mischief, and sealed within him, a strange, formidable power. His antics amuse his instructor Kakashi and irritate his teammates, intense Sasuki and witty Sakura, but Naruto is serious about becoming the greatest ninja in the village of Konohagakure!",
@@ -4033,7 +4033,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/5911/9781591161875.jpg",
     stock: 25,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "Naruto is a ninja-in-training with a need for attention, a knack for mischief, and sealed within him, a strange, formidable power. His antics amuse his instructor Kakashi and irritate his teammates, intense Sasuki and witty Sakura, but Naruto is serious about becoming the greatest ninja in the village of Konohagakure!",
@@ -4050,7 +4050,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421525822.jpg",
     stock: 50,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "Includes volumes 1-27 of Naruto, plus an exclusive double-sided poster and character book!",
@@ -4067,7 +4067,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421580807.jpg",
     stock: 25,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "Includes volumes 28-48 of Naruto, plus an exclusive double-sided poster and character book!",
@@ -4084,7 +4084,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/4215/9781421583341.jpg",
     stock: 5,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Viz Media",
     synopsis:
       "Includes volumes 49-72 of Naruto, plus an exclusive double-sided poster and character book!",
@@ -4101,7 +4101,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/6126/9781612624204.jpg",
     stock: 10,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Hardcover",
     publisher: "Kodansha",
     synopsis:
       "Amid the chaos of the Viking war for dominance over England, a boy has everything taken from him and vows revenge. But violent dreams bring no peace...",
@@ -4118,7 +4118,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/6126/9781612624211.jpg",
     stock: 8,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Hardcover",
     publisher: "Kodansha",
     synopsis:
       "Amid the chaos of the Viking war for dominance over England, a boy has everything taken from him and vows revenge. But violent dreams bring no peace...",
@@ -4135,7 +4135,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/6126/9781612624228.jpg",
     stock: 12,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Hardcover",
     publisher: "Kodansha",
     synopsis:
       "Amid the chaos of the Viking war for dominance over England, a boy has everything taken from him and vows revenge. But violent dreams bring no peace...",
@@ -4152,7 +4152,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/6126/9781612629711.jpg",
     stock: 5,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Kodansha",
     synopsis:
       "One hundred years after a race of giants destroyed most of humanity, these terrifying Titans return to wreak slaughter on a barricaded city in the first instalment of Isayama’s exhilarating and wildly popular series.",
@@ -4169,7 +4169,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/6323/9781632361813.jpg",
     stock: 7,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Kodansha",
     synopsis:
       "One hundred years after a race of giants destroyed most of humanity, these terrifying Titans return to wreak slaughter on a barricaded city in the first instalment of Isayama’s exhilarating and wildly popular series.",
@@ -4186,7 +4186,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/6323/9781632362957.jpg",
     stock: 3,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Kodansha",
     synopsis:
       "One hundred years after a race of giants destroyed most of humanity, these terrifying Titans return to wreak slaughter on a barricaded city in the first instalment of Isayama’s exhilarating and wildly popular series.",
@@ -4203,7 +4203,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/6323/9781632364647.jpg",
     stock: 10,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Kodansha",
     synopsis:
       "One hundred years after a race of giants destroyed most of humanity, these terrifying Titans return to wreak slaughter on a barricaded city in the first instalment of Isayama’s exhilarating and wildly popular series.",
@@ -4220,7 +4220,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/6323/9781632366566.jpg",
     stock: 2,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Kodansha",
     synopsis:
       "One hundred years after a race of giants destroyed most of humanity, these terrifying Titans return to wreak slaughter on a barricaded city in the first instalment of Isayama’s exhilarating and wildly popular series.",
@@ -4237,7 +4237,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/6465/9781646512782.jpg",
     stock: 8,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Kodansha",
     synopsis:
       "One hundred years after a race of giants destroyed most of humanity, these terrifying Titans return to wreak slaughter on a barricaded city in the first instalment of Isayama’s exhilarating and wildly popular series.",
@@ -4254,7 +4254,7 @@ export default [
       "https://cdn.waterstones.com/bookjackets/large/9781/6465/9781646515653.jpg",
     stock: 12,
     quantitySold: 0,
-    booktype:"",
+    booktype:"Paperback",
     publisher: "Kodansha",
     synopsis:
       "One hundred years after a race of giants destroyed most of humanity, these terrifying Titans return to wreak slaughter on a barricaded city in the first instalment of Isayama’s exhilarating and wildly popular series.",
