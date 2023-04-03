@@ -307,7 +307,7 @@ export default [
   },
   {
     category: "Fiction",
-    subcategory:"Thrillers & Mystery",
+    subcategory:"Thrillers, Crime & Mystery",
     title: "The Da Vinci Code",
     author: "Dan Brown",
     pageCount: 489,
@@ -392,7 +392,7 @@ export default [
   },
   {
     category: "Fiction",
-    subcategory:"Thrillers & Mystery",
+    subcategory:"Thrillers, Crime & Mystery",
     title: "A Fatal Crossing",
     author: "Tom Hindle",
     pageCount: 464,
@@ -409,7 +409,7 @@ export default [
   },
   {
     category: "Fiction",
-    subcategory:"Thrillers & Mystery",
+    subcategory:"Thrillers, Crime & Mystery",
     title: "American Psycho",
     author: "Bret Easton Ellis",
     pageCount: 416,
@@ -443,7 +443,7 @@ export default [
   },
   {
     category: "Fiction",
-    subcategory:"Thrillers & Mystery",
+    subcategory:"Thrillers, Crime & Mystery",
     title: "Silverview",
     author: "John le Carré",
     pageCount: 272,
@@ -528,7 +528,7 @@ export default [
   },
   {
     category: "Fiction",
-    subcategory:"Thrillers & Mystery",
+    subcategory:"Thrillers, Crime & Mystery",
     title: "A Slow Fire Burning",
     author: "Paula Hawkins",
     pageCount: 400,
@@ -596,7 +596,7 @@ export default [
   },
   {
     category: "Fiction",
-    subcategory:"Thrillers & Mystery",
+    subcategory:"Thrillers, Crime & Mystery",
     title: "Amongst Our Weapons",
     author: "Ben Aaronovitch",
     pageCount: 432,
@@ -613,7 +613,7 @@ export default [
   },
   {
     category: "Fiction",
-    subcategory:"Thrillers & Mystery",
+    subcategory:"Thrillers, Crime & Mystery",
     title: "Death and Croissants",
     author: "Ian Moore",
     pageCount: 288,
@@ -630,7 +630,7 @@ export default [
   },
   {
     category: "Fiction",
-    subcategory:"Thrillers & Mystery",
+    subcategory:"Thrillers, Crime & Mystery",
     title: "The Space Between Us",
     author: "Doug Johnstone",
     pageCount: 300,
@@ -647,7 +647,7 @@ export default [
   },
   {
     category: "Fiction",
-    subcategory:"Thrillers & Mystery",
+    subcategory:"Thrillers, Crime & Mystery",
     title: "The Lamplighters",
     author: "Emma Stonex",
     pageCount: 368,
@@ -698,7 +698,7 @@ export default [
   },
   {
     category: "Fiction",
-    subcategory:"Thrillers & Mystery",
+    subcategory:"Thrillers, Crime & Mystery",
     title: "The Cloisters",
     author: "Katy Hays",
     pageCount: 320,
@@ -834,7 +834,7 @@ export default [
   },
   {
     category: "Fiction",
-    subcategory:"Thrillers & Mystery",
+    subcategory:"Thrillers, Crime & Mystery",
     title: "The Maidens",
     author: "Alex Michaelides",
     pageCount: 368,
@@ -851,7 +851,7 @@ export default [
   },
   {
     category: "Fiction",
-    subcategory:"Thrillers & Mystery",
+    subcategory:"Thrillers, Crime & Mystery",
     title: "The Ashes of London",
     author: "Andrew Taylor",
     pageCount: 496,
@@ -953,7 +953,7 @@ export default [
   },
   {
     category: "Fiction",
-    subcategory:"Thrillers & Mystery",
+    subcategory:"Thrillers, Crime & Mystery",
     title: "Lady Joker",
     author: "Kaoru Takamura",
     pageCount: 592,
@@ -1089,7 +1089,7 @@ export default [
   },
   {
     category: "Fiction",
-    subcategory:"Thrillers & Mystery",
+    subcategory:"Thrillers, Crime & Mystery",
     title: "Unsettled Ground",
     author: "Claire Fuller",
     pageCount: 304,
@@ -1123,7 +1123,7 @@ export default [
   },
   {
     category: "Fiction",
-    subcategory:"Thrillers & Mystery",
+    subcategory:"Thrillers, Crime & Mystery",
     title: "Devil House",
     author: "John Darnielle",
     pageCount: 416,
@@ -1174,7 +1174,7 @@ export default [
   },
   {
     category: "Fiction",
-    subcategory:"Thrillers & Mystery",
+    subcategory:"Thrillers, Crime & Mystery",
     title: "A Helping Hand",
     author: "Celia Dale",
     pageCount: 190,
@@ -1225,7 +1225,7 @@ export default [
   },
   {
     category: "Fiction",
-    subcategory:"Thrillers & Mystery",
+    subcategory:"Thrillers, Crime & Mystery",
     title: "The Talented Mr Ripley",
     author: "Patricia Highsmith",
     pageCount: 272,
@@ -1276,7 +1276,7 @@ export default [
   },
   {
     category: "Fiction",
-    subcategory:"Thrillers & Mystery",
+    subcategory:"Thrillers, Crime & Mystery",
     title: "The Dark Hours",
     author: "Michael Connelly",
     pageCount: 480,
@@ -1327,7 +1327,7 @@ export default [
   },
   {
     category: "Fiction",
-    subcategory:"Thrillers & Mystery",
+    subcategory:"Thrillers, Crime & Mystery",
     title: "The Dinner Guest",
     author: "B P Walter",
     pageCount: 416,
@@ -1344,7 +1344,7 @@ export default [
   },
   {
     category: "Fiction",
-    subcategory:"Thrillers & Mystery",
+    subcategory:"Thrillers, Crime & Mystery",
     title: "The Game",
     author: "Scott Kershaw",
     pageCount: 448,
@@ -1378,7 +1378,7 @@ export default [
   },
   {
     category: "Fiction",
-    subcategory:"Thrillers & Mystery",
+    subcategory:"Thrillers, Crime & Mystery",
     title: "Life Ceremony",
     author: "Sayaka Murata",
     pageCount: 272,
@@ -1616,7 +1616,7 @@ export default [
   },
   {
     category: "Fiction",
-    subcategory:"Thrillers & Mystery",
+    subcategory:"Thrillers, Crime & Mystery",
     title: "The Stranger Times",
     author: "C. K. McDonnell",
     pageCount: 448,
@@ -1650,7 +1650,7 @@ export default [
   },
   {
     category: "Fiction",
-    subcategory:"Thrillers & Mystery",
+    subcategory:"Thrillers, Crime & Mystery",
     title: "Squeaky Clean",
     author: "Callum McSorley",
     pageCount: 384,
@@ -1701,7 +1701,7 @@ export default [
   },
   {
     category: "Fiction",
-    subcategory:"Classic",
+    subcategory:"Classic Fiction",
     title: "Oliver Twist",
     author: "Charles Dickens",
     pageCount: 608,
@@ -2959,7 +2959,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"Thrillers & MysteryThrillers & Mystery",
+    subcategory:"Thrillers, Crime & Mystery",
     title: "20th Century Boys, Vol. 1",
     author: "Naoki Urasawa",
     pageCount: 416,
@@ -2976,7 +2976,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"Thrillers & Mystery",
+    subcategory:"Thrillers, Crime & Mystery",
     title: "20th Century Boys, Vol. 2",
     author: "Naoki Urasawa",
     pageCount: 416,
@@ -2993,7 +2993,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"Thrillers & Mystery",
+    subcategory:"Thrillers, Crime & Mystery",
     title: "20th Century Boys, Vol. 3",
     author: "Naoki Urasawa",
     pageCount: 416,
@@ -3010,7 +3010,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"Thrillers & Mystery",
+    subcategory:"Thrillers, Crime & Mystery",
     title: "20th Century Boys, Vol. 4",
     author: "Naoki Urasawa",
     pageCount: 416,
@@ -3027,7 +3027,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"Thrillers & Mystery",
+    subcategory:"Thrillers, Crime & Mystery",
     title: "20th Century Boys, Vol. 5",
     author: "Naoki Urasawa",
     pageCount: 416,
@@ -3044,7 +3044,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"Thrillers & Mystery",
+    subcategory:"Thrillers, Crime & Mystery",
     title: "20th Century Boys, Vol. 6",
     author: "Naoki Urasawa",
     pageCount: 416,
@@ -3061,7 +3061,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"Thrillers & Mystery",
+    subcategory:"Thrillers, Crime & Mystery",
     title: "20th Century Boys, Vol. 7",
     author: "Naoki Urasawa",
     pageCount: 416,
@@ -3078,7 +3078,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"Thrillers & Mystery",
+    subcategory:"Thrillers, Crime & Mystery",
     title: "20th Century Boys, Vol. 8",
     author: "Naoki Urasawa",
     pageCount: 416,
@@ -3095,7 +3095,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"Thrillers & Mystery",
+    subcategory:"Thrillers, Crime & Mystery",
     title: "20th Century Boys, Vol. 9",
     author: "Naoki Urasawa",
     pageCount: 424,
@@ -3112,7 +3112,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"Thrillers & Mystery",
+    subcategory:"Thrillers, Crime & Mystery",
     title: "20th Century Boys, Vol. 10",
     author: "Naoki Urasawa",
     pageCount: 424,
@@ -3129,7 +3129,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"Thrillers & Mystery",
+    subcategory:"Thrillers, Crime & Mystery",
     title: "20st Century Boys , Vol. 11",
     author: "Naoki Urasawa",
     pageCount: 424,
@@ -3146,7 +3146,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"Thrillers & Mystery",
+    subcategory:"Thrillers, Crime & Mystery",
     title: "21st Century Boys",
     author: "Naoki Urasawa",
     pageCount: 424,
