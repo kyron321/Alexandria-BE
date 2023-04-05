@@ -2706,6 +2706,42 @@ export default [
 
 
   {
+    category: "Non-Fiction",
+    subcategory:"Science, Technology & Medicine",
+    title: "A Fortunate Woman",
+    author: "Polly Morland",
+    pageCount: 256,
+    price: 9.99,
+    publicationDate: "02/03/2023",
+    thumbnail:
+    "https://cdn.waterstones.com/bookjackets/large/9781/5290/9781529071177.jpg",
+    stock: 10,
+    quantitySold: 10,
+    booktype:"Paperback",
+    publisher: "Pan Macmillan",
+    synopsis:
+    "A finely-wrought meditation on the relationship between landscape, community and the role of medicine in society, Morland’s moving and insightful examination of the role of a country doctor makes for truly fascinating reading.",
+  },
+  {
+    category: "Non-Fiction",
+    subcategory:"Science, Technology & Medicine",
+    title: "Otherlands: A World in the Making",
+    author: "Thomas Halliday",
+    pageCount: 416,
+    price: 10.99,
+    publicationDate: "02/03/2023",
+    thumbnail:
+    "https://cdn.waterstones.com/bookjackets/large/9781/5290/9781529071177.jpg",
+    stock: 10,
+    quantitySold: 10,
+    booktype:"Paperback",
+    publisher: "Pan Macmillan",
+    synopsis:
+    "A finely-wrought meditation on the relationship between landscape, community and the role of medicine in society, Morland’s moving and insightful examination of the role of a country doctor makes for truly fascinating reading.",
+  },
+
+
+  {
     category: "Manga",
     subcategory:"Horror",
     title: "Tokyo Ghoul, Vol. 1",

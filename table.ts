@@ -3,7 +3,6 @@ import AWS from 'aws-sdk';
 AWS.config.update({ region: 'eu-west-1' });
 
 const dynamoDb = new AWS.DynamoDB();
-
 const params = {
     AttributeDefinitions: [
       {
@@ -49,10 +48,6 @@ const params = {
         Projection: {
           ProjectionType: 'ALL'
         },
-        ProvisionedThroughput: {
-          ReadCapacityUnits: 5,
-          WriteCapacityUnits: 5
-        }
       },
       {
         IndexName: 'category-subcategory-index',
@@ -69,24 +64,16 @@ const params = {
         Projection: {
           ProjectionType: 'ALL'
         },
-        ProvisionedThroughput: {
-          ReadCapacityUnits: 5,
-          WriteCapacityUnits: 5
-        }
       }
     ],
-    ProvisionedThroughput: {
-      ReadCapacityUnits: 5,
-      WriteCapacityUnits: 5
-    },
+    BillingMode: 'PAY_PER_REQUEST',
     TableName: 'alexandria-test'
   };
   
-
-dynamoDb.createTable(params, (err, data) => {
-  if (err) {
-    console.log('Error creating table:', err);
-  } else {
-    console.log('Table created:', data);
-  }
-});
+    dynamoDb.createTable(params, (err, data) => {
+        if (err) {
+        console.log('Error creating table:', err);
+        } else {
+        console.log('Table created:', data);
+        }
+    });
