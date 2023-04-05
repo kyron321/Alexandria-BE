@@ -3503,7 +3503,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"Psychological",
+    subcategory:"Thrillers, Crime & Mystery",
     title: "Goodnight Punpun, Vol. 1",
     author: "Inio Asano",
     pageCount: 448,
@@ -3519,7 +3519,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"Psychological",
+    subcategory:"Thrillers, Crime & Mystery",
     title: "Goodnight Punpun, Vol. 2",
     author: "Inio Asano",
     pageCount: 448,
@@ -3535,7 +3535,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"Psychological",
+    subcategory:"Thrillers, Crime & Mystery",
     title: "Goodnight Punpun, Vol. 3",
     author: "Inio Asano",
     pageCount: 448,
@@ -3551,7 +3551,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"Psychological",
+    subcategory:"Thrillers, Crime & Mystery",
     title: "Goodnight Punpun, Vol. 4",
     author: "Inio Asano",
     pageCount: 448,
@@ -3567,7 +3567,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"Psychological",
+    subcategory:"Thrillers, Crime & Mystery",
     title: "Goodnight Punpun, Vol. 5",
     author: "Inio Asano",
     pageCount: 448,
@@ -3583,7 +3583,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"Psychological",
+    subcategory:"Thrillers, Crime & Mystery",
     title: "Goodnight Punpun, Vol. 6",
     author: "Inio Asano",
     pageCount: 448,
@@ -3599,7 +3599,7 @@ export default [
   },
   {
     category: "Manga",
-    subcategory:"Psychological",
+    subcategory:"Thrillers, Crime & Mystery",
     title: "Goodnight Punpun, Vol. 7",
     author: "Inio Asano",
     pageCount: 448,
