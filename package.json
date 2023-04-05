@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "seed":"ts-node --esm seed.ts"
+    "seed": "ts-node --esm seed.ts",
+    "create-table": "ts-node --esm table.ts"
   },
   "devDependencies": {
     "typescript": "^5.0.2"
@@ -8,6 +9,7 @@
   "dependencies": {
     "@aws-sdk/client-dynamodb": "^3.298.0",
     "@aws-sdk/lib-dynamodb": "^3.298.0",
-    "@aws-sdk/util-dynamodb": "^3.298.0"
+    "@aws-sdk/util-dynamodb": "^3.298.0",
+    "aws-sdk": "^2.1351.0"
   }
 }
