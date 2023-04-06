@@ -1,7 +1,8 @@
 {
   "scripts": {
     "seed": "ts-node --esm seed.ts",
-    "create-table": "ts-node --esm table.ts"
+    "create-table": "ts-node --esm table.ts",
+    "delete-table": "ts-node --esm delete.ts"
   },
   "devDependencies": {
     "typescript": "^5.0.2"
