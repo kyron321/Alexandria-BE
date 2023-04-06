@@ -6,7 +6,7 @@ AWS.config.update({
 
 const dynamodb = new AWS.DynamoDB();
 
-const tableName = 'alexandria-test';
+const tableName = 'alexandria-db';
 
 dynamodb.deleteTable({ TableName: tableName }, (err, data) => {
   if (err) {

@@ -67,7 +67,7 @@ const params = {
       }
     ],
     BillingMode: 'PAY_PER_REQUEST',
-    TableName: 'alexandria-test'
+    TableName: 'alexandria-db'
   };
   
     dynamoDb.createTable(params, (err, data) => {
